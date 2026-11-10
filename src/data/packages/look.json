@@ -1,0 +1,76 @@
+{
+  "displayOrder": 4,
+  "slug": "look",
+  "packageType": "one_time_bundle",
+  "isVisible": true,
+  "isHighlighted": false,
+  "internalPriceSar": 3200,
+  "ar": {
+    "name": "واجهة المحل (Look)",
+    "positioningSubline": "باقة تأسيس لمرة واحدة — هوية ومطبوعات تفتح النفس",
+    "badgeText": "تأسيس لمرة واحدة",
+    "description": "مخصصة للمحلات الجديدة أو اللي بتجدد واجهتها وهويتها ومنيوهاتها دفعة واحدة.",
+    "quantifiedDeliverables": {
+      "reelsCountText": "هوية كاملة + لوحة + منيو + تغليف",
+      "reportingCadence": "تسليم خلال ١٠–١٤ يوم عمل"
+    },
+    "featureBullets": [
+      {
+        "text": "تصميم الشعار والهوية البصرية الكاملة (الألوان والخطوط)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "تصميم لوحة المحل الخارجية وملصقات الواجهة الزجاجية",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "تصميم المنيو أو قائمة الأسعار والخدمات",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "تصميم الأكياس، العلب، أو الأكواب + كرت العمل والختم",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "تسليم جميع الملفات المفتوحة والجاهزة للمطبعة فورًا",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "اطلب باقة واجهة المحل",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة التأسيس «واجهة المحل (Look)»."
+  },
+  "en": {
+    "name": "Shop Look (Starter Bundle)",
+    "positioningSubline": "One-time starter bundle — complete visual identity & shop print kit",
+    "badgeText": "One-time setup",
+    "description": "Designed for new shop openings or existing shops refreshing their logo, storefront signage, menu, and packaging.",
+    "quantifiedDeliverables": {
+      "reelsCountText": "Logo + Sign + Menu + Packaging",
+      "reportingCadence": "Delivered in 10–14 business days"
+    },
+    "featureBullets": [
+      {
+        "text": "Complete logo design and visual identity system (colours & fonts)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "Exterior storefront sign and window decal design",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "Menu or service price list design",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "Branded bags/boxes/cups + business card and stamp design",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "All open source and press-ready files delivered",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "Request Shop Look bundle",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about the \"Shop Look\" one-time starter bundle."
+  }
+}

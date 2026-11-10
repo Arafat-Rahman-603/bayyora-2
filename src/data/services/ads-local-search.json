@@ -1,0 +1,109 @@
+{
+  "displayOrder": 7,
+  "slug": "ads-local-search",
+  "iconName": "map-pin",
+  "ar": {
+    "name": "إعلانات وخرائط جوجل",
+    "benefitHeadline": "خلّ الناس يلقونك أول",
+    "shortDescription": "توثيق وترتيب ملفك في خرائط جوجل + إدارة إعلانات ممولة مستهدفة لأهل منطقتك.",
+    "heroSubheadline": "نضبط حضور محلّك في خرائط جوجل عشان تطلع للناس اللي يبحثون قريب منك، وندير حملاتك الإعلانية بميزانية مدروسة تجيب لك زيارات واتصالات.",
+    "problemStatement": "واحد واقف في نفس الشارع ويبحث في خرائط جوجل عن «كافيه قريب» أو «صيدلية» ومحلّك ما يطلع له لأن ملفك في جوجل ناقص أو بدون صور وساعات عمل محدثة.",
+    "deliverables": [
+      {
+        "itemText": "إنشاء وتوثيق وترتيب ملف النشاط التجاري في خرائط جوجل (Google Business Profile)"
+      },
+      {
+        "itemText": "إضافة التصنيفات الصحيحة، ساعات العمل، الصور المحدثة، وروابط المنيو والواتساب"
+      },
+      {
+        "itemText": "تصميم بطاقة وجدول عملي لتشجيع زبائنك الحقيقيين على كتابة تقييماتهم في جوجل"
+      },
+      {
+        "itemText": "إدارة الإعلانات الممولة في سناب شات وتيك توك وإنستغرام وجوجل باستهداف جغرافي دقيق حول محلّك"
+      }
+    ],
+    "packageInclusionNote": "تجهيز خرائط جوجل مشمول في «بداية» و«انطلاقة أونلاين»، وإدارة الإعلانات الممولة مشمولة في باقتي «نمو» و«ريادة» (ميزانية المنصة الإعلانية يدفعها العميل مباشرة).",
+    "processSteps": [
+      {
+        "stepTitle": "نفحص ظهورك الحالي في الخريطة",
+        "stepDescription": "نشوف كيف يظهر محلّك مقارنة بالمحلات القريبة منك في نفس الحي."
+      },
+      {
+        "stepTitle": "نكمّل الملف ونطلق الاستهداف المحلي",
+        "stepDescription": "نحدّث كل بيانات الخريطة ونوجّه الإعلانات لسكان الأحياء القريبة منك."
+      },
+      {
+        "stepTitle": "نتابع الاتصالات وطلبات الاتجاهات",
+        "stepDescription": "نعرض لك عدد الاتصالات وطلبات الموقع والرسائل الشهرية بوضوح."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "هل ميزانية الإعلانات الممولة داخلة في سعر الباقة؟",
+        "answer": "أجور إدارة وتجهيز الحملات مشمولة في باقتي «نمو» و«ريادة»، أما ميزانية المنصة الإعلانية (سناب/تيك توك/جوجل) فيدفعها العميل مباشرة من بطاقته للمنصة حسب الميزانية التي يختارها."
+      },
+      {
+        "question": "هل تشترون تقييمات وهمية في خرائط جوجل؟",
+        "answer": "لا أبدًا. التقييمات الوهمية مخالفة للأنظمة وتعرّض ملف محلّك للإغلاق من جوجل. نحن نصمّم لك بطاقات باركود (QR) ذكية على الطاولات والأكياس تحفّز زبائنك الحقيقيين على تقييم تجربتهم."
+      }
+    ],
+    "primaryCtaLabel": "أبغى أظهر في خرائط جوجل والإعلانات",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن تحسين خرائط جوجل والإعلانات الممولة لمحلي.",
+    "seo": {
+      "metaTitle": "تحسين خرائط جوجل وإعلانات ممولة للمحلات في الأحساء والشرقية | بيّورا",
+      "metaDescription": "توثيق وترتيب ملف المحل في خرائط جوجل وإدارة إعلانات سناب شات وتيك توك وإنستغرام وجوجل للمحلات في الأحساء والدمام والخبر."
+    }
+  },
+  "en": {
+    "name": "Ads and local search",
+    "benefitHeadline": "Help nearby customers find you first",
+    "shortDescription": "Google Business Profile optimization on Google Maps plus targeted local paid ads on Snap, TikTok, Instagram, and Google.",
+    "heroSubheadline": "We optimize your Google Maps listing so nearby searchers find you first, and manage hyper-local ad campaigns aimed at real store visits and calls.",
+    "problemStatement": "Customers blocks away search Google Maps for what you sell, but your shop never appears because your Google Business Profile is incomplete or unverified.",
+    "deliverables": [
+      {
+        "itemText": "Full setup, verification, and optimization of your Google Business Profile on Google Maps"
+      },
+      {
+        "itemText": "Accurate primary/secondary categories, working hours, fresh photos, and menu/WhatsApp links"
+      },
+      {
+        "itemText": "Tabletop QR review card and workflow to help real customers leave honest Google reviews"
+      },
+      {
+        "itemText": "Geo-targeted paid ad management on Snapchat, TikTok, Instagram, and Google around your neighborhood"
+      }
+    ],
+    "packageInclusionNote": "Google Maps setup is included in Bidaya and Go Online; ongoing paid ad management is included in Numow and Riyada (ad spend paid directly to platforms).",
+    "processSteps": [
+      {
+        "stepTitle": "Audit your local map visibility",
+        "stepDescription": "We check how your shop ranks on Google Maps compared to nearby competitors."
+      },
+      {
+        "stepTitle": "Optimize profile & launch local ads",
+        "stepDescription": "We complete every profile field and target ads strictly to customers within driving distance."
+      },
+      {
+        "stepTitle": "Track calls, directions & messages",
+        "stepDescription": "We report clearly on direction requests, phone calls, and WhatsApp inquiries."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "Is the paid advertising budget included in the package fee?",
+        "answer": "Campaign setup and management are included in Numow and Riyada, while actual platform ad spend is paid directly from your card to Google/Snap/TikTok."
+      },
+      {
+        "question": "Do you buy fake Google Maps reviews?",
+        "answer": "Never. Fake reviews violate Saudi regulations and risk Google suspending your listing. Instead, we design smart QR review cards that make it effortless for happy customers to leave genuine reviews."
+      }
+    ],
+    "primaryCtaLabel": "Boost my Google Maps & local ads",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about Google Maps optimization and local ads.",
+    "seo": {
+      "metaTitle": "Google Maps SEO & Local Paid Ads in Al Ahsa & Eastern Province | Bayyora",
+      "metaDescription": "Google Business Profile optimization and geo-targeted Snapchat, TikTok, Instagram, and Google ads for local Saudi shops."
+    }
+  }
+}

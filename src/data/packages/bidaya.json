@@ -1,0 +1,90 @@
+{
+  "displayOrder": 1,
+  "slug": "bidaya",
+  "packageType": "monthly",
+  "isVisible": true,
+  "isHighlighted": false,
+  "internalPriceSar": 1490,
+  "ar": {
+    "name": "بداية",
+    "positioningSubline": "الخطوة الأولى — للمحلات اللي تبي حضور مرتب ومستمر",
+    "badgeText": "",
+    "description": "مناسبة للمحلات الجديدة أو اللي تبي ترتّب حساباتها وتظهر في خرائط جوجل بنشر منتظم بدون انقطاع.",
+    "quantifiedDeliverables": {
+      "platformsCount": 2,
+      "designsCount": 10,
+      "storiesCount": 8,
+      "reelsCountText": "٢ فيديو ريلز شهريًا",
+      "reportingCadence": "تقرير أداء شهري واضح"
+    },
+    "featureBullets": [
+      {
+        "text": "إدارة منصتين سوشال ميديا (مثل إنستغرام وتيك توك أو سناب)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "١٠ تصاميم منشورات احترافية شهريًا بهوية محلّك",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "٨ ستوريز تفاعلية شهريًا",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "٢ مقاطع فيديو قصيرة (Reels / TikTok) شهريًا",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "تجهيز وتحديث ملف المحل في خرائط جوجل (Google Maps)",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "تقرير شهري واضح يوريك نتائج الحساب",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "اطلب عرض سعر لباقة بداية",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة «بداية» الشهرية لمحلي."
+  },
+  "en": {
+    "name": "Bidaya",
+    "positioningSubline": "The first step — for shops building a clean, consistent presence",
+    "badgeText": "",
+    "description": "Ideal for new or growing shops that need active social profiles, Google Maps visibility, and steady monthly content.",
+    "quantifiedDeliverables": {
+      "platformsCount": 2,
+      "designsCount": 10,
+      "storiesCount": 8,
+      "reelsCountText": "2 Reels videos / month",
+      "reportingCadence": "Monthly performance report"
+    },
+    "featureBullets": [
+      {
+        "text": "Management of 2 social media platforms (e.g. Instagram & TikTok/Snap)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "10 branded social feed designs per month",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "8 interactive stories per month",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "2 short-form vertical videos (Reels / TikTok) per month",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "Google Business Profile (Google Maps) setup and optimization",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "Clear monthly summary report",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "Request quote for Bidaya",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like a quote and details for the monthly \"Bidaya\" package."
+  }
+}

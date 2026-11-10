@@ -1,0 +1,61 @@
+{
+  "slug": "dawair",
+  "isSampleConcept": false,
+  "clientPermissionVerified": false,
+  "hasFullCaseStudyPage": true,
+  "serviceCategory": "websites-online-stores",
+  "businessType": "restaurant",
+  "_status": "draft",
+  "ar": {
+    "title": "دراسة حالة: مشروع دوائر (Dawair)",
+    "cityTag": "الهفوف — الأحساء",
+    "summary": "مسودة دراسة حالة محفوظة داخليًا لمطعم دواير في الهفوف — لا تُنشر للعامة إلا بعد توثيق الموافقة الخطية من العميل (BR-010).",
+    "beforeHeadline": "قبل التطوير",
+    "afterHeadline": "بعد التطوير",
+    "beforeMetrics": [
+      {
+        "label": "الحالة",
+        "value": "مسودة داخلية بانتظار إذن النشر"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "الحوكمة",
+        "value": "محمي بواسطة clientPermissionVerified"
+      }
+    ],
+    "challengeSummary": "مسودة داخلية لمشروع دوائر.",
+    "solutionSummary": "يتم تفعيل النشر فقط عند اعتماد موافقة العميل الخطية من قِبل المالك.",
+    "verifiedOutcomeSummary": "ملتزمون بعدم نشر أي أعمال لعملاء حقيقيين دون إذن مكتوب صريح.",
+    "seo": {
+      "metaTitle": "دراسة حالة: مشروع دوائر (Dawair) | دراسة حالة ونموذج تحول بيّورا",
+      "metaDescription": "مسودة دراسة حالة محفوظة داخليًا لمطعم دواير في الهفوف — لا تُنشر للعامة إلا بعد توثيق الموافقة الخطية من العميل (BR-010)."
+    }
+  },
+  "en": {
+    "title": "Case Study: Dawair Project",
+    "cityTag": "Hofuf — Al Ahsa",
+    "summary": "Internal draft case study for Dawair restaurant in Hofuf — gated from public display until written client permission is verified (BR-010).",
+    "beforeHeadline": "Before",
+    "afterHeadline": "After",
+    "beforeMetrics": [
+      {
+        "label": "Status",
+        "value": "Pending written client sign-off"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "Governance",
+        "value": "Protected by clientPermissionVerified gate"
+      }
+    ],
+    "challengeSummary": "Internal draft for the Dawair project.",
+    "solutionSummary": "Public display activates only when written client permission is verified by the Owner.",
+    "verifiedOutcomeSummary": "We strictly never publish real client work without explicit written permission.",
+    "seo": {
+      "metaTitle": "Case Study: Dawair Project | Bayyora Case Study & Transformation",
+      "metaDescription": "Internal draft case study for Dawair restaurant in Hofuf — gated from public display until written client permission is verified (BR-010)."
+    }
+  }
+}

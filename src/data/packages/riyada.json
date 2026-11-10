@@ -1,0 +1,98 @@
+{
+  "displayOrder": 3,
+  "slug": "riyada",
+  "packageType": "monthly",
+  "isVisible": true,
+  "isHighlighted": false,
+  "internalPriceSar": 4490,
+  "ar": {
+    "name": "ريادة",
+    "positioningSubline": "حضور كامل — للمحلات اللي تبي تتصدّر السوق المحلي",
+    "badgeText": "",
+    "description": "فريق تسويق كامل لمحلّك أو فروعك: نشر مكثّف، زيارتين تصوير بالشهر، إعلانات متعددة المنصات، وصيانة موقعك ومتجرك.",
+    "quantifiedDeliverables": {
+      "platformsCount": 4,
+      "designsCount": 24,
+      "storiesCount": 30,
+      "reelsCountText": "٦–٨ ريلز + زيارتين تصوير شهريًا",
+      "reportingCadence": "تقرير أسبوعي + مدير حساب مباشر"
+    },
+    "featureBullets": [
+      {
+        "text": "إدارة ٤ منصات سوشال ميديا بالكامل",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "٢٤ تصميم شهريًا + ستوريز يومية طوال الشهر",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "٦ إلى ٨ مقاطع فيديو وريلز احترافية شهريًا",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "زيارتين تصوير ميدانية للمحل كل شهر",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "إدارة إعلانات ممولة شاملة على جميع المنصات وخرائط جوجل",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "صيانة وتحديث الموقع أو المتجر الإلكتروني + أتمتة واتساب",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "تقرير أسبوعي ومدير حساب مباشر معك على الواتساب",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "اطلب عرض سعر لباقة ريادة",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة «ريادة» الشهرية لمحلي."
+  },
+  "en": {
+    "name": "Riyada",
+    "positioningSubline": "Full presence — for established shops leading their local category",
+    "badgeText": "",
+    "description": "A dedicated marketing team for ambitious shops and multi-branch businesses needing intensive content, 2 monthly shoots, and web care.",
+    "quantifiedDeliverables": {
+      "platformsCount": 4,
+      "designsCount": 24,
+      "storiesCount": 30,
+      "reelsCountText": "6–8 Reels + 2 on-site shoots / month",
+      "reportingCadence": "Weekly reports + direct account manager"
+    },
+    "featureBullets": [
+      {
+        "text": "Full management of 4 social media platforms",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "24 monthly designs + daily stories throughout the month",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "6 to 8 vertical Reels/TikTok videos per month",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "2 on-site photo & video shoot visits per month",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "Multi-platform paid advertising & Google Maps management",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "Website/online store maintenance + WhatsApp automation",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "Weekly reporting + dedicated account manager on WhatsApp",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "Request quote for Riyada",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like a quote and details for the monthly \"Riyada\" package."
+  }
+}

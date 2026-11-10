@@ -1,0 +1,385 @@
+[
+  {
+    "displayOrder": 1,
+    "slug": "al-ahsa",
+    "canVisitInPerson": true,
+    "latitude": 25.38,
+    "longitude": 49.5888,
+    "ar": {
+      "name": "الأحساء",
+      "region": "المنطقة الشرقية",
+      "heroHeadline": "خطوة لفوق لمحلات ومشاريع الأحساء",
+      "heroSubheadline": "فريق تسويق محلي يفهم ذائقة أهل الحسا: نزور محلّك، نصوّر منتجاتك، ونخلّي زباين الواحة يلقونك في خرائط جوجل والسوشال ميديا.",
+      "localIntro": "تتميّز الأحساء بترابط مجتمعها واعتماد أهلها الكبير على التوصيات العائلية وسناب شات وخرائط جوجل قبل تجربة أي مطعم أو كافيه أو محل جديد. من الأسواق التراثية حول القيصرية إلى المجمعات والجادات الحديثة، نساعد أصحاب المحلات في الأحساء على بناء هوية محترمة وحضور رقمي مستمر يترجم جودة بضاعتهم إلى زيارات يومية.",
+      "commercialZones": [
+        {
+          "zoneName": "طريق الملك عبدالله الدائري والجادات الحديثة",
+          "businessFocus": "الكافيهات المختصة، المطاعم العائلية، ومراكز العناية"
+        },
+        {
+          "zoneName": "محيط سوق القيصرية ووسط الواحة التجاري",
+          "businessFocus": "محلات التمور والعود، الحلويات الشعبية، وتجارة التجزئة"
+        },
+        {
+          "zoneName": "طريق الظهران والمجمعات التجارية الكبرى",
+          "businessFocus": "الصيدليات، العيادات، المعارض، والمتاجر المتخصصة"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "المحل معروف عند الجيران لكن ما يظهر للزوار الجدد",
+          "description": "نوثّق ملفك في خرائط جوجل بالصور والأقسام الصحيحة عشان يلقاك كل من يبحث في الأحساء."
+        },
+        {
+          "title": "الحاجة لفريق يزور المحل ميدانيًا للتصوير",
+          "description": "فريقنا قريب منك في الأحساء، يجيك للمحل لتصوير الأصناف الجديدة والعروض بدون تكاليف سفر إضافية."
+        }
+      ],
+      "visitSectionTitle": "نمرّ عليك في محلّك بالأحساء",
+      "visitSectionBody": "سواء كان محلّك في الهفوف أو المبرز أو القرى الشرقية والشمالية، نقدر نرتّب زيارة ميدانية لمعاينة الواجهة وتصوير المنتجات ومناقشة خطة النمو وجهًا لوجه.",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي محل في الأحساء وأبغى أستفسر عن خدماتكم أو حجز زيارة.",
+      "seo": {
+        "metaTitle": "وكالة تسويق رقمي وتصوير وهوية للمحلات في الأحساء | بيّورا",
+        "metaDescription": "خدمات التسويق للمحلات والمطاعم والكافيهات في الأحساء: تصميم هوية، إدارة سوشال ميديا، تصوير ميداني، وخرائط جوجل."
+      }
+    },
+    "en": {
+      "name": "Al Ahsa",
+      "region": "Eastern Province",
+      "heroHeadline": "One step up for shops & businesses in Al Ahsa",
+      "heroSubheadline": "A local marketing partner rooted in Al Ahsa: we visit your storefront, photograph your products, and connect you with customers across the oasis.",
+      "localIntro": "Al Ahsa boasts a deeply connected community where family word-of-mouth, Snapchat stories, and Google Maps reviews drive daily shopping decisions. From heritage corridors near Qaisariah to modern boulevards, we help Al Ahsa merchants turn product quality into steady foot traffic.",
+      "commercialZones": [
+        {
+          "zoneName": "King Abdullah Ring Road & Modern Boulevards",
+          "businessFocus": "Specialty cafes, family dining, and beauty lounges"
+        },
+        {
+          "zoneName": "Qaisariah Heritage Market & Central Oasis",
+          "businessFocus": "Dates, oud boutiques, traditional sweets, and retail shops"
+        },
+        {
+          "zoneName": "Dhahran Road & Major Retail Plazas",
+          "businessFocus": "Pharmacies, clinics, showrooms, and specialty stores"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "Known on the block, invisible on Google Maps",
+          "description": "We verify and enrich your Google Business Profile so oasis residents and weekend visitors find you first."
+        },
+        {
+          "title": "Need for reliable on-site photography visits",
+          "description": "Our local crew visits your shop directly in Al Ahsa to shoot seasonal menus and products on schedule."
+        }
+      ],
+      "visitSectionTitle": "We visit your shop in Al Ahsa",
+      "visitSectionBody": "Whether your business is in central Al Ahsa, Hofuf, or Mubarraz, you can book an in-person storefront visit and photography session.",
+      "whatsappPrefillMessage": "Hello Bayyora team, I have a shop in Al Ahsa and would like to inquire about your services.",
+      "seo": {
+        "metaTitle": "Digital Marketing, Photography & Branding Agency in Al Ahsa | Bayyora",
+        "metaDescription": "Local digital marketing, brand identity, on-site photography, and Google Maps SEO for shops in Al Ahsa, Saudi Arabia."
+      }
+    }
+  },
+  {
+    "displayOrder": 2,
+    "slug": "hofuf",
+    "canVisitInPerson": true,
+    "latitude": 25.3648,
+    "longitude": 49.5876,
+    "ar": {
+      "name": "الهفوف",
+      "region": "الأحساء — المنطقة الشرقية",
+      "heroHeadline": "خلّ محلّك في الهفوف يبان ويجيب زباين أكثر",
+      "heroSubheadline": "نخدم المطاعم والكافيهات والصيدليات ومحلات التجزئة في أحياء الهفوف بتصاميم واضحة، تصوير يفتح النفس، وإعلانات محلية مركّزة.",
+      "localIntro": "تشهد أحياء الهفوف مثل الخالدية والمزروعية والسلمانية وشارع الستين منافسة عالية بين المطاعم ومقاهي القهوة المختصة ومحلات الخدمات. عندما تتشابه اللوحات والعروض في نفس الشارع، يصبح الفارق الحقيقي هو وضوح هويتك، وجودة صور أطباقك في تطبيقات التوصيل، وسرعة ردك على الزبون في الواتساب.",
+      "commercialZones": [
+        {
+          "zoneName": "حي السلمانية والمزروعية وشارع الرياض",
+          "businessFocus": "المطاعم، الكافيهات، الصيدليات، والعيادات التخصصية"
+        },
+        {
+          "zoneName": "حي الخالدية وشارع الستين والملك فهد",
+          "businessFocus": "محلات الحلويات، المخابز، البصريات، ومحلات الملابس والعطور"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "ازدحام الخيارات في شوارع الهفوف الرئيسية",
+          "description": "نصمّم واجهة وهوية ومنيو يخلّي الزبون يتذكّر اسم محلّك من أول نظرة."
+        },
+        {
+          "title": "ضعف الصور في تطبيقات التوصيل والمنيو الرقمي",
+          "description": "نزور محلّك في الهفوف لتصوير الأصناف بإضاءة احترافية ترفع نسبة الطلب."
+        }
+      ],
+      "visitSectionTitle": "احجز زيارة لفريقنا في الهفوف",
+      "visitSectionBody": "فريقنا متواجد لخدمة أحياء الهفوف ميدانيًا لتقييم حضور محلّك وتنفيذ جلسات التصوير الشهرية.",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي محل في الهفوف وأبغى أستفسر عن خدماتكم.",
+      "seo": {
+        "metaTitle": "تسويق وتصوير وتصميم هوية للمحلات والمطاعم في الهفوف | بيّورا",
+        "metaDescription": "شريك التسويق المحلي لمحلات ومطاعم وكافيهات الهفوف: إدارة سوشال ميديا، تصوير أطعمة ومنتجات، وتجهيز خرائط جوجل."
+      }
+    },
+    "en": {
+      "name": "Hofuf",
+      "region": "Al Ahsa — Eastern Province",
+      "heroHeadline": "Make your Hofuf shop stand out & win more customers",
+      "heroSubheadline": "Helping restaurants, cafes, pharmacies, and retailers across Hofuf neighborhoods grow through crisp branding, food photography, and local search.",
+      "localIntro": "Across bustling Hofuf districts like Al Khalidiyah, Al Mazrooiyah, Al Salmaniyah, and 60th Street, dozens of restaurants and shops compete side by side. Distinct storefront branding, appetizing menu photography, and instant WhatsApp responses set the winners apart.",
+      "commercialZones": [
+        {
+          "zoneName": "Al Salmaniyah, Al Mazrooiyah & Riyadh Street",
+          "businessFocus": "Restaurants, coffee shops, pharmacies, and medical clinics"
+        },
+        {
+          "zoneName": "Al Khalidiyah, 60th Street & King Fahd Road",
+          "businessFocus": "Bakeries, patisseries, optical shops, apparel, and perfumeries"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "Standing out on crowded Hofuf commercial strips",
+          "description": "We design high-contrast signage, menus, and packaging that stay memorable after every order."
+        },
+        {
+          "title": "Low conversion on delivery apps & digital menus",
+          "description": "We shoot your menu items on-site in Hofuf so every dish looks as good online as it tastes."
+        }
+      ],
+      "visitSectionTitle": "Book an on-site visit in Hofuf",
+      "visitSectionBody": "Our team is available across all Hofuf districts for storefront consultations and monthly photo/video shoots.",
+      "whatsappPrefillMessage": "Hello Bayyora team, I own a shop in Hofuf and would like to inquire about your services.",
+      "seo": {
+        "metaTitle": "Marketing, Photography & Branding for Shops in Hofuf | Bayyora",
+        "metaDescription": "Social media management, food photography, storefront design, and Google Maps optimization for Hofuf businesses."
+      }
+    }
+  },
+  {
+    "displayOrder": 3,
+    "slug": "mubarraz",
+    "canVisitInPerson": true,
+    "latitude": 25.4077,
+    "longitude": 49.5903,
+    "ar": {
+      "name": "المبرز",
+      "region": "الأحساء — المنطقة الشرقية",
+      "heroHeadline": "تسويق عملي يرفع مبيعات محلّك في المبرز",
+      "heroSubheadline": "من محاسن والراشدية إلى الشارع الملكي والعيون: نجهّز لمحلّك هوية قوية، محتوى مستمر، وحملات إعلانية توصل لأهل الحي.",
+      "localIntro": "تضم المبرز كثافة سكانية عالية وأحياء حيوية مثل محاسن والراشدية والنزهة والخرس، حيث يبحث السكان يوميًا عن مطاعم عائلية، صالونات، صيدليات، ومحلات خدمات قريبة من منازلهم. نركّز مع أصحاب المشاريع في المبرز على الاستهداف الجغرافي الدقيق حول الحي وتجهيز عروض المواسم والواتساب لخدمة زبائن المنطقة بسرعة.",
+      "commercialZones": [
+        {
+          "zoneName": "حي محاسن والراشدية والشوارع التجارية المحيطة",
+          "businessFocus": "المطاعم، الصالونات النسائية والرجالية، الصيدليات، ومحلات القهوة"
+        },
+        {
+          "zoneName": "الشارع الملكي وحي النزهة والخرس",
+          "businessFocus": "المعارض التجارية، محلات الذهب والعطور، والمستلزمات المنزلية"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "الوصول لسكان الأحياء السكنية القريبة من المحل",
+          "description": "نصمّم حملات سناب وتيك توك وجوجل موجّهة بدقة لنطاق الكيلومترات المحيطة بمحلّك في المبرز."
+        },
+        {
+          "title": "تنظيم طلبات وحجوزات الواتساب وقت الذروة",
+          "description": "نرتّب كتالوج الواتساب والردود التلقائية عشان ما يضيع أي طلب أو حجز في المساء وعطلة نهاية الأسبوع."
+        }
+      ],
+      "visitSectionTitle": "زيارة ميدانية لمحلّك في المبرز",
+      "visitSectionBody": "احجز موعدًا لزيارة فريقنا في المبرز لمعاينة المحل أو تنفيذ جلسة التصوير الفوتوغرافي والفيديو.",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي محل في المبرز وأبغى أستفسر عن خدماتكم.",
+      "seo": {
+        "metaTitle": "تسويق رقمي وتصوير وإدارة حسابات للمحلات في المبرز | بيّورا",
+        "metaDescription": "خدمات التسويق للمحلات والمطاعم والصالونات في المبرز (محاسن، الراشدية، النزهة): سوشال ميديا، تصوير، وخرائط جوجل."
+      }
+    },
+    "en": {
+      "name": "Mubarraz",
+      "region": "Al Ahsa — Eastern Province",
+      "heroHeadline": "Practical marketing that grows your shop in Mubarraz",
+      "heroSubheadline": "From Al Mahasin and Al Rashidiyah to Royal Street: we equip Mubarraz businesses with strong branding, active social media, and neighborhood ads.",
+      "localIntro": "Mubarraz is home to dense residential and commercial neighborhoods including Al Mahasin, Al Rashidiyah, and Al Nuzha, where families look daily for nearby dining, salons, pharmacies, and retail services. We help Mubarraz shop owners capture neighborhood demand through geo-targeted ads and WhatsApp catalogs.",
+      "commercialZones": [
+        {
+          "zoneName": "Al Mahasin & Al Rashidiyah Commercial Streets",
+          "businessFocus": "Family restaurants, salons, pharmacies, and coffee shops"
+        },
+        {
+          "zoneName": "Royal Street, Al Nuzha & Al Khars",
+          "businessFocus": "Retail showrooms, jewelry & oud shops, and home goods"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "Reaching families in surrounding Mubarraz residential blocks",
+          "description": "We run tight radius campaigns on Snapchat, TikTok, and Google Maps targeting households around your Mubarraz location."
+        },
+        {
+          "title": "Managing peak-hour WhatsApp orders and bookings",
+          "description": "We set up WhatsApp Business catalogs and quick replies so evening rush-hour inquiries convert smoothly."
+        }
+      ],
+      "visitSectionTitle": "On-site visits across Mubarraz",
+      "visitSectionBody": "Schedule an in-person visit in Mubarraz for a storefront audit or monthly product/food shoot.",
+      "whatsappPrefillMessage": "Hello Bayyora team, I have a shop in Mubarraz and would like to inquire about your services.",
+      "seo": {
+        "metaTitle": "Digital Marketing, Photography & Social Media in Mubarraz | Bayyora",
+        "metaDescription": "Local marketing, branding, photography, and Google Maps optimization for shops in Mubarraz, Al Ahsa."
+      }
+    }
+  },
+  {
+    "displayOrder": 4,
+    "slug": "dammam",
+    "canVisitInPerson": true,
+    "latitude": 26.4207,
+    "longitude": 50.0888,
+    "ar": {
+      "name": "الدمام",
+      "region": "المنطقة الشرقية",
+      "heroHeadline": "حضور قوي لمحلّك أو مطعمك في أسواق الدمام",
+      "heroSubheadline": "في سوق سريع وكبير مثل الدمام، نساعدك تبرز بهوية احترافية، مقاطع ريلز وتيك توك جذابة، وظهور متقدّم في خرائط جوجل.",
+      "localIntro": "تُعد الدمام المركز الإداري والتجاري للمنطقة الشرقية، وتتوزع الحركة الشرائية فيها بين أحياء الشاطئ والفيصلية والريان والفاخرية وطريق الخليج. الزبون في الدمام يملك عشرات البدائل على بُعد دقائق، لذلك يحتاج مشروعك إلى واجهة رقمية سريعة، تقييمات وصور محدثة في جوجل، ومحتوى فيديو يعكس جودة التجربة قبل أن يتحرك الزبون بسيارته.",
+      "commercialZones": [
+        {
+          "zoneName": "حي الشاطئ وطريق الخليج والكورنيش",
+          "businessFocus": "المطاعم البحرية والعالمية، الكافيهات المطلة، ومراكز الترفيه"
+        },
+        {
+          "zoneName": "حي الفيصلية والفاخرية والريان وطريق الملك فهد",
+          "businessFocus": "المجمعات الطبية، الصيدليات، محلات التجزئة، والخدمات التجارية"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "المنافسة مع العلامات التجارية الكبرى والسلاسل",
+          "description": "نمنح مشروعك المحلي مظهرًا احترافيًا يضاهي السلاسل الكبيرة في الهوية والمنيو والموقع الإلكتروني."
+        },
+        {
+          "title": "تحويل مشاهدات الإعلانات إلى زيارات فعلية للفرع",
+          "description": "نربط حملاتك الإعلانية مباشرة بزر الاتجاهات في خرائط جوجل ورسائل الواتساب المباشرة."
+        }
+      ],
+      "visitSectionTitle": "نخدم الدمام عن بُعد وميدانيًا",
+      "visitSectionBody": "نرتّب زيارات تصوير ومعاينة مجدولة لعملائنا في الدمام، مع متابعة يومية مباشرة عبر الواتساب.",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي مشروع في الدمام وأبغى أستفسر عن خدماتكم.",
+      "seo": {
+        "metaTitle": "وكالة تسويق رقمي وتصميم هوية وسوشال ميديا في الدمام | بيّورا",
+        "metaDescription": "خدمات التسويق للمطاعم والكافيهات والمحلات في الدمام: تصميم شعار وهوية، إدارة حسابات، تصوير، وإعلانات خرائط جوجل."
+      }
+    },
+    "en": {
+      "name": "Dammam",
+      "region": "Eastern Province",
+      "heroHeadline": "Stronger digital presence for your shop or restaurant in Dammam",
+      "heroSubheadline": "In Dammam’s fast-moving metropolitan market, we help your business stand out with sharp branding, high-converting Reels, and top local search visibility.",
+      "localIntro": "As the commercial capital of the Eastern Province, Dammam spans vibrant districts from Ash Shati and Al Faisaliyah to Al Rayyan and Gulf Road. Because metropolitan shoppers have endless options minutes away, your business needs polished digital proof, active Google Maps photos, and scroll-stopping video.",
+      "commercialZones": [
+        {
+          "zoneName": "Ash Shati District, Gulf Road & Corniche",
+          "businessFocus": "Waterfront dining, specialty coffee roasters, and lifestyle venues"
+        },
+        {
+          "zoneName": "Al Faisaliyah, Al Fakhiriyah, Al Rayyan & King Fahd Road",
+          "businessFocus": "Medical complexes, pharmacies, retail stores, and service centers"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "Competing alongside major national chains in Dammam",
+          "description": "We give independent Dammam businesses chain-level visual polish across branding, menus, and mobile websites."
+        },
+        {
+          "title": "Turning ad impressions into real branch visits",
+          "description": "We link geo-targeted ad campaigns directly to Google Maps direction taps and WhatsApp ordering."
+        }
+      ],
+      "visitSectionTitle": "Serving Dammam businesses online & on-site",
+      "visitSectionBody": "We schedule dedicated on-site photography and consultation days in Dammam alongside daily WhatsApp account management.",
+      "whatsappPrefillMessage": "Hello Bayyora team, I have a business in Dammam and would like to inquire about your services.",
+      "seo": {
+        "metaTitle": "Digital Marketing, Branding & Social Media Agency in Dammam | Bayyora",
+        "metaDescription": "Brand identity, social media management, video production, and local SEO for businesses in Dammam, Saudi Arabia."
+      }
+    }
+  },
+  {
+    "displayOrder": 5,
+    "slug": "khobar",
+    "canVisitInPerson": true,
+    "latitude": 26.2794,
+    "longitude": 50.2083,
+    "ar": {
+      "name": "الخبر",
+      "region": "المنطقة الشرقية",
+      "heroHeadline": "هوية عصرية وتسويق يليق بمشروعك في الخبر",
+      "heroSubheadline": "جمهور الخبر يهتم بالتفاصيل، الذوق البصري، والمحتوى الثنائي (عربي/إنجليزي): نجهّز لعلامتك حضورًا متقنًا يجذب الزوار المقيمين والقادمين عبر الجسر.",
+      "localIntro": "تُعرف الخبر بذوقها الرفيع وتنوع جمهورها من العائلات السعودية والمقيمين وزوار عطلة نهاية الأسبوع في مناطق مثل العليا، الحزام الذهبي، الكورنيش، والراكة. النجاح في الخبر يتطلب هوية بصرية أنيقة، منيو وموقعًا ثنائي اللغة (عربي وإنجليزي) بدون أخطاء، وتصويرًا يبرز أجواء المكان وتجربة الضيافة.",
+      "commercialZones": [
+        {
+          "zoneName": "حي العليا وطريق الأمير تركي والكورنيش",
+          "businessFocus": "المطاعم الراقية، الكافيهات المختصة، البوتيكات، واللاونجات"
+        },
+        {
+          "zoneName": "الحزام الذهبي، الراكة، والخبر الشمالية",
+          "businessFocus": "العيادات التجميلية، الصالونات، المراكز الرياضية، والمتاجر المتخصصة"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "الحاجة لمحتوى ومنيو ثنائي اللغة (عربي + إنجليزي) باحترافية",
+          "description": "نكتب ونصمّم محتوى مشروعك في الخبر باللغتين العربية والإنجليزية بدقة تناسب تنوع زبائنك."
+        },
+        {
+          "title": "إبراز تجربة المكان والديكور في الريلز والتصوير",
+          "description": "ننتج مقاطع فيديو وصورًا تبرز تفاصيل المكان وتجربة الضيافة لجذب زوار نهاية الأسبوع."
+        }
+      ],
+      "visitSectionTitle": "جلسات تصوير واستشارات في الخبر",
+      "visitSectionBody": "ننسّق زيارات تصوير واجتماعات دورية لعملائنا في الخبر لتجهيز الهوية والمنيو والمحتوى الشهري.",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي مشروع في الخبر وأبغى أستفسر عن خدماتكم.",
+      "seo": {
+        "metaTitle": "تصميم هوية بصرية وتسويق رقمي وتصوير للمطاعم والمحلات في الخبر | بيّورا",
+        "metaDescription": "خدمات الهوية البصرية، تصميم المنيو والمواقع، إدارة السوشال ميديا، والتصوير للمطاعم والكافيهات والعيادات في الخبر."
+      }
+    },
+    "en": {
+      "name": "Khobar",
+      "region": "Eastern Province",
+      "heroHeadline": "Elevated branding & bilingual marketing for Khobar businesses",
+      "heroSubheadline": "Khobar customers expect refined design and seamless Arabic/English experiences: we craft elevated identities, menus, and content that attract residents and regional visitors.",
+      "localIntro": "Khobar is renowned for its design-conscious dining, specialty coffee, and boutique retail scene across Al Olaya, Golden Belt, the Corniche, and Al Rakah. Succeeding in Khobar requires refined visual identity, bilingual Arabic/English menus and websites, and lifestyle photography.",
+      "commercialZones": [
+        {
+          "zoneName": "Al Olaya, Prince Turki Street & Khobar Corniche",
+          "businessFocus": "Concept restaurants, specialty coffee bars, and lifestyle boutiques"
+        },
+        {
+          "zoneName": "Golden Belt, Al Rakah & North Khobar",
+          "businessFocus": "Aesthetic clinics, luxury salons, fitness studios, and specialty retail"
+        }
+      ],
+      "merchantChallenges": [
+        {
+          "title": "Need for polished bilingual (Arabic & English) menus & social presence",
+          "description": "We write and design native Arabic and English menus, websites, and social content tailored to Khobar’s diverse clientele."
+        },
+        {
+          "title": "Showcasing ambiance & interior design in Reels",
+          "description": "We produce atmospheric photography and vertical Reels that capture your interior experience and draw weekend visitors."
+        }
+      ],
+      "visitSectionTitle": "Scheduled shoots & consultations in Khobar",
+      "visitSectionBody": "We coordinate dedicated on-site photography sessions and brand consultations across Khobar.",
+      "whatsappPrefillMessage": "Hello Bayyora team, I have a business in Khobar and would like to inquire about your services.",
+      "seo": {
+        "metaTitle": "Brand Identity, Bilingual Marketing & Photography in Khobar | Bayyora",
+        "metaDescription": "Elevated brand identity, bilingual websites, social media management, and food photography in Khobar, Saudi Arabia."
+      }
+    }
+  }
+]

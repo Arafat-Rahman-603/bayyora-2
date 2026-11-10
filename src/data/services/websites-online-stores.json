@@ -1,0 +1,115 @@
+{
+  "displayOrder": 3,
+  "slug": "websites-online-stores",
+  "iconName": "monitor",
+  "ar": {
+    "name": "المواقع والمتاجر",
+    "benefitHeadline": "محلّك مفتوح ٢٤ ساعة",
+    "shortDescription": "موقع تعريفي سريع أو متجر إلكتروني مربوط بالدفع (مدى و Apple Pay) والشحن والواتساب.",
+    "heroSubheadline": "نبني لك موقعًا أو متجرًا إلكترونيًا يفتح بسرعة على الجوال، ويعرض منتجاتك ومنيوك بوضوح، ويحوّل الزوار إلى طلبات مباشرة.",
+    "problemStatement": "الزبون يبحث عنك في جوجل أو يضغط الرابط في بايو إنستغرام وما يلقى إلا صفحة بطيئة أو روابط مقطوعة، فيطلع ويشتري من منافسك.",
+    "deliverables": [
+      {
+        "itemText": "تصميم وتطوير متوافق ١٠٠٪ مع جوال الزبون باللغتين العربية والإنجليزية"
+      },
+      {
+        "itemText": "ربط بوابات الدفع المعتمدة في السعودية (مدى، Apple Pay، البطاقات الائتمانية) وشركات الشحن"
+      },
+      {
+        "itemText": "صفحة منيو رقمي أو كتالوج منتجات سريع مع زر طلب مباشر عبر واتساب"
+      },
+      {
+        "itemText": "تهيئة أساسية لمحركات البحث (SEO) وسرعة تحميل عالية"
+      },
+      {
+        "itemText": "لوحة تحكم سهلة لتعديل الأسعار والمنتجات مع تدريب مبسّط لفريقك"
+      }
+    ],
+    "packageInclusionNote": "تتوفر صيانة وتحديثات الموقع ضمن باقة «ريادة» الشهرية، أو كبناء كامل لمرة واحدة.",
+    "processSteps": [
+      {
+        "stepTitle": "نحدّد الهدف والمنتجات",
+        "stepDescription": "نختار النوع الأنسب لنشاطك: موقع تعريفي وحجوزات، منيو رقمي، أو متجر إلكتروني متكامل."
+      },
+      {
+        "stepTitle": "نبني ونربط الدفع والواتساب",
+        "stepDescription": "نجهّز الصفحات ونرفع المنتجات ونربط الدفع والشحن وتنبيهات الطلبات."
+      },
+      {
+        "stepTitle": "نختبر على الجوال ونطلق الموقع",
+        "stepDescription": "نتأكد من سرعة التصفح وسهولة الطلب ثم نسلّمك إدارة الموقع بالكامل."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "هل الدومين والموقع يكونان باسم محلي؟",
+        "answer": "نعم ١٠٠٪، الدومين وحسابات المتجر وبوابات الدفع تُسجّل باسم مؤسستك أو سجلك التجاري مباشرة."
+      },
+      {
+        "question": "هل يفتح الموقع بسرعة على الجوال؟",
+        "answer": "نعم، أكثر من ٩٠٪ من زبائن المحلات يتصفحون من الجوال، لذلك نصمّم الموقع ليكون سريعًا وسهل الاستخدام والطلب من الجوال باللغتين العربية والإنجليزية."
+      }
+    ],
+    "primaryCtaLabel": "أبغى موقع أو متجر لمحلّي",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن تصميم موقع أو متجر إلكتروني لمحلي.",
+    "seo": {
+      "metaTitle": "تصميم مواقع ومتاجر إلكترونية للمحلات في الأحساء والشرقية | بيّورا",
+      "metaDescription": "تصميم وتجهيز المواقع التعريفية والمتاجر الإلكترونية والمنيو الرقمي للمحلات والمطاعم في الأحساء والدمام والخبر."
+    }
+  },
+  "en": {
+    "name": "Websites and online stores",
+    "benefitHeadline": "Your shop, open 24 hours",
+    "shortDescription": "Fast business websites and online stores integrated with Mada, Apple Pay, shipping, and WhatsApp.",
+    "heroSubheadline": "We build mobile-first Arabic/English websites and e-commerce stores that load fast and turn visitors into direct orders.",
+    "problemStatement": "Customers tap your bio link or search on Google only to find broken links or slow pages, leaving to buy from a competitor instead.",
+    "deliverables": [
+      {
+        "itemText": "100% mobile-first bilingual (Arabic RTL & English LTR) design and build"
+      },
+      {
+        "itemText": "Integration with Saudi payment gateways (Mada, Apple Pay, cards) and local couriers"
+      },
+      {
+        "itemText": "Fast digital menu or product catalogue with 1-tap WhatsApp ordering"
+      },
+      {
+        "itemText": "Core technical SEO setup and high-speed page loading"
+      },
+      {
+        "itemText": "Easy dashboard to update prices and products, plus a walkthrough for your staff"
+      }
+    ],
+    "packageInclusionNote": "Ongoing website updates are included in the monthly \"Riyada\" package, with full builds available as one-time projects.",
+    "processSteps": [
+      {
+        "stepTitle": "Define structure & catalogue",
+        "stepDescription": "We map out whether your shop needs a booking site, digital menu, or full online store."
+      },
+      {
+        "stepTitle": "Build & connect payments/WhatsApp",
+        "stepDescription": "We upload your products, configure Mada/Apple Pay, and connect WhatsApp notifications."
+      },
+      {
+        "stepTitle": "Test on mobile & launch",
+        "stepDescription": "We test checkout speed on mobile devices and hand over full ownership."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "Will the domain and store be registered under my business name?",
+        "answer": "Yes, 100%. The domain, store account, and payment gateway accounts are registered directly under your Commercial Registration."
+      },
+      {
+        "question": "Is the website optimized for mobile phones?",
+        "answer": "Yes. Over 90% of local customers browse on mobile, so every site and menu is engineered for fast mobile loading in both Arabic and English."
+      }
+    ],
+    "primaryCtaLabel": "Request a website or online store",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about building a website or online store.",
+    "seo": {
+      "metaTitle": "Websites & Online Stores for Shops in Al Ahsa & Eastern Province | Bayyora",
+      "metaDescription": "Mobile-first websites, digital menus, and e-commerce stores with Mada & Apple Pay for Saudi shops."
+    }
+  }
+}

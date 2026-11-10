@@ -1,0 +1,27 @@
+{
+  "slug": "contact",
+  "isLegalPage": false,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "تواصل معنا أو احجز زيارة ميدانية لمحلّك",
+    "subtitle": "نخدم المحلات والمشاريع في الأحساء (الهفوف والمبرز) والدمام والخبر والمنطقة الشرقية. راسلنا مباشرة عبر الواتساب أو احجز موعد زيارة يناسب وقتك.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أتواصل معكم بخصوص محلي.",
+    "seo": {
+      "metaTitle": "تواصل مع بيّورا | احجز زيارة ميدانية لمحلّك في الأحساء والشرقية",
+      "metaDescription": "تواصل مع فريق بيّورا عبر الواتساب أو احجز موعد زيارة ميدانية لمحلّك في الأحساء والهفوف والمبرز والدمام والخبر."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Contact us or book an on-site visit to your shop",
+    "subtitle": "Serving shops and businesses across Al Ahsa (Hofuf & Mubarraz), Dammam, Khobar, and the Eastern Province. Message us on WhatsApp or schedule a storefront visit.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to get in touch regarding my shop.",
+    "seo": {
+      "metaTitle": "Contact Bayyora | Book an On-Site Shop Visit in Al Ahsa, Dammam & Khobar",
+      "metaDescription": "Reach Bayyora on WhatsApp or schedule an in-person storefront visit in Al Ahsa, Hofuf, Mubarraz, Dammam, or Khobar."
+    },
+    "layout": []
+  }
+}

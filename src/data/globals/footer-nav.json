@@ -1,0 +1,112 @@
+{
+  "ar": {
+    "brandDescription": "نساعد المحلات والمشاريع في الأحساء والمنطقة الشرقية تبان وتجيب زباين أكثر — من الهوية واللوحة إلى السوشال ميديا وخرائط جوجل.",
+    "servicesColumnTitle": "خدماتنا",
+    "companyColumnTitle": "بيّورا",
+    "citiesColumnTitle": "مدن نخدمها",
+    "contactColumnTitle": "تواصل معنا",
+    "companyLinks": [
+      {
+        "label": "الباقات الشهرية والتأسيس",
+        "href": "/packages"
+      },
+      {
+        "label": "أعمالنا ونماذج قبل/بعد",
+        "href": "/our-work"
+      },
+      {
+        "label": "من نحن",
+        "href": "/about"
+      },
+      {
+        "label": "الأسئلة الشائعة",
+        "href": "/faq"
+      },
+      {
+        "label": "المدونة والنصائح",
+        "href": "/blog"
+      },
+      {
+        "label": "تحليل مجاني لمحلّك",
+        "href": "/free-audit"
+      }
+    ],
+    "footerCtaBand": {
+      "enabled": true,
+      "heading": "جاهز تاخذ خطوة لفوق؟",
+      "subheading": "اطلب تحليل مجاني لمحلّك ونرسل لك ٣ ملاحظات عملية واضحة على الواتساب خلال ٤٨ ساعة.",
+      "whatsappCtaLabel": "راسلنا واتساب",
+      "auditCtaLabel": "اطلب تحليل مجاني"
+    },
+    "legalLinks": [
+      {
+        "label": "سياسة الخصوصية (PDPL)",
+        "href": "/privacy"
+      },
+      {
+        "label": "الشروط والأحكام",
+        "href": "/terms"
+      },
+      {
+        "label": "سياسة الإلغاء والاسترجاع",
+        "href": "/refunds"
+      }
+    ],
+    "copyrightText": "© ٢٠٢٦ بيّورا (Bayyora). جميع الحقوق محفوظة."
+  },
+  "en": {
+    "brandDescription": "Helping local shops and businesses across Al Ahsa and the Eastern Province stand out and win more customers — from brand identity to Google Maps.",
+    "servicesColumnTitle": "Services",
+    "companyColumnTitle": "Bayyora",
+    "citiesColumnTitle": "Cities We Serve",
+    "contactColumnTitle": "Get in Touch",
+    "companyLinks": [
+      {
+        "label": "Packages & Starter Bundles",
+        "href": "/packages"
+      },
+      {
+        "label": "Our Work & Before/After",
+        "href": "/our-work"
+      },
+      {
+        "label": "About Bayyora",
+        "href": "/about"
+      },
+      {
+        "label": "FAQ",
+        "href": "/faq"
+      },
+      {
+        "label": "Blog & Guides",
+        "href": "/blog"
+      },
+      {
+        "label": "Free Mini Audit",
+        "href": "/free-audit"
+      }
+    ],
+    "footerCtaBand": {
+      "enabled": true,
+      "heading": "Ready to take one step up?",
+      "subheading": "Request a free mini audit for your shop and receive 3 actionable improvements on WhatsApp within 48 hours.",
+      "whatsappCtaLabel": "Chat on WhatsApp",
+      "auditCtaLabel": "Request a free audit"
+    },
+    "legalLinks": [
+      {
+        "label": "Privacy Policy (PDPL)",
+        "href": "/privacy"
+      },
+      {
+        "label": "Terms & Conditions",
+        "href": "/terms"
+      },
+      {
+        "label": "Refund Policy",
+        "href": "/refunds"
+      }
+    ],
+    "copyrightText": "© 2026 Bayyora (بيّورا). All rights reserved."
+  }
+}

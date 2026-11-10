@@ -1,0 +1,138 @@
+{
+  "ar": {
+    "auditFormUi": {
+      "nameLabel": "اسمك الكريم",
+      "namePlaceholder": "مثال: محمد العبدالله",
+      "shopNameLabel": "اسم المحل أو المشروع",
+      "shopNamePlaceholder": "مثال: كافيه سعف / صيدلية النور",
+      "businessTypeLabel": "نوع النشاط التجاري",
+      "cityLabel": "المدينة",
+      "linkLabel": "رابط حساب إنستغرام أو خرائط جوجل (اختياري)",
+      "linkPlaceholder": "مثال: حساب المحل في إنستقرام أو رابط خرائط جوجل",
+      "linkHelperText": "يساعدنا نفحص حسابك وظهورك في الخريطة قبل ما نتواصل معك",
+      "whatsappLabel": "رقم الواتساب (لإرسال التقرير)",
+      "whatsappPlaceholder": "05XXXXXXXX",
+      "whatsappHelperText": "تقدر تكتبه بالأرقام العربية (٠٥...) أو الإنجليزية (05...)",
+      "pdplConsentLabel": "أوافق على سياسة الخصوصية واستخدام بياناتي لإرسال التحليل المجاني عبر واتساب وفق نظام حماية البيانات الشخصية السعودي (PDPL).",
+      "submitButtonLabel": "اطلب التحليل المجاني الآن",
+      "submittingLabel": "جاري إرسال طلبك...",
+      "successHeadline": "وصلنا طلبك! محلّك الحين تحت الفحص",
+      "successMessage": "فريقنا بيراجع ظهور محلّك في خرائط جوجل وحسابات السوشال ميديا، وبيرسل لك ٣ ملاحظات عملية واضحة على الواتساب خلال ٤٨ ساعة عمل.",
+      "urgentWhatsappCtaLabel": "مستعجل؟ راسلنا على واتساب الحين"
+    },
+    "contactFormUi": {
+      "formHeading": "أرسل لنا رسالة سريعة",
+      "calendarHeading": "أو احجز موعد زيارة ميدانية لمحلّك",
+      "calendarSubheading": "إذا كان محلّك في الأحساء (الهفوف أو المبرز) أو الدمام أو الخبر، اختر اليوم والوقت المناسب وبنمرّ عليك في المحل.",
+      "messageLabel": "كيف نقدر نساعد محلّك؟",
+      "messagePlaceholder": "اكتب لنا باختصار وش الخدمة أو الباقة اللي تفكر فيها...",
+      "submitButtonLabel": "إرسال الرسالة",
+      "successHeadline": "شكرًا لتواصلك مع بيّورا!",
+      "successMessage": "استلمنا رسالتك وبيتواصل معك فريقنا عبر الواتساب في أقرب وقت."
+    },
+    "serviceTemplateHeadings": {
+      "problemHeading": "المشكلة اللي تتكرر في كثير من المحلات",
+      "deliverablesHeading": "وش تحصل عليه بالضبط؟",
+      "beforeAfterHeading": "الفرق بين قبل وبعد الترتيب",
+      "includedInPackagesHeading": "موجودة في أي باقة؟",
+      "howItWorksHeading": "كيف نشتغل؟ (٣ خطوات واضحة)",
+      "faqHeading": "أسئلة شائعة عن الخدمة"
+    },
+    "portfolioFilterUi": {
+      "allServicesLabel": "كل الخدمات",
+      "allBusinessTypesLabel": "كل الأنشطة",
+      "sampleConceptBadgeLabel": "نموذج توضيحي",
+      "beforeLabel": "قبل بيّورا",
+      "afterLabel": "بعد بيّورا",
+      "emptyStateText": "لا توجد نماذج مطابقة لهذا الفلتر حاليًا.",
+      "resetFiltersLabel": "عرض كل الأعمال والنماذج"
+    },
+    "blogIndexPage": {
+      "title": "مدونة بيّورا — نصائح عملية لأصحاب المحلات والمشاريع",
+      "subtitle": "شروحات واضحة ومختصرة تساعدك تحسّن ظهور محلّك في خرائط جوجل، وترتّب المنيو، وتستعد للمواسم بدون تعقيد.",
+      "readMoreLabel": "اقرأ المقال كاملًا",
+      "seo": {
+        "metaTitle": "مدونة بيّورا | نصائح التسويق المحلي وخرائط جوجل والسوشال ميديا للمحلات",
+        "metaDescription": "مقالات وأدلة عملية لأصحاب المحلات والمطاعم والكافيهات في السعودية حول خرائط جوجل، تصميم المنيو، والتسويق في المواسم."
+      }
+    },
+    "cookieBannerUi": {
+      "message": "نستخدم ملفات تعريف الارتباط لتحسين تجربتك وقياس أداء الموقع وفق نظام حماية البيانات الشخصية السعودي (PDPL).",
+      "acceptLabel": "موافق",
+      "essentialOnlyLabel": "الضرورية فقط"
+    },
+    "notFoundPageUi": {
+      "heading": "الصفحة غير موجودة (404)",
+      "description": "يبدو أن الرابط الذي تبحث عنه قد تغيّر أو غير متوفر حاليًا.",
+      "backHomeLabel": "العودة للرئيسية"
+    }
+  },
+  "en": {
+    "auditFormUi": {
+      "nameLabel": "Your Name",
+      "namePlaceholder": "e.g. Mohammed Al-Abdullah",
+      "shopNameLabel": "Shop or Business Name",
+      "shopNamePlaceholder": "e.g. Saaf Cafe / Al Noor Pharmacy",
+      "businessTypeLabel": "Business Category",
+      "cityLabel": "City",
+      "linkLabel": "Instagram Handle or Google Maps Link (Optional)",
+      "linkPlaceholder": "@shopname or Google Maps URL",
+      "linkHelperText": "Helps our team inspect your profile and map listing before we message you",
+      "whatsappLabel": "WhatsApp Number (to receive your audit)",
+      "whatsappPlaceholder": "05XXXXXXXX",
+      "whatsappHelperText": "Accepts Saudi mobile numbers in Arabic (٠٥...) or English (05...) digits",
+      "pdplConsentLabel": "I agree to the Privacy Policy and consent to Bayyora processing my details to send my free mini audit via WhatsApp under the Saudi PDPL.",
+      "submitButtonLabel": "Request My Free Mini Audit",
+      "submittingLabel": "Submitting your request...",
+      "successHeadline": "Request Received! Your Audit Is Underway",
+      "successMessage": "Our local team will review your Google Maps presence and social accounts, and send 3 practical recommendations to your WhatsApp within 48 business hours.",
+      "urgentWhatsappCtaLabel": "In a hurry? Chat with us on WhatsApp now"
+    },
+    "contactFormUi": {
+      "formHeading": "Send Us a Quick Message",
+      "calendarHeading": "Or Book an On-Site Shop Visit",
+      "calendarSubheading": "If your shop is in Al Ahsa (Hofuf or Mubarraz), Dammam, or Khobar, pick a convenient time and our team will visit you in person.",
+      "messageLabel": "How can we help your shop?",
+      "messagePlaceholder": "Tell us briefly which service or package you are exploring...",
+      "submitButtonLabel": "Send Message",
+      "successHeadline": "Thank You for Reaching Out to Bayyora!",
+      "successMessage": "We have received your message and our team will reply via WhatsApp shortly."
+    },
+    "serviceTemplateHeadings": {
+      "problemHeading": "The Problem Many Local Shops Face",
+      "deliverablesHeading": "What You Get (Clear Deliverables)",
+      "beforeAfterHeading": "Before & After Comparison",
+      "includedInPackagesHeading": "Included In Which Packages?",
+      "howItWorksHeading": "How It Works (3 Simple Steps)",
+      "faqHeading": "Frequently Asked Questions"
+    },
+    "portfolioFilterUi": {
+      "allServicesLabel": "All Services",
+      "allBusinessTypesLabel": "All Business Types",
+      "sampleConceptBadgeLabel": "Sample concept",
+      "beforeLabel": "Before Bayyora",
+      "afterLabel": "After Bayyora",
+      "emptyStateText": "No portfolio items match the selected filter combination.",
+      "resetFiltersLabel": "Show All Work & Concepts"
+    },
+    "blogIndexPage": {
+      "title": "Bayyora Blog — Practical Guides for Local Shop Owners",
+      "subtitle": "Clear, actionable playbooks on Google Maps visibility, menu design, food photography, and seasonal retail campaigns in Saudi Arabia.",
+      "readMoreLabel": "Read full article",
+      "seo": {
+        "metaTitle": "Bayyora Blog | Local SEO, Google Maps & Social Media Guides for Saudi Shops",
+        "metaDescription": "Actionable marketing guides for restaurants, cafes, pharmacies, and retail shops in Al Ahsa and the Eastern Province."
+      }
+    },
+    "cookieBannerUi": {
+      "message": "We use cookies to improve your browsing experience and measure site performance in accordance with the Saudi Personal Data Protection Law (PDPL).",
+      "acceptLabel": "Accept All",
+      "essentialOnlyLabel": "Essential Only"
+    },
+    "notFoundPageUi": {
+      "heading": "Page Not Found (404)",
+      "description": "The page you are looking for may have moved or is no longer available.",
+      "backHomeLabel": "Back to Homepage"
+    }
+  }
+}

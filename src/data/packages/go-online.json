@@ -1,0 +1,78 @@
+{
+  "displayOrder": 5,
+  "slug": "go-online",
+  "packageType": "one_time_bundle",
+  "isVisible": true,
+  "isHighlighted": false,
+  "internalPriceSar": 2400,
+  "ar": {
+    "name": "انطلاقة أونلاين (Go Online)",
+    "positioningSubline": "باقة تأسيس لمرة واحدة — حضور رقمي جاهز من أول يوم",
+    "badgeText": "تأسيس رقمي",
+    "description": "تجهّز لك كل حساباتك وخرائط جوجل وواتساب الأعمال مع ٩ تصاميم وفيديو تعريفي عشان تنطلق صح.",
+    "quantifiedDeliverables": {
+      "designsCount": 9,
+      "reelsCountText": "٩ تصاميم تأسيسية + ١ فيديو تعريفي",
+      "reportingCadence": "تسليم خلال ٧–١٠ أيام عمل"
+    },
+    "featureBullets": [
+      {
+        "text": "إنشاء وترتيب حسابات السوشال ميديا (البايو، الهايلايت، الهوية)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "توثيق وتجهيز ملف المحل في خرائط جوجل بالكامل",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "٩ تصاميم تأسيسية ترتّب واجهة حسابك في إنستغرام",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "١ مقطع فيديو قصير (Reel) تعريفي بالمحل ومنتجاته",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "تجهيز واتساب الأعمال + صفحة روابط موحّدة في البايو",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "اطلب باقة انطلاقة أونلاين",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة التأسيس «انطلاقة أونلاين (Go Online)»."
+  },
+  "en": {
+    "name": "Go Online (Starter Bundle)",
+    "positioningSubline": "One-time starter bundle — launch your digital & Google Maps presence",
+    "badgeText": "Digital launch",
+    "description": "Gets your shop online fast with styled social accounts, verified Google Maps, WhatsApp Business, 9 starter posts, and 1 intro video.",
+    "quantifiedDeliverables": {
+      "designsCount": 9,
+      "reelsCountText": "9 starter designs + 1 intro video",
+      "reportingCadence": "Delivered in 7–10 business days"
+    },
+    "featureBullets": [
+      {
+        "text": "Social media account setup & styling (bio, highlights, profile branding)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "Complete Google Business Profile (Google Maps) setup & verification",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "9 foundational grid designs to launch your Instagram profile",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "1 short-form intro video (Reel) showcasing your shop",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "WhatsApp Business setup + unified link-in-bio page",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "Request Go Online bundle",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about the \"Go Online\" one-time starter bundle."
+  }
+}

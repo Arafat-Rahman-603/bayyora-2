@@ -1,0 +1,27 @@
+{
+  "slug": "privacy",
+  "isLegalPage": true,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "سياسة الخصوصية وحماية البيانات الشخصية (PDPL)",
+    "subtitle": "نلتزم في بيّورا بحماية خصوصية بياناتك وبيانات نشاطك التجاري وفق نظام حماية البيانات الشخصية في المملكة العربية السعودية (PDPL).",
+    "legalBodyMarkdown": "### ١. البيانات التي نجمعها\nنجمع فقط البيانات التي تزودنا بها طوعًا عند طلب «التحليل المجاني» أو «التواصل وحجز الزيارة»، وتشمل: الاسم، اسم المحل أو النشاط التجاري، نوع النشاط، المدينة، رابط الحساب أو الموقع في خرائط جوجل، ورقم الواتساب.\n\n### ٢. الغرض من جمع البيانات ومعالجتها\nتُستخدم هذه البيانات حصريًا من قِبل فريق بيّورا لإعداد التحليل التسويقي لمحلّك، والتواصل معك عبر الواتساب أو الهاتف لتقديم التوصيات وعروض الأسعار، وتنسيق الزيارات الميدانية. لا نقوم ببيع أو تأجير أو مشاركة بياناتك مع أي أطراف إعلانية خارجية.\n\n### ٣. أمن البيانات والتشفير (AES-256-GCM)\nيتم تشفير بيانات طلبات العملاء المخزنة في قاعدة بياناتنا باستخدام معيار التشفير القياسي (AES-256-GCM)، ويقتصر الوصول إليها على المصرح لهم في إدارة بيّورا.\n\n### ٤. ملفات تعريف الارتباط (Cookies) وأدوات القياس\nلا يتم تفعيل أدوات القياس الإحصائية أو التسويقية إلا بعد موافقتك الصريحة عبر شريط الخصوصية، ويمكنك الاكتفاء بملفات التشغيل الضرورية فقط في أي وقت.\n\n### ٥. حقوقك النظامية وفق نظام حماية البيانات الشخصية السعودي (PDPL)\nيحق لك في أي وقت طلب الاطلاع على بياناتك المسجلة لدينا، أو طلب تصحيحها، أو طلب حذفها نهائيًا وسحب الموافقة عبر مراسلتنا على البريد الإلكتروني hello@bayyora.com أو عبر رقم الواتساب الرسمي.",
+    "whatsappPrefillMessage": "السلام عليكم، لدي استفسار بخصوص سياسة الخصوصية.",
+    "seo": {
+      "metaTitle": "سياسة الخصوصية وحماية البيانات الشخصية (PDPL) | بيّورا",
+      "metaDescription": "تعرف على كيفية التزام وكالة بيّورا بحماية بياناتك الشخصية والتجارية وفق نظام حماية البيانات الشخصية السعودي (PDPL)."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Privacy Policy & Saudi PDPL Data Protection Notice",
+    "subtitle": "Bayyora is committed to protecting your personal and business data in strict compliance with the Kingdom of Saudi Arabia Personal Data Protection Law (PDPL).",
+    "legalBodyMarkdown": "### 1. Personal & Business Data We Collect\nWe collect only the information you voluntarily submit through our Free Mini Audit or Contact forms: your name, shop/business name, business category, city, social media handle or Google Maps URL, and WhatsApp phone number.\n\n### 2. Purpose of Processing (Lawful Basis)\nYour information is processed exclusively by the Bayyora team to prepare your requested shop audit, deliver recommendations and quotes via WhatsApp, and coordinate on-site visits. We never sell, rent, or trade your data to third-party brokers.\n\n### 3. Data Security & Encryption (AES-256-GCM)\nAll lead submissions stored in our database queue are encrypted at rest using AES-256-GCM encryption and restricted to authorized administrators.\n\n### 4. Cookies & Analytics Consent\nAnalytics and advertising pixels are blocked by default and load only if you grant explicit opt-in consent via our privacy banner.\n\n### 5. Your Rights Under the Saudi Personal Data Protection Law (PDPL)\nUnder the Saudi PDPL, you have the right to access, correct, request deletion of your personal data, or withdraw consent at any time by contacting hello@bayyora.com or messaging our official WhatsApp line.",
+    "whatsappPrefillMessage": "Hello Bayyora team, I have a question regarding your Privacy Policy.",
+    "seo": {
+      "metaTitle": "Privacy Policy & Saudi PDPL Compliance | Bayyora",
+      "metaDescription": "Read how Bayyora collects, encrypts, and protects your business data in compliance with the Saudi PDPL."
+    },
+    "layout": []
+  }
+}

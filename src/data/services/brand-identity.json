@@ -1,0 +1,115 @@
+{
+  "displayOrder": 1,
+  "slug": "brand-identity",
+  "iconName": "pen-tool",
+  "ar": {
+    "name": "الهوية والشعار",
+    "benefitHeadline": "شعار يتذكّره الناس",
+    "shortDescription": "شعار واضح وألوان وخطوط تعطي محلّك هيبة وتميّزه عن المحلات اللي جنبه.",
+    "heroSubheadline": "نصمّم لمحلّك هوية بصرية عملية تشتغل على اللوحة الخارجية، والأكياس، والمنيو، وحسابات السوشال ميديا بنفس الوضوح.",
+    "problemStatement": "كثير من المحلات تقدّم منتج ممتاز، لكن شعارها قديم أو مأخوذ من قوالب جاهزة، فيحسّ الزبون إن المحل عادي أو غير موثوق قبل حتى ما يجرب.",
+    "deliverables": [
+      {
+        "itemText": "تصميم الشعار الأساسي والنسخ البديلة (الأفقية والعمودية والأيقونة)"
+      },
+      {
+        "itemText": "لوحة الألوان المعتمدة للطباعة والشاشات (CMYK و RGB و Hex)"
+      },
+      {
+        "itemText": "اختيار الخطوط العربية والإنجليزية للعناوين والأسعار"
+      },
+      {
+        "itemText": "دليل إرشادي مختصر وواضح لاستخدام الهوية بدون تعقيد"
+      },
+      {
+        "itemText": "ملفات مفتوحة وجاهزة للمطابع والخطاطين بجميع الصيغ"
+      }
+    ],
+    "packageInclusionNote": "تتوفر الهوية والشعار ضمن باقة التأسيس «واجهة المحل» لمرة واحدة، أو كمشروع مستقل للمحلات القائمة.",
+    "processSteps": [
+      {
+        "stepTitle": "نفهم نشاطك وزبونك",
+        "stepDescription": "نجلس معك أو نتواصل معك لنعرف طبيعة محلّك، أسعاره، والانطباع اللي تبغى تتركه عند الناس."
+      },
+      {
+        "stepTitle": "نبتكر الخيارات ونعرضها على الواقع",
+        "stepDescription": "نوريك الشعار مقترحًا على لوحة المحل والأكياس والأكواب عشان تشوف النتيجة الحقيقية."
+      },
+      {
+        "stepTitle": "نعتمد ونسلّمك الملفات الكاملة",
+        "stepDescription": "نسلّمك كل الملفات مرتبة وجاهزة للإرسال لأي مطبعة أو وكالة لوحات فورًا."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "هل أستلم الملفات المفتوحة للشعار؟",
+        "answer": "نعم، ملكية الشعار والملفات المفتوحة (AI, EPS, PDF, PNG, SVG) تكون لك بالكامل فور اعتماد التصميم."
+      },
+      {
+        "question": "كم يستغرق تصميم الهوية والشعار؟",
+        "answer": "عادة من ٧ إلى ١٢ يوم عمل شاملة العرض والتعديلات وتسليم الحزمة النهائية."
+      }
+    ],
+    "primaryCtaLabel": "أبغى شعار وهوية لمحلّي",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي محل وأبغى أستفسر عن تصميم الهوية والشعار.",
+    "seo": {
+      "metaTitle": "تصميم شعار وهوية بصرية للمحلات والمطاعم في الأحساء والشرقية | بيّورا",
+      "metaDescription": "نصمم شعارات وهويات بصرية واضحة للمحلات والمطاعم والكافيهات والصيدليات في الأحساء والهفوف والمبرز والدمام والخبر."
+    }
+  },
+  "en": {
+    "name": "Brand and identity",
+    "benefitHeadline": "A logo people remember",
+    "shortDescription": "A clear logo, colour palette, and typography system that gives your shop authority and sets it apart on the street.",
+    "heroSubheadline": "We craft practical visual identities built for real Saudi storefronts, menus, packaging, and social media profiles.",
+    "problemStatement": "Many local shops offer great products, but an outdated or template-looking logo makes customers underestimate the business before walking through the door.",
+    "deliverables": [
+      {
+        "itemText": "Primary logo design plus horizontal, stacked, and icon variations"
+      },
+      {
+        "itemText": "Approved colour palette for both print and digital screens (CMYK, RGB, Hex)"
+      },
+      {
+        "itemText": "Arabic and English typography pairing for headlines, menus, and pricing"
+      },
+      {
+        "itemText": "Clear, practical brand usage guide for signage, packaging, and social posts"
+      },
+      {
+        "itemText": "Open source and print-ready vector files in all industry formats"
+      }
+    ],
+    "packageInclusionNote": "Included in the one-time \"Shop Look\" starter bundle, or available as a standalone project for existing businesses.",
+    "processSteps": [
+      {
+        "stepTitle": "Understand your shop & customer",
+        "stepDescription": "We review your shop category, target customers, and surrounding competitors."
+      },
+      {
+        "stepTitle": "Design & preview on real mockups",
+        "stepDescription": "You see the logo applied directly onto storefront signage, bags, cups, and social profiles."
+      },
+      {
+        "stepTitle": "Approve & deliver print-ready files",
+        "stepDescription": "We hand over organized master files ready for any printer or signage fabricator."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "Do I receive the editable source files for my logo?",
+        "answer": "Yes. Full ownership and all vector/source files (AI, EPS, PDF, PNG, SVG) are yours upon approval."
+      },
+      {
+        "question": "How long does brand identity design take?",
+        "answer": "Typically 7 to 12 business days including concept presentation, refinements, and final file handover."
+      }
+    ],
+    "primaryCtaLabel": "Request brand identity for my shop",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about Brand & Identity design for my shop.",
+    "seo": {
+      "metaTitle": "Brand Identity & Logo Design for Shops in Al Ahsa & Eastern Province | Bayyora",
+      "metaDescription": "Practical logo and brand identity design for restaurants, cafes, pharmacies, and retail shops across Al Ahsa, Dammam, and Khobar."
+    }
+  }
+}

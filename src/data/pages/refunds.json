@@ -1,0 +1,27 @@
+{
+  "slug": "refunds",
+  "isLegalPage": true,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "سياسة الإلغاء والاسترجاع",
+    "subtitle": "مرونة كاملة في الباقات الشهرية وضمان واضح لكل مرحلة من مراحل مشاريع التأسيس.",
+    "legalBodyMarkdown": "### ١. مرونة الباقات الشهرية (بدون عقود سنوية ملزمة)\nتعمل باقاتنا الشهرية (بداية، نمو، ريادة) بنظام التجديد الشهري المرن. يمكن للعميل إيقاف التجديد للشهر القادم بمجرد إشعارنا عبر الواتساب أو البريد الإلكتروني قبل ٧ أيام من نهاية الشهر الجاري، دون أي غرامات إلغاء.\n\n### ٢. استرجاع رسوم الباقات الشهرية قبل بدء التنفيذ\nفي حال رغب العميل في إلغاء الاشتراك الشهري خلال ٤٨ ساعة من السداد وقبل البدء الفعلي في إعداد خطة المحتوى أو جلسة التصوير، يتم استرجاع المبلغ المدفوع بالكامل ١٠٠٪.\n\n### ٣. مشاريع التأسيس لمرة واحدة (الهوية، المطبوعات، المواقع)\n- قبل بدء العمل التصميمي أو البرمجي: يُسترد العربون المدفوع بالكامل.\n- بعد تسليم المسودات الأولية وقبل الاعتماد النهائي: يحتفظ العميل بحق طلب التعديلات المتفق عليها، أو الاكتفاء بالمرحلة المنفذة وفق نسبة الإنجاز الفعلية.\n\n### ٤. آلية ومدة الاسترجاع\nتُعاد المبالغ المستحقة إلى نفس الحساب البنكي أو وسيلة الدفع الأصلية خلال ٥ إلى ١٠ أيام عمل.",
+    "whatsappPrefillMessage": "السلام عليكم، لدي استفسار بخصوص سياسة الإلغاء والاسترجاع.",
+    "seo": {
+      "metaTitle": "سياسة الإلغاء والاسترجاع ومرونة الباقات الشهرية | بيّورا",
+      "metaDescription": "تعرف على سياسة الإلغاء والاسترجاع المرنة في بيّورا للباقات الشهرية ومشاريع التأسيس لمرة واحدة."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Cancellation and Refund Policy",
+    "subtitle": "Flexible month-to-month retainers and transparent milestone policies for one-time projects.",
+    "legalBodyMarkdown": "### 1. Flexible Month-to-Month Packages (No Annual Lock-In)\nOur monthly growth packages (Bidaya, Numow, Riyada) renew month-to-month. You may pause or cancel upcoming renewals anytime by notifying us at least 7 days before the next billing cycle with zero cancellation penalties.\n\n### 2. Full Refund Before Work Commences\nIf you request a cancellation within 48 hours of payment and before content production or on-site photography has started, you receive a 100% full refund.\n\n### 3. One-Time Projects & Starter Bundles\n- Prior to initial concept work: 100% refundable.\n- After initial concept presentation: Covered by our revision rounds, or prorated strictly by completed milestones.\n\n### 4. Refund Processing Timeline\nApproved refunds are returned to the original payment method or bank account within 5 to 10 business days.",
+    "whatsappPrefillMessage": "Hello Bayyora team, I have a question regarding your Cancellation and Refund Policy.",
+    "seo": {
+      "metaTitle": "Cancellation & Refund Policy | Bayyora",
+      "metaDescription": "Transparent cancellation and refund terms for Bayyora’s month-to-month retainers and one-time projects."
+    },
+    "layout": []
+  }
+}

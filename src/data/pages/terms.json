@@ -1,0 +1,27 @@
+{
+  "slug": "terms",
+  "isLegalPage": true,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "الشروط والأحكام",
+    "subtitle": "ضوابط واضحة تحفظ حقوق صاحب المحل وتنظّم نطاق العمل، المواعيد، وملكية الحسابات والملفات.",
+    "legalBodyMarkdown": "### ١. نطاق الخدمات وعروض الأسعار\nتُقدّم خدمات بيّورا (الهوية، المطبوعات، المواقع، السوشال ميديا، التصوير، الإعلانات، والواتساب) بناءً على عرض السعر أو الباقة المعتمدة كتابيًا مع العميل.\n\n### ٢. ملكية الحسابات والملفات الفكرية (ملكية العميل ١٠٠٪)\nتبقى ملكية جميع حسابات التواصل الاجتماعي، ملف النشاط التجاري في خرائط جوجل، النطاق (Domain)، والملفات المفتوحة والنهائية للشعار والتصاميم التي سُددت مستحقاتها ملكًا خالصًا للعميل ١٠٠٪.\n\n### ٣. ميزانيات المنصات الإعلانية\nفي باقات إدارة الإعلانات الممولة، تشمل رسوم بيّورا إعداد وإدارة ومتابعة الحملات، بينما تُدفع ميزانية الإعلان نفسها مباشرة من وسيلة دفع العميل إلى المنصة الإعلانية (سناب شات، تيك توك، ميتا، جوجل).\n\n### ٤. عدم نشر أعمال العملاء دون إذن خطي\nتلتزم بيّورا بعدم نشر اسم أو صور أو نتائج أي عميل في معرض الأعمال أو كدراسة حالة إلا بعد الحصول على موافقة خطية مسبقة من العميل.\n\n### ٥. الأنظمة المطبقة\nتخضع هذه الشروط للأنظمة التجارية المعمول بها في المملكة العربية السعودية.",
+    "whatsappPrefillMessage": "السلام عليكم، لدي استفسار بخصوص الشروط والأحكام.",
+    "seo": {
+      "metaTitle": "الشروط والأحكام وضمان ملكية الحسابات | بيّورا",
+      "metaDescription": "الشروط والأحكام المنظمة لخدمات وكالة بيّورا، وضمان ملكية العميل الكاملة للحسابات والملفات التصميمية."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Terms and Conditions of Service",
+    "subtitle": "Clear, transparent terms governing scope of work, timelines, approvals, and 100% client ownership.",
+    "legalBodyMarkdown": "### 1. Scope of Services & Quotes\nAll Bayyora services are delivered according to the itemized scope defined in your approved package or written proposal.\n\n### 2. 100% Client Ownership of Accounts & Assets\nYou retain 100% ownership of all social media accounts, Google Business Profile listings, domains, websites, and final paid design source files at all times.\n\n### 3. Third-Party Advertising Media Spend\nPackage management fees cover strategy, creative setup, and campaign management. Direct media spend billed by Google, Snapchat, TikTok, or Meta is paid directly by the client to the respective platform.\n\n### 4. Client Confidentiality & Portfolio Permission\nBayyora never publishes real client case studies, testimonials, or unannounced designs without explicit written client permission.\n\n### 5. Governing Law\nThese terms are governed by the laws and commercial regulations of the Kingdom of Saudi Arabia.",
+    "whatsappPrefillMessage": "Hello Bayyora team, I have a question regarding your Terms and Conditions.",
+    "seo": {
+      "metaTitle": "Terms & Conditions of Service | Bayyora",
+      "metaDescription": "Review Bayyora’s service terms, scope governance, and 100% client account and design ownership guarantee."
+    },
+    "layout": []
+  }
+}

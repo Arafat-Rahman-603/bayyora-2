@@ -1,0 +1,75 @@
+{
+  "displayOrder": 5,
+  "slug": "khobar",
+  "canVisitInPerson": true,
+  "latitude": 26.2794,
+  "longitude": 50.2083,
+  "ar": {
+    "name": "الخبر",
+    "region": "المنطقة الشرقية",
+    "heroHeadline": "هوية عصرية وتسويق يليق بمشروعك في الخبر",
+    "heroSubheadline": "جمهور الخبر يهتم بالتفاصيل، الذوق البصري، والمحتوى الثنائي (عربي/إنجليزي): نجهّز لعلامتك حضورًا متقنًا يجذب الزوار المقيمين والقادمين عبر الجسر.",
+    "localIntro": "تُعرف الخبر بذوقها الرفيع وتنوع جمهورها من العائلات السعودية والمقيمين وزوار عطلة نهاية الأسبوع في مناطق مثل العليا، الحزام الذهبي، الكورنيش، والراكة. النجاح في الخبر يتطلب هوية بصرية أنيقة، منيو وموقعًا ثنائي اللغة (عربي وإنجليزي) بدون أخطاء، وتصويرًا يبرز أجواء المكان وتجربة الضيافة.",
+    "commercialZones": [
+      {
+        "zoneName": "حي العليا وطريق الأمير تركي والكورنيش",
+        "businessFocus": "المطاعم الراقية، الكافيهات المختصة، البوتيكات، واللاونجات"
+      },
+      {
+        "zoneName": "الحزام الذهبي، الراكة، والخبر الشمالية",
+        "businessFocus": "العيادات التجميلية، الصالونات، المراكز الرياضية، والمتاجر المتخصصة"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "الحاجة لمحتوى ومنيو ثنائي اللغة (عربي + إنجليزي) باحترافية",
+        "description": "نكتب ونصمّم محتوى مشروعك في الخبر باللغتين العربية والإنجليزية بدقة تناسب تنوع زبائنك."
+      },
+      {
+        "title": "إبراز تجربة المكان والديكور في الريلز والتصوير",
+        "description": "ننتج مقاطع فيديو وصورًا تبرز تفاصيل المكان وتجربة الضيافة لجذب زوار نهاية الأسبوع."
+      }
+    ],
+    "visitSectionTitle": "جلسات تصوير واستشارات في الخبر",
+    "visitSectionBody": "ننسّق زيارات تصوير واجتماعات دورية لعملائنا في الخبر لتجهيز الهوية والمنيو والمحتوى الشهري.",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي مشروع في الخبر وأبغى أستفسر عن خدماتكم.",
+    "seo": {
+      "metaTitle": "تصميم هوية بصرية وتسويق رقمي وتصوير للمطاعم والمحلات في الخبر | بيّورا",
+      "metaDescription": "خدمات الهوية البصرية، تصميم المنيو والمواقع، إدارة السوشال ميديا، والتصوير للمطاعم والكافيهات والعيادات في الخبر."
+    }
+  },
+  "en": {
+    "name": "Khobar",
+    "region": "Eastern Province",
+    "heroHeadline": "Elevated branding & bilingual marketing for Khobar businesses",
+    "heroSubheadline": "Khobar customers expect refined design and seamless Arabic/English experiences: we craft elevated identities, menus, and content that attract residents and regional visitors.",
+    "localIntro": "Khobar is renowned for its design-conscious dining, specialty coffee, and boutique retail scene across Al Olaya, Golden Belt, the Corniche, and Al Rakah. Succeeding in Khobar requires refined visual identity, bilingual Arabic/English menus and websites, and lifestyle photography.",
+    "commercialZones": [
+      {
+        "zoneName": "Al Olaya, Prince Turki Street & Khobar Corniche",
+        "businessFocus": "Concept restaurants, specialty coffee bars, and lifestyle boutiques"
+      },
+      {
+        "zoneName": "Golden Belt, Al Rakah & North Khobar",
+        "businessFocus": "Aesthetic clinics, luxury salons, fitness studios, and specialty retail"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "Need for polished bilingual (Arabic & English) menus & social presence",
+        "description": "We write and design native Arabic and English menus, websites, and social content tailored to Khobar’s diverse clientele."
+      },
+      {
+        "title": "Showcasing ambiance & interior design in Reels",
+        "description": "We produce atmospheric photography and vertical Reels that capture your interior experience and draw weekend visitors."
+      }
+    ],
+    "visitSectionTitle": "Scheduled shoots & consultations in Khobar",
+    "visitSectionBody": "We coordinate dedicated on-site photography sessions and brand consultations across Khobar.",
+    "whatsappPrefillMessage": "Hello Bayyora team, I have a business in Khobar and would like to inquire about your services.",
+    "seo": {
+      "metaTitle": "Brand Identity, Bilingual Marketing & Photography in Khobar | Bayyora",
+      "metaDescription": "Elevated brand identity, bilingual websites, social media management, and food photography in Khobar, Saudi Arabia."
+    }
+  }
+}

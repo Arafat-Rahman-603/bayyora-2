@@ -1,0 +1,13 @@
+node_modules
+.next
+.data
+media
+.git
+.agents
+planning
+coverage
+playwright-report
+test-results
+.env
+.env*.local
+

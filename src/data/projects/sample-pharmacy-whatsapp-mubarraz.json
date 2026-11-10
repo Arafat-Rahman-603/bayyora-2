@@ -1,0 +1,77 @@
+{
+  "slug": "sample-pharmacy-whatsapp-mubarraz",
+  "isSampleConcept": true,
+  "clientPermissionVerified": false,
+  "hasFullCaseStudyPage": false,
+  "serviceCategory": "whatsapp-follow-up",
+  "businessType": "pharmacy",
+  "_status": "published",
+  "ar": {
+    "title": "نموذج توضيحي: تنظيم واتساب الأعمال ومحتوى التوعية لصيدلية مجتمعية",
+    "cityTag": "المبرز",
+    "summary": "مثال توضيحي لتجهيز استقبال استفسارات الأدوية ومنتجات العناية عبر واتساب مع محتوى متوافق مع ضوابط الغذاء والدواء.",
+    "beforeHeadline": "قبل (تأخر في الرد)",
+    "afterHeadline": "بعد (واتساب منظم ومحتوى موثوق)",
+    "beforeMetrics": [
+      {
+        "label": "استفسارات واتساب",
+        "value": "رسائل غير مقروءة وقت الذروة"
+      },
+      {
+        "label": "الكتالوج",
+        "value": "غير متوفر"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "استفسارات واتساب",
+        "value": "رد ترحيبي فوري وتقسيم حسب الطلب"
+      },
+      {
+        "label": "الكتالوج",
+        "value": "كتالوج عروض العناية اليومية داخل واتساب"
+      }
+    ],
+    "challengeSummary": "سكان الحي يرسلون صور الوصفات أو يسألون عن توفر منتجات العناية بالواتساب ويتأخر الرد لانشغال الصيدلي.",
+    "solutionSummary": "إعداد واتساب الأعمال بقوائم رد سريع وتصنيفات، مع منشورات تثقيفية تحترم ضوابط هيئة الغذاء والدواء (SFDA).",
+    "verifiedOutcomeSummary": "نموذج توضيحي لخدمة «واتساب ومتابعة العملاء» للقطاع الصيدلاني.",
+    "seo": {
+      "metaTitle": "نموذج توضيحي: تنظيم واتساب الأعمال ومحتوى التوعية لصيدلية مجتمعية | دراسة حالة ونموذج تحول بيّورا",
+      "metaDescription": "مثال توضيحي لتجهيز استقبال استفسارات الأدوية ومنتجات العناية عبر واتساب مع محتوى متوافق مع ضوابط الغذاء والدواء."
+    }
+  },
+  "en": {
+    "title": "Sample Concept: WhatsApp Ordering & SFDA-Compliant Content for Community Pharmacy",
+    "cityTag": "Mubarraz",
+    "summary": "Illustrative concept for organizing WhatsApp inquiries and SFDA-compliant educational social posts for a neighborhood pharmacy.",
+    "beforeHeadline": "Before (Missed Messages)",
+    "afterHeadline": "After (Structured WhatsApp Flow)",
+    "beforeMetrics": [
+      {
+        "label": "WhatsApp Inquiries",
+        "value": "Unread messages at peak hours"
+      },
+      {
+        "label": "Product Catalogue",
+        "value": "No digital catalogue"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "WhatsApp Inquiries",
+        "value": "Instant greeting & routing"
+      },
+      {
+        "label": "Product Catalogue",
+        "value": "In-app personal care catalogue"
+      }
+    ],
+    "challengeSummary": "Neighbors message on WhatsApp to check product availability while the pharmacist is busy at the counter.",
+    "solutionSummary": "WhatsApp Business quick-reply templates, order labels, and ethical SFDA-aligned wellness content.",
+    "verifiedOutcomeSummary": "Illustrative concept for our WhatsApp & Follow-Up service tailored to pharmacies.",
+    "seo": {
+      "metaTitle": "Sample Concept: WhatsApp Ordering & SFDA-Compliant Content for Community Pharmacy | Bayyora Case Study & Transformation",
+      "metaDescription": "Illustrative concept for organizing WhatsApp inquiries and SFDA-compliant educational social posts for a neighborhood pharmacy."
+    }
+  }
+}

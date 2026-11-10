@@ -1,0 +1,75 @@
+{
+  "displayOrder": 2,
+  "slug": "hofuf",
+  "canVisitInPerson": true,
+  "latitude": 25.3648,
+  "longitude": 49.5876,
+  "ar": {
+    "name": "الهفوف",
+    "region": "الأحساء — المنطقة الشرقية",
+    "heroHeadline": "خلّ محلّك في الهفوف يبان ويجيب زباين أكثر",
+    "heroSubheadline": "نخدم المطاعم والكافيهات والصيدليات ومحلات التجزئة في أحياء الهفوف بتصاميم واضحة، تصوير يفتح النفس، وإعلانات محلية مركّزة.",
+    "localIntro": "تشهد أحياء الهفوف مثل الخالدية والمزروعية والسلمانية وشارع الستين منافسة عالية بين المطاعم ومقاهي القهوة المختصة ومحلات الخدمات. عندما تتشابه اللوحات والعروض في نفس الشارع، يصبح الفارق الحقيقي هو وضوح هويتك، وجودة صور أطباقك في تطبيقات التوصيل، وسرعة ردك على الزبون في الواتساب.",
+    "commercialZones": [
+      {
+        "zoneName": "حي السلمانية والمزروعية وشارع الرياض",
+        "businessFocus": "المطاعم، الكافيهات، الصيدليات، والعيادات التخصصية"
+      },
+      {
+        "zoneName": "حي الخالدية وشارع الستين والملك فهد",
+        "businessFocus": "محلات الحلويات، المخابز، البصريات، ومحلات الملابس والعطور"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "ازدحام الخيارات في شوارع الهفوف الرئيسية",
+        "description": "نصمّم واجهة وهوية ومنيو يخلّي الزبون يتذكّر اسم محلّك من أول نظرة."
+      },
+      {
+        "title": "ضعف الصور في تطبيقات التوصيل والمنيو الرقمي",
+        "description": "نزور محلّك في الهفوف لتصوير الأصناف بإضاءة احترافية ترفع نسبة الطلب."
+      }
+    ],
+    "visitSectionTitle": "احجز زيارة لفريقنا في الهفوف",
+    "visitSectionBody": "فريقنا متواجد لخدمة أحياء الهفوف ميدانيًا لتقييم حضور محلّك وتنفيذ جلسات التصوير الشهرية.",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي محل في الهفوف وأبغى أستفسر عن خدماتكم.",
+    "seo": {
+      "metaTitle": "تسويق وتصوير وتصميم هوية للمحلات والمطاعم في الهفوف | بيّورا",
+      "metaDescription": "شريك التسويق المحلي لمحلات ومطاعم وكافيهات الهفوف: إدارة سوشال ميديا، تصوير أطعمة ومنتجات، وتجهيز خرائط جوجل."
+    }
+  },
+  "en": {
+    "name": "Hofuf",
+    "region": "Al Ahsa — Eastern Province",
+    "heroHeadline": "Make your Hofuf shop stand out & win more customers",
+    "heroSubheadline": "Helping restaurants, cafes, pharmacies, and retailers across Hofuf neighborhoods grow through crisp branding, food photography, and local search.",
+    "localIntro": "Across bustling Hofuf districts like Al Khalidiyah, Al Mazrooiyah, Al Salmaniyah, and 60th Street, dozens of restaurants and shops compete side by side. Distinct storefront branding, appetizing menu photography, and instant WhatsApp responses set the winners apart.",
+    "commercialZones": [
+      {
+        "zoneName": "Al Salmaniyah, Al Mazrooiyah & Riyadh Street",
+        "businessFocus": "Restaurants, coffee shops, pharmacies, and medical clinics"
+      },
+      {
+        "zoneName": "Al Khalidiyah, 60th Street & King Fahd Road",
+        "businessFocus": "Bakeries, patisseries, optical shops, apparel, and perfumeries"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "Standing out on crowded Hofuf commercial strips",
+        "description": "We design high-contrast signage, menus, and packaging that stay memorable after every order."
+      },
+      {
+        "title": "Low conversion on delivery apps & digital menus",
+        "description": "We shoot your menu items on-site in Hofuf so every dish looks as good online as it tastes."
+      }
+    ],
+    "visitSectionTitle": "Book an on-site visit in Hofuf",
+    "visitSectionBody": "Our team is available across all Hofuf districts for storefront consultations and monthly photo/video shoots.",
+    "whatsappPrefillMessage": "Hello Bayyora team, I own a shop in Hofuf and would like to inquire about your services.",
+    "seo": {
+      "metaTitle": "Marketing, Photography & Branding for Shops in Hofuf | Bayyora",
+      "metaDescription": "Social media management, food photography, storefront design, and Google Maps optimization for Hofuf businesses."
+    }
+  }
+}

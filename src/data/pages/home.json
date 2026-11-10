@@ -1,0 +1,411 @@
+{
+  "slug": "home",
+  "isLegalPage": false,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "نخلّي محلّك يبان... ويجيب لك زباين أكثر",
+    "subtitle": "الهوية، اللوحة، المنيو، السوشال ميديا، التصوير، إعلانات وخرائط جوجل، ومتابعة واتساب — كل اللي يحتاجه محلّك من فريق محلي واحد في الأحساء والشرقية.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، شفت موقعكم وأبغى أستفسر عن خدماتكم لمحلي.",
+    "seo": {
+      "metaTitle": "بيّورا (Bayyora) | وكالة تسويق وتصميم وتصوير للمحلات في الأحساء والشرقية",
+      "metaDescription": "بيّورا — خطوة لفوق لمحلّك: تصميم هوية ومطبوعات، مواقع ومتاجر، إدارة سوشال ميديا، تصوير ميداني، وخرائط جوجل في الأحساء والهفوف والمبرز والدمام والخبر."
+    },
+    "layout": [
+      {
+        "blockType": "hero",
+        "isVisible": true,
+        "layoutVariant": "split_maps_compare",
+        "eyebrow": "خطوة لفوق",
+        "headline": "نخلّي محلّك يبان... ويجيب لك زباين أكثر",
+        "highlightWord": "يبان",
+        "subheadline": "الهوية، اللوحة، المنيو، السوشال ميديا، التصوير، إعلانات وخرائط جوجل، ومتابعة واتساب — كل اللي يحتاجه محلّك من فريق واحد.",
+        "primaryCtaLabel": "راسلنا واتساب",
+        "primaryCtaUrl": "whatsapp",
+        "secondaryCtaLabel": "اطلب تحليل مجاني",
+        "secondaryCtaUrl": "/free-audit",
+        "trustNote": "الأحساء • الهفوف • المبرز • الدمام • الخبر — نخدم المنطقة الشرقية وكل السعودية"
+      },
+      {
+        "blockType": "serviceCards",
+        "isVisible": true,
+        "layoutVariant": "pain_strip_4col",
+        "heading": "محلّك ممتاز.. بس الزباين ما يشوفونه",
+        "painItems": [
+          {
+            "title": "ما له مكان على خرائط جوجل",
+            "description": "الناس يبحثون قريب منك وما يطلع لهم اسم محلّك أو ساعات العمل.",
+            "iconName": "map-pin"
+          },
+          {
+            "title": "حسابات التواصل نائمة",
+            "description": "آخر منشور قبل شهور يخلي الزبون يظن إن المحل مقفّل.",
+            "iconName": "share-2"
+          },
+          {
+            "title": "شعار ولوحة قديمة",
+            "description": "الواجهة والمنيو ما تعكس جودة البضاعة والأكل اللي تقدمه.",
+            "iconName": "printer"
+          },
+          {
+            "title": "طلبات بالتلفون تضيع",
+            "description": "بدون منيو واضح وواتساب منظم تضيع الرسائل وقت الزحمة.",
+            "iconName": "message-circle"
+          }
+        ]
+      },
+      {
+        "blockType": "serviceCards",
+        "isVisible": true,
+        "layoutVariant": "grid_3col_compact",
+        "eyebrow": "خدماتنا",
+        "heading": "كل اللي يحتاجه محلّك، من فريق واحد",
+        "subheading": "٩ خدمات عملية مصممة للمحلات والمطاعم والكافيهات والصيدليات والصالونات.",
+        "ctaLabel": "كل الخدمات بالتفصيل",
+        "ctaUrl": "/services"
+      },
+      {
+        "blockType": "beforeAndAfter",
+        "isVisible": true,
+        "eyebrow": "الفرق واضح",
+        "heading": "شاهد كيف يتحوّل حضور المحل قبل وبعد الترتيب",
+        "subheading": "حرّك المؤشر لمقارنة شكل حضور المحل في خرائط جوجل والمنيو والسوشال ميديا قبل وبعد تدخل فريق بيّورا."
+      },
+      {
+        "blockType": "processSteps",
+        "isVisible": true,
+        "layoutVariant": "steps_4col_numbered",
+        "eyebrow": "كيف نشتغل",
+        "heading": "٤ خطوات بسيطة وواضحة",
+        "steps": [
+          {
+            "stepNumber": "1",
+            "title": "راسلنا واتساب",
+            "description": "أرسل اسم محلّك ومدينتك أو اطلب التحليل المجاني في دقيقة."
+          },
+          {
+            "stepNumber": "2",
+            "title": "تحليل مجاني",
+            "description": "نفحص حساباتك وخرائط جوجل ونرسل لك ٣ ملاحظات عملية خلال ٤٨ ساعة."
+          },
+          {
+            "stepNumber": "3",
+            "title": "نستلم ونشتغل",
+            "description": "نصمّم، نصوّر في محلّك، وننشر المحتوى والإعلانات بانتظام."
+          },
+          {
+            "stepNumber": "4",
+            "title": "زباين أكثر",
+            "description": "محلّك يبان للناس القريبة منك وتزيد الزيارات والطلبات."
+          }
+        ]
+      },
+      {
+        "blockType": "packageComparison",
+        "isVisible": true,
+        "eyebrow": "الباقات",
+        "heading": "باقات شهرية واضحة تناسب محلّك",
+        "subheading": "اختر الباقة المناسبة لحجم شغلك — مرونة شهرية بدون عقود سنوية معقدة.",
+        "showMonthlyPackages": true,
+        "showStarterBundles": false,
+        "pricingDisclaimerNote": "تُحدّد التكلفة الدقيقة حسب احتياج محلّك بعد التحليل المجاني • ميزانية المنصات الإعلانية تُدفع مباشرة للمنصة."
+      },
+      {
+        "blockType": "textAndImage",
+        "isVisible": true,
+        "layoutVariant": "navy_feature_card",
+        "eyebrow": "ليش بيّورا؟",
+        "heading": "شريك محلي تثق فيه",
+        "bullets": [
+          {
+            "title": "فريق محلي يجيك للمحل",
+            "description": "نزورك ميدانيًا في الأحساء والشرقية للتصوير والمعاينة وجهًا لوجه.",
+            "iconName": "map-pin"
+          },
+          {
+            "title": "كل شيء من مكان واحد",
+            "description": "بدل التشتت بين مصمم ومصوّر ومسوق، فريق واحد يمسك كل شيء.",
+            "iconName": "layers"
+          },
+          {
+            "title": "نطاق عمل واضح ومرن",
+            "description": "تعرف بالضبط كم تصميم وكم فيديو وزيارة تحصل عليها كل شهر.",
+            "iconName": "check-circle"
+          },
+          {
+            "title": "الحسابات والملفات باسمك ١٠٠٪",
+            "description": "ملكية حساباتك وموقعك وملفات شعارك تبقى لك دائمًا.",
+            "iconName": "shield-check"
+          },
+          {
+            "title": "التزام بالمواعيد والرد السريع",
+            "description": "معك مباشرة على الواتساب ونبدأ الشغل خلال ٤٨ ساعة.",
+            "iconName": "clock"
+          }
+        ]
+      },
+      {
+        "blockType": "seasonalBanner",
+        "isVisible": true,
+        "layoutVariant": "interactive_season_pills",
+        "eyebrow": "حملات المواسم",
+        "heading": "جاهزين قبل الموسم... مو بعده",
+        "subheading": "نجهّز لمحلّك عروض وتصاميم ومطبوعات وفيديوهات المواسم السعودية قبل وقتها بأسبوعين إلى ثلاثة.",
+        "seasons": [
+          {
+            "seasonKey": "ramadan",
+            "label": "رمضان",
+            "headline": "حملة شهر رمضان المبارك",
+            "description": "تصميم منيو وبوكسات رمضان، تغليف موسمي، تصوير الأطباق الرمضانية، وإعلانات أوقات الذروة.",
+            "deliverablesSummary": "منيو رمضان + ٨ تصاميم + ٢ ريلز + ملصق تغليف + تحديث أوقات الدوام",
+            "ctaLabel": "جهّز حملة رمضان لمحلّك"
+          },
+          {
+            "seasonKey": "eid",
+            "label": "العيد",
+            "headline": "حملة العيد وتوزيعات الهدايا",
+            "description": "تجهيز عروض العيد وبوكسات الإهداء والحجوزات المبكرة للصالونات والمطاعم ومحلات التجزئة.",
+            "deliverablesSummary": "تصاميم عروض العيد + ريلز معايدة وعرض + بطاقات إهداء مطبوعة",
+            "ctaLabel": "جهّز حملة العيد"
+          },
+          {
+            "seasonKey": "founding_day",
+            "label": "يوم التأسيس",
+            "headline": "حملة يوم التأسيس السعودي (٢٢ فبراير)",
+            "description": "هوية وعروض يوم التأسيس بطابع تراثي أصيل يليق بمحلّك ويجذب زوار الموسم.",
+            "deliverablesSummary": "بوستر واجهة + أكواب/ملصقات يوم التأسيس + ٦ تصاميم + فيديو ريلز",
+            "ctaLabel": "جهّز حملة يوم التأسيس"
+          },
+          {
+            "seasonKey": "national_day",
+            "label": "اليوم الوطني",
+            "headline": "حملة اليوم الوطني السعودي (٢٣ سبتمبر)",
+            "description": "عروض اليوم الوطني وتصاميم الهوية الخضراء والمنتجات الخاصة بالمناسبة.",
+            "deliverablesSummary": "حزمة تصاميم اليوم الوطني + فيديو عرض خاص + مطبوعات المحل",
+            "ctaLabel": "جهّز حملة اليوم الوطني"
+          },
+          {
+            "seasonKey": "white_friday",
+            "label": "الجمعة البيضاء والعودة للمدارس",
+            "headline": "حملات التخفيضات والعودة للمدارس",
+            "description": "حملات مبيعات سريعة لتحريك المخزون وزيادة الطلبات في مواسم الذروة الشرائية.",
+            "deliverablesSummary": "تصاميم عروض الخصم + حملة إعلانية ممولة + كتالوج واتساب",
+            "ctaLabel": "اطلب حملة العروض"
+          }
+        ]
+      },
+      {
+        "blockType": "faqSection",
+        "isVisible": true,
+        "eyebrow": "أسئلة شائعة",
+        "heading": "عندك سؤال؟",
+        "subheading": "إجابات سريعة وواضحة قبل ما نبدأ.",
+        "showCategoryFilter": false,
+        "emitFaqSchema": true
+      }
+    ]
+  },
+  "en": {
+    "title": "We make your shop stand out... and bring you more customers",
+    "subtitle": "Brand identity, signage, menus, social media, photography, Google Maps & local ads, and WhatsApp follow-up — everything your shop needs from one local team in Al Ahsa & the Eastern Province.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "Hello Bayyora team, I visited your website and would like to inquire about your services for my shop.",
+    "seo": {
+      "metaTitle": "Bayyora (بيّورا) | Local Marketing, Branding & Photography Agency in Al Ahsa & Eastern Province",
+      "metaDescription": "Bayyora — One step up for your shop: brand identity, print & menus, websites, social media, photography, and Google Maps SEO in Al Ahsa, Dammam & Khobar."
+    },
+    "layout": [
+      {
+        "blockType": "hero",
+        "isVisible": true,
+        "layoutVariant": "split_maps_compare",
+        "eyebrow": "One step up",
+        "headline": "We make your shop stand out... and bring you more customers",
+        "highlightWord": "stand out",
+        "subheadline": "Brand identity, signage, menus, social media, photography, Google Maps & local ads, and WhatsApp follow-up — everything your shop needs from one local team.",
+        "primaryCtaLabel": "Chat on WhatsApp",
+        "primaryCtaUrl": "whatsapp",
+        "secondaryCtaLabel": "Free mini audit",
+        "secondaryCtaUrl": "/free-audit",
+        "trustNote": "Al Ahsa • Hofuf • Mubarraz • Dammam • Khobar — Serving the Eastern Province & Saudi Arabia"
+      },
+      {
+        "blockType": "serviceCards",
+        "isVisible": true,
+        "layoutVariant": "pain_strip_4col",
+        "heading": "Your shop is great... but nearby customers can’t see it",
+        "painItems": [
+          {
+            "title": "Invisible on Google Maps",
+            "description": "Shoppers search blocks away and your shop hours, pin, or photos never appear.",
+            "iconName": "map-pin"
+          },
+          {
+            "title": "Silent social media accounts",
+            "description": "When your last post was months ago, new visitors assume the business is closed.",
+            "iconName": "share-2"
+          },
+          {
+            "title": "Outdated sign & menu",
+            "description": "An old storefront sign or cluttered menu undersells the real quality of your product.",
+            "iconName": "printer"
+          },
+          {
+            "title": "Missed phone & WhatsApp orders",
+            "description": "Without a clear digital menu and structured WhatsApp, rush-hour inquiries slip away.",
+            "iconName": "message-circle"
+          }
+        ]
+      },
+      {
+        "blockType": "serviceCards",
+        "isVisible": true,
+        "layoutVariant": "grid_3col_compact",
+        "eyebrow": "Our Services",
+        "heading": "Everything your shop needs, from one team",
+        "subheading": "9 practical services built for restaurants, cafes, pharmacies, salons, and retail stores.",
+        "ctaLabel": "View all 9 services",
+        "ctaUrl": "/services"
+      },
+      {
+        "blockType": "beforeAndAfter",
+        "isVisible": true,
+        "eyebrow": "See the Difference",
+        "heading": "How a Local Shop Transforms Before & After Bayyora",
+        "subheading": "Slide to compare how a storefront appears on Google Maps, menus, and social media before and after our local team steps in."
+      },
+      {
+        "blockType": "processSteps",
+        "isVisible": true,
+        "layoutVariant": "steps_4col_numbered",
+        "eyebrow": "How It Works",
+        "heading": "4 simple, transparent steps",
+        "steps": [
+          {
+            "stepNumber": "1",
+            "title": "Message us on WhatsApp",
+            "description": "Send your shop name and city or request your free mini audit in 60 seconds."
+          },
+          {
+            "stepNumber": "2",
+            "title": "Free mini audit",
+            "description": "We inspect your accounts and Google Maps and send 3 practical fixes within 48 hours."
+          },
+          {
+            "stepNumber": "3",
+            "title": "We create & manage",
+            "description": "We design, visit your shop for shoots, and publish content and local ads on schedule."
+          },
+          {
+            "stepNumber": "4",
+            "title": "More local customers",
+            "description": "Nearby shoppers find you first, boosting walk-ins, calls, and WhatsApp orders."
+          }
+        ]
+      },
+      {
+        "blockType": "packageComparison",
+        "isVisible": true,
+        "eyebrow": "Packages",
+        "heading": "Clear monthly packages & starter bundles",
+        "subheading": "Choose the right scope for your storefront — month-to-month flexibility with no annual lock-in.",
+        "showMonthlyPackages": true,
+        "showStarterBundles": false,
+        "pricingDisclaimerNote": "Exact quote tailored to your shop’s scope after your free audit • Platform ad spend is billed directly by the ad platform."
+      },
+      {
+        "blockType": "textAndImage",
+        "isVisible": true,
+        "layoutVariant": "navy_feature_card",
+        "eyebrow": "Why Bayyora?",
+        "heading": "A local partner you can trust",
+        "bullets": [
+          {
+            "title": "Local team that visits your shop",
+            "description": "On-site visits across Al Ahsa and the Eastern Province for shoots and consultations.",
+            "iconName": "map-pin"
+          },
+          {
+            "title": "Everything under one roof",
+            "description": "No juggling separate freelancers for signs, photos, websites, and social media.",
+            "iconName": "layers"
+          },
+          {
+            "title": "Clear deliverables every month",
+            "description": "Know the exact number of designs, Reels, stories, and shoots included in your plan.",
+            "iconName": "check-circle"
+          },
+          {
+            "title": "100% client ownership",
+            "description": "Your social accounts, Google Maps profile, domain, and source files remain yours.",
+            "iconName": "shield-check"
+          },
+          {
+            "title": "Fast WhatsApp communication & 48h kickoff",
+            "description": "Direct access to your team on WhatsApp with work starting within 48 hours.",
+            "iconName": "clock"
+          }
+        ]
+      },
+      {
+        "blockType": "seasonalBanner",
+        "isVisible": true,
+        "layoutVariant": "interactive_season_pills",
+        "eyebrow": "Seasonal Campaigns",
+        "heading": "Ready before the season, not after it",
+        "subheading": "We prepare your seasonal offers, packaging, print materials, and Reels weeks ahead of Saudi retail peaks.",
+        "seasons": [
+          {
+            "seasonKey": "ramadan",
+            "label": "Ramadan",
+            "headline": "Ramadan Gathering & Iftar Campaign",
+            "description": "Ramadan menus, sharing boxes, branded sleeves, food photography, and peak-hour local ads.",
+            "deliverablesSummary": "Ramadan Menu + 8 Designs + 2 Reels + Packaging Sticker + Holiday Hours Update",
+            "ctaLabel": "Plan my Ramadan campaign"
+          },
+          {
+            "seasonKey": "eid",
+            "label": "Eid",
+            "headline": "Eid Gifting & Pre-Booking Campaign",
+            "description": "Eid gift boxes, early salon/restaurant booking campaigns, and festive storefront visuals.",
+            "deliverablesSummary": "Eid Offer Graphics + Unboxing Reel + Printed Greeting Cards",
+            "ctaLabel": "Plan my Eid campaign"
+          },
+          {
+            "seasonKey": "founding_day",
+            "label": "Founding Day",
+            "headline": "Saudi Founding Day Campaign (Feb 22)",
+            "description": "Heritage-inspired Founding Day promotions, cup sleeves, window posters, and Reels.",
+            "deliverablesSummary": "Window Poster + Cup/Bag Sleeves + 6 Social Designs + 1 Reel",
+            "ctaLabel": "Plan my Founding Day campaign"
+          },
+          {
+            "seasonKey": "national_day",
+            "label": "National Day",
+            "headline": "Saudi National Day Campaign (Sep 23)",
+            "description": "National Day bundles, themed store graphics, and geo-targeted local ad sprints.",
+            "deliverablesSummary": "National Day Visual Kit + Promo Video + In-Store Print",
+            "ctaLabel": "Plan my National Day campaign"
+          },
+          {
+            "seasonKey": "white_friday",
+            "label": "White Friday & Back to School",
+            "headline": "White Friday & Back-to-School Retail Sprints",
+            "description": "High-conversion promotional campaigns to move inventory and capture seasonal foot traffic.",
+            "deliverablesSummary": "Promo Graphics + Paid Local Ads + WhatsApp Offer Catalogue",
+            "ctaLabel": "Plan my retail promo"
+          }
+        ]
+      },
+      {
+        "blockType": "faqSection",
+        "isVisible": true,
+        "eyebrow": "FAQ",
+        "heading": "Have a question?",
+        "subheading": "Clear answers before we get started.",
+        "showCategoryFilter": false,
+        "emitFaqSchema": true
+      }
+    ]
+  }
+}

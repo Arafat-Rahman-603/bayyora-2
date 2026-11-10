@@ -1,0 +1,115 @@
+{
+  "displayOrder": 9,
+  "slug": "seasonal-campaigns",
+  "iconName": "calendar",
+  "ar": {
+    "name": "حملات المواسم",
+    "benefitHeadline": "جاهز قبل الموسم... مو بعده",
+    "shortDescription": "تجهيز حملات رمضان، العيد، يوم التأسيس، اليوم الوطني، والجمعة البيضاء قبل وقتها.",
+    "heroSubheadline": "المواسم في السعودية هي ذروة البيع؛ نجهّز لك عروضك وتصاميمك ومطبوعاتك وفيديوهاتك قبل الموسم بأسابيع عشان تستفيد من أول يوم.",
+    "problemStatement": "أغلب المحلات تتذكر يوم التأسيس أو رمضان ليلة الموسم، فتطلع بعرض متأخر وتصاميم مستعجلة بعد ما يكون الزبون قرر وين يشتري.",
+    "deliverables": [
+      {
+        "itemText": "صياغة فكرة العرض أو البوكس الموسمي بما يناسب هامش ربح محلّك"
+      },
+      {
+        "itemText": "تصاميم السوشال ميديا والستوريز بهوية الموسم (رمضان، العيد، يوم التأسيس، اليوم الوطني)"
+      },
+      {
+        "itemText": "مقطع فيديو أو ريلز مخصص للإعلان عن العرض الموسمي"
+      },
+      {
+        "itemText": "تصميم مطبوعات الموسم (بوستر الواجهة، تغليف أو ستيكر الموسم، منيو رمضان/العيد)"
+      },
+      {
+        "itemText": "إطلاق ومتابعة الحملة الإعلانية قبل بداية الموسم وأثناءه"
+      }
+    ],
+    "packageInclusionNote": "تتوفر كحملات موسمية مستقلة لأي محل، أو مدمجة تلقائيًا ضمن خطط باقتي «نمو» و«ريادة» السنوية.",
+    "processSteps": [
+      {
+        "stepTitle": "نخطّط للعرض قبل الموسم بـ ١٤–٢١ يوم",
+        "stepDescription": "نحدّد الباقات أو الخصومات أو المنتجات الموسمية اللي بتطرحها."
+      },
+      {
+        "stepTitle": "نجهّز التصاميم والمطبوعات والفيديو",
+        "stepDescription": "نسلّمك ملفات الطباعة ومحتوى السوشال ميديا كاملًا قبل دخول الموسم."
+      },
+      {
+        "stepTitle": "نطلق الحملة في الوقت الصح",
+        "stepDescription": "نبدأ التشويق والإعلانات مبكرًا عشان يكون محلّك أول خيار في بال الناس."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "متى يفضل أطلب حملة الموسم؟",
+        "answer": "الأفضل التواصل معنا قبل الموسم بـ ٢ إلى ٣ أسابيع (خصوصًا لرمضان ويوم التأسيس واليوم الوطني) لنجهّز المطبوعات والتصوير بهدوء."
+      },
+      {
+        "question": "هل أقدر أطلب حملة موسم واحد فقط بدون اشتراك شهري؟",
+        "answer": "نعم، تتوفر حملات المواسم (رمضان، العيد، يوم التأسيس، اليوم الوطني) كحزم مستقلة لمرة واحدة لأي محل يريد تجهيز عرضه الموسمي باحترافية."
+      }
+    ],
+    "primaryCtaLabel": "أبغى أجهّز حملة الموسم القادم",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أجهز حملة الموسم القادم لمحلي.",
+    "seo": {
+      "metaTitle": "تصميم وإدارة حملات المواسم (رمضان، يوم التأسيس، اليوم الوطني) للمحلات | بيّورا",
+      "metaDescription": "تجهيز حملات رمضان، العيد، يوم التأسيس، اليوم الوطني، والجمعة البيضاء للمحلات والمطاعم والكافيهات في الأحساء والشرقية."
+    }
+  },
+  "en": {
+    "name": "Seasonal campaigns",
+    "benefitHeadline": "Ready before the season, not after it",
+    "shortDescription": "Turnkey campaigns for Ramadan, Eid, Founding Day, National Day, and White Friday prepared ahead of time.",
+    "heroSubheadline": "Saudi retail seasons drive peak revenue; we prepare your offers, designs, print materials, and videos weeks in advance so you launch on day one.",
+    "problemStatement": "Most shops remember Ramadan or Founding Day the night before, rushing out last-minute graphics after customers have already decided where to buy.",
+    "deliverables": [
+      {
+        "itemText": "Seasonal offer or bundle concept structured around healthy store margins"
+      },
+      {
+        "itemText": "Themed social posts and story templates for Ramadan, Eid, Founding Day, or National Day"
+      },
+      {
+        "itemText": "Dedicated promotional vertical video / Reel announcing the seasonal offer"
+      },
+      {
+        "itemText": "Seasonal print designs (window poster, limited-edition packaging sticker, seasonal menu)"
+      },
+      {
+        "itemText": "Local ad campaign launch and monitoring leading into and during the holiday"
+      }
+    ],
+    "packageInclusionNote": "Available as standalone seasonal campaign sprints for any shop, or integrated into Numow and Riyada plans.",
+    "processSteps": [
+      {
+        "stepTitle": "Plan offer 14–21 days ahead",
+        "stepDescription": "We lock in your seasonal bundle or promotion two to three weeks before the occasion."
+      },
+      {
+        "stepTitle": "Produce visuals, print & video",
+        "stepDescription": "All print files, social posts, and video creatives are delivered before the season starts."
+      },
+      {
+        "stepTitle": "Launch on time & capture demand",
+        "stepDescription": "We launch teaser and conversion campaigns right as local shoppers start looking."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "How early should I book a seasonal campaign?",
+        "answer": "Ideally 2 to 3 weeks before the season (especially for Ramadan, Founding Day, and National Day) so print and video assets are ready early."
+      },
+      {
+        "question": "Can I book a single seasonal campaign without a monthly retainer?",
+        "answer": "Yes. Seasonal campaigns are available as standalone one-time sprints for any shop looking to maximize holiday sales."
+      }
+    ],
+    "primaryCtaLabel": "Prepare my next seasonal campaign",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to prepare a Seasonal Campaign for my shop.",
+    "seo": {
+      "metaTitle": "Seasonal Marketing Campaigns (Ramadan, Founding Day, National Day) | Bayyora",
+      "metaDescription": "Turnkey Ramadan, Eid, Saudi Founding Day, and National Day marketing campaigns for local shops and restaurants."
+    }
+  }
+}

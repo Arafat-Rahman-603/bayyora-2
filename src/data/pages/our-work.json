@@ -1,0 +1,27 @@
+{
+  "slug": "our-work",
+  "isLegalPage": false,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "أعمالنا ونماذج التحوّل (قبل وبعد)",
+    "subtitle": "شاهد كيف يتغيّر حضور المحل في خرائط جوجل، والمنيو، والتغليف، والسوشال ميديا. التزامًا بالشفافية، نضع شارة «نموذج توضيحي» على جميع النماذج الاسترشادية ولا ننشر أعمال العملاء إلا بإذن خطي مسبق.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، شفت نماذج أعمالكم وأبغى شغل مشابه لمحلي.",
+    "seo": {
+      "metaTitle": "معرض الأعمال ونماذج قبل وبعد للمحلات والمطاعم والكافيهات | بيّورا",
+      "metaDescription": "تصفح نماذج أعمال بيّورا ومقارنات قبل وبعد للمطاعم والكافيهات والصيدليات والصالونات ومحلات التجزئة في الأحساء والشرقية."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Our work & before/after transformations",
+    "subtitle": "See how local storefronts transform across Google Maps, menus, packaging, and social media. For complete transparency, all illustrative concepts carry a visible \"Sample concept\" badge.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "Hello Bayyora team, I saw your portfolio examples and would like similar work for my shop.",
+    "seo": {
+      "metaTitle": "Our Work & Before/After Portfolio for Local Shops | Bayyora",
+      "metaDescription": "Browse Bayyora’s before-and-after comparisons and sample concepts across restaurants, cafes, pharmacies, salons, and retail shops."
+    },
+    "layout": []
+  }
+}

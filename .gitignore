@@ -1,0 +1,43 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js build output
+/.next/
+/out/
+/build
+
+# Local Database & Media Storage
+/.data/
+/media/
+*.db
+*.db-shm
+*.db-wal
+
+# Testing & Reports
+/coverage
+/playwright-report/
+/test-results/
+
+# Misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local env files
+.env
+.env*.local
+!.env.example
+
+# Vercel & TypeScript
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+

@@ -1,0 +1,42 @@
+{
+  "slug": "restaurant-menu-and-food-photography-guide",
+  "categorySlug": "branding-design",
+  "publishedAt": "2026-02-20T09:00:00.000Z",
+  "readingTimeMinutes": 4,
+  "ar": {
+    "title": "كيف يغيّر تصميم المنيو وتصوير الأطباق قرار الزبون في أقل من ١٠ ثواني؟",
+    "excerpt": "العين تأكل قبل الفم: كيف ترتّب منيو مطعمك أو كافيهك وتصوّر أصنافك بطريقة ترفع متوسط الطلب بدون ما ترفع الأسعار.",
+    "bodyContent": "سواء كان الزبون واقفًا أمام الكاشير أو يتصفح حسابك في إنستغرام، فإنه يتخذ قرار الطلب خلال ثوانٍ معدودة. عندما يكون المنيو مزدحمًا بعشرات الأصناف بدون ترتيب، يرتبك الزبون ويطلب الصنف الأرخص أو المعتاد.\n\n١. قسّم المنيو إلى مجموعات واضحة (٣ إلى ٥ أقسام):\nاجعل الوصول للأصناف الرئيسية، البوكسات العائلية، والمشروبات سهلًا من أول نظرة بدون الحاجة لتقليب صفحات كثيرة.\n\n٢. ميّز الأصناف الأكثر طلبًا (الأفضل مبيعًا):\nوضع إطار بسيط أو شارة «الأكثر طلبًا» بجانب ٢ أو ٣ أصناف مميزة يسهّل القرار على الزبون الجديد الذي يجرب مطعمك لأول مرة.\n\n٣. استبدل الصور الجاهزة بصور حقيقية من مطبخك:\nالزبون اليوم يعرف الفرق فورًا بين صورة مأخوذة من الإنترنت وصورة حقيقية لطبقك في المحل. التصوير الحقيقي بإضاءة صحيحة يبني ثقة فورية ويقلل التردد.\n\n٤. وفّر نسخة منيو رقمي سريعة الفتح على الجوال:\nبدل ملفات PDF الثقيلة التي تستغرق وقتًا للتحميل، استخدم صفحة منيو سريعة تفتح في ثانية واحدة وتتيح الطلب المباشر عبر الواتساب.",
+    "keyTakeaways": [
+      {
+        "point": "لا تكدّس كل الأصناف بنفس الحجم؛ أبرز ٣ أصناف رئيسية يشتهر بها مطعمك."
+      },
+      {
+        "point": "صوّر أطباقك الحقيقية في المحل بإضاءة احترافية تناسب المنيو وتطبيقات التوصيل."
+      }
+    ],
+    "authorName": "فريق التصميم والتصوير — بيّورا",
+    "seo": {
+      "metaTitle": "أسرار تصميم المنيو وتصوير الأطعمة للمطاعم والكافيهات | مدونة بيّورا",
+      "metaDescription": "نصائح عملية لتصميم منيو المطاعم والكافيهات وتصوير الأطباق والمنتجات لزيادة المبيعات وتسهيل قرار الزبون."
+    }
+  },
+  "en": {
+    "title": "How Menu Design & Authentic Food Photography Shape Customer Orders in 10 Seconds",
+    "excerpt": "Customers order with their eyes first: learn how clear menu hierarchy and on-site food photography increase order value.",
+    "bodyContent": "Whether a guest is standing at your counter or tapping through Instagram stories, ordering decisions happen in seconds. A cluttered text-heavy menu overwhelms first-time visitors.\n\n1. Group Items into 3–5 Clear Categories:\nOrganize signature mains, sharing boxes, sides, and drinks so customers scan effortlessly.\n\n2. Highlight 2–3 Signature Best-Sellers:\nAdding a subtle \"Most Popular\" badge guides first-time guests toward the dishes you do best.\n\n3. Replace Stock Images with Real On-Site Photography:\nCustomers immediately spot generic stock photos. Authentic, well-lit photos of your actual dishes build trust and appetite.\n\n4. Use a Fast Mobile Menu Instead of Heavy PDFs:\nSlow-loading 25MB PDF menus frustrate mobile users. A lightweight mobile menu page with 1-tap WhatsApp ordering converts far better.",
+    "keyTakeaways": [
+      {
+        "point": "Highlight 2–3 signature items rather than giving every item identical visual weight."
+      },
+      {
+        "point": "Shoot your real dishes with proper lighting for both dine-in menus and delivery apps."
+      }
+    ],
+    "authorName": "Bayyora Creative & Photo Team",
+    "seo": {
+      "metaTitle": "Menu Design & Food Photography Guide for Restaurants & Cafes | Bayyora",
+      "metaDescription": "Actionable tips on restaurant menu layout and on-site food photography for Saudi cafes and restaurants."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "sample-cafe-maps-ahsa",
+  "isSampleConcept": true,
+  "clientPermissionVerified": false,
+  "hasFullCaseStudyPage": false,
+  "serviceCategory": "ads-local-search",
+  "businessType": "cafe",
+  "_status": "published",
+  "ar": {
+    "title": "نموذج توضيحي: تطوير ظهور كافيه مختص في خرائط جوجل وإنستغرام",
+    "cityTag": "الأحساء",
+    "summary": "مثال توضيحي لكيف نحوّل ملف كافيه غير مكتمل في خرائط جوجل إلى واجهة رقمية تجلب زيارات يومية.",
+    "beforeHeadline": "قبل بيّورا (ملف غير مكتمل)",
+    "afterHeadline": "بعد بيّورا (حضور محلي مرتب)",
+    "beforeMetrics": [
+      {
+        "label": "الظهور في خرائط جوجل",
+        "value": "بدون صور حديثة أو أوقات عمل"
+      },
+      {
+        "label": "المنيو والأسعار",
+        "value": "غير متوفر أونلاين"
+      },
+      {
+        "label": "حساب إنستغرام",
+        "value": "متوقف منذ أسابيع"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "الظهور في خرائط جوجل",
+        "value": "موثّق مع ٢٠+ صورة احترافية"
+      },
+      {
+        "label": "المنيو والأسعار",
+        "value": "منيو رقمي سريع مربوط بواتساب"
+      },
+      {
+        "label": "حساب إنستغرام",
+        "value": "١٦ تصميم + ٤ ريلز شهريًا"
+      }
+    ],
+    "challengeSummary": "كافيه يقدم قهوة وحلويات ممتازة، لكن الباحثين في خرائط جوجل لا يجدون ساعات العمل ولا صور الأصناف.",
+    "solutionSummary": "توثيق خرائط جوجل، جلسة تصوير للأصناف والديكور، تصميم منيو رقمي، وجدولة محتوى شهري منتظم.",
+    "verifiedOutcomeSummary": "نموذج توضيحي يبيّن شكل الترتيب المتكامل الذي ننفّذه للكافيهات في باقة «نمو».",
+    "seo": {
+      "metaTitle": "نموذج توضيحي: تطوير ظهور كافيه مختص في خرائط جوجل وإنستغرام | دراسة حالة ونموذج تحول بيّورا",
+      "metaDescription": "مثال توضيحي لكيف نحوّل ملف كافيه غير مكتمل في خرائط جوجل إلى واجهة رقمية تجلب زيارات يومية."
+    }
+  },
+  "en": {
+    "title": "Sample Concept: Specialty Cafe Google Maps & Social Transformation",
+    "cityTag": "Al Ahsa",
+    "summary": "Illustrative concept showing how we transform an incomplete cafe listing into a complete local search magnet.",
+    "beforeHeadline": "Before Bayyora (Incomplete Profile)",
+    "afterHeadline": "After Bayyora (Optimized Presence)",
+    "beforeMetrics": [
+      {
+        "label": "Google Maps Listing",
+        "value": "Missing photos & hours"
+      },
+      {
+        "label": "Menu Access",
+        "value": "No online menu link"
+      },
+      {
+        "label": "Instagram Feed",
+        "value": "Inactive for weeks"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "Google Maps Listing",
+        "value": "Verified + 20 pro photos"
+      },
+      {
+        "label": "Menu Access",
+        "value": "Fast QR menu + WhatsApp"
+      },
+      {
+        "label": "Instagram Feed",
+        "value": "16 posts + 4 Reels / mo"
+      }
+    ],
+    "challengeSummary": "A specialty cafe serving great coffee whose Google Maps listing lacked working hours, menu links, and authentic photos.",
+    "solutionSummary": "Google Maps verification, on-site food/interior shoot, digital menu page, and structured monthly content.",
+    "verifiedOutcomeSummary": "Illustrative concept demonstrating the complete deliverables executed under our monthly Numow package.",
+    "seo": {
+      "metaTitle": "Sample Concept: Specialty Cafe Google Maps & Social Transformation | Bayyora Case Study & Transformation",
+      "metaDescription": "Illustrative concept showing how we transform an incomplete cafe listing into a complete local search magnet."
+    }
+  }
+}

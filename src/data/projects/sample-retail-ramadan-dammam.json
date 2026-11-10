@@ -1,0 +1,77 @@
+{
+  "slug": "sample-retail-ramadan-dammam",
+  "isSampleConcept": true,
+  "clientPermissionVerified": false,
+  "hasFullCaseStudyPage": false,
+  "serviceCategory": "seasonal-campaigns",
+  "businessType": "retail",
+  "_status": "published",
+  "ar": {
+    "title": "نموذج توضيحي: حملة رمضان والعيد وتصوير بوكسات الهدايا لمحل عطور وتمور",
+    "cityTag": "الدمام",
+    "summary": "مثال توضيحي لتجهيز بوكسات الإهداء الرمضانية بالتصوير الاحترافي ومقاطع الريلز وتغليف الموسم.",
+    "beforeHeadline": "قبل (تجهيز متأخر ليلة الموسم)",
+    "afterHeadline": "بعد (حملة جاهزة قبل الموسم بـ ٣ أسابيع)",
+    "beforeMetrics": [
+      {
+        "label": "توقيت الإعلان",
+        "value": "بعد دخول الموسم بأيام"
+      },
+      {
+        "label": "صور البوكسات",
+        "value": "صور جوال على طاولة المحل"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "توقيت الإعلان",
+        "value": "انطلاق الحجز المبكر قبل الموسم بـ ٢٠ يوم"
+      },
+      {
+        "label": "صور البوكسات",
+        "value": "جلسة تصوير وفيديو تبرز فخامة الإهداء"
+      }
+    ],
+    "challengeSummary": "محلات التمور والعطور والحلويات تعتمد بشكل كبير على مبيعات المواسم ولكن تتأخر في تجهيز الصور والعروض.",
+    "solutionSummary": "تجهيز استوديو تصوير داخل المحل، تصميم تغليف الموسم، وإطلاق حملة ريلز وسناب مبكرة.",
+    "verifiedOutcomeSummary": "نموذج توضيحي لخدمتي «التصوير» و«حملات المواسم».",
+    "seo": {
+      "metaTitle": "نموذج توضيحي: حملة رمضان والعيد وتصوير بوكسات الهدايا لمحل عطور وتمور | دراسة حالة ونموذج تحول بيّورا",
+      "metaDescription": "مثال توضيحي لتجهيز بوكسات الإهداء الرمضانية بالتصوير الاحترافي ومقاطع الريلز وتغليف الموسم."
+    }
+  },
+  "en": {
+    "title": "Sample Concept: Ramadan & Eid Gift Box Photography and Video Campaign for Retail Shop",
+    "cityTag": "Dammam",
+    "summary": "Illustrative concept showcasing seasonal gift box photography, vertical video reels, and custom sleeve packaging.",
+    "beforeHeadline": "Before (Last-Minute Launch)",
+    "afterHeadline": "After (Launched 3 Weeks Early)",
+    "beforeMetrics": [
+      {
+        "label": "Launch Timing",
+        "value": "Days after season started"
+      },
+      {
+        "label": "Product Photos",
+        "value": "Dim counter snapshots"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "Launch Timing",
+        "value": "Pre-orders 20 days ahead"
+      },
+      {
+        "label": "Product Photos",
+        "value": "Studio-lit gift photography & Reel"
+      }
+    ],
+    "challengeSummary": "Dates, oud, and sweets retailers rely heavily on seasonal gifting but often miss early corporate and family orders.",
+    "solutionSummary": "On-site product shoot, seasonal packaging sleeves, and early Snapchat/Reels ad campaign.",
+    "verifiedOutcomeSummary": "Illustrative concept for our Photography and Seasonal Campaigns services.",
+    "seo": {
+      "metaTitle": "Sample Concept: Ramadan & Eid Gift Box Photography and Video Campaign for Retail Shop | Bayyora Case Study & Transformation",
+      "metaDescription": "Illustrative concept showcasing seasonal gift box photography, vertical video reels, and custom sleeve packaging."
+    }
+  }
+}

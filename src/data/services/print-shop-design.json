@@ -1,0 +1,115 @@
+{
+  "displayOrder": 2,
+  "slug": "print-shop-design",
+  "iconName": "printer",
+  "ar": {
+    "name": "المطبوعات والواجهات",
+    "benefitHeadline": "من اللوحة للكيس... كل شيء باسمك",
+    "shortDescription": "تصميم لوحات المحل، المنيو، الأكياس، الأكواب، والملصقات بمقاسات دقيقة جاهزة للتنفيذ.",
+    "heroSubheadline": "نرتّب شكل محلّك من الشارع إلى يد الزبون: لوحة واضحة من بعيد، منيو يسهّل الطلب، وتغليف يخلّي الناس يصوّرون طلبهم.",
+    "problemStatement": "لوحة المحل غير واضحة بالليل، أو المنيو مزدحم ويحيّر الزبون، أو الأكياس والعلب بدون هوية ما تذكّر الناس باسم المحل بعد ما يرجعون البيت.",
+    "deliverables": [
+      {
+        "itemText": "تصميم اللوحة الخارجية والملصقات الزجاجية لواجهة المحل"
+      },
+      {
+        "itemText": "تصميم المنيو أو قائمة الأسعار بترتيب يبرز الأصناف الأكثر ربحية"
+      },
+      {
+        "itemText": "تصميم الأكياس، العلب، الأكواب، وورق التغليف"
+      },
+      {
+        "itemText": "تصميم البروشورات، بطاقات العمل، أختام الولاء، وستاندات الطاولات (QR)"
+      },
+      {
+        "itemText": "ملفات طباعة مفصولة الألوان وجاهزة للمطبعة بالمقاسات الحقيقية"
+      }
+    ],
+    "packageInclusionNote": "متوفرة بالكامل ضمن باقة التأسيس «واجهة المحل»، أو حسب الطلب لأي مطبوعات موسمية.",
+    "processSteps": [
+      {
+        "stepTitle": "نأخذ المقاسات وقائمة الأصناف",
+        "stepDescription": "نراجع مقاسات اللوحة أو القوالب المعتمدة من مطبعتك مع قائمة الأسعار."
+      },
+      {
+        "stepTitle": "نصمّم بوضوح يفتح النفس",
+        "stepDescription": "نركّز على وضوح الخط من مسافة بعيدة وترتيب الأسعار بشكل مريح للعين."
+      },
+      {
+        "stepTitle": "نسلّم ملفات المطبعة الجاهزة",
+        "stepDescription": "ملفات PDF/CMYK جاهزة للطباعة مباشرة بدون أخطاء في القص أو الألوان."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "هل تطبعون اللوحات والأكياس أم تصممونها؟",
+        "answer": "نحن نصمّم جميع المطبوعات والواجهات بمواصفات المطابع الدقيقة، وننسّق مع مطبعتك المفضلة أو نرشّح لك مطابع موثوقة في المنطقة الشرقية."
+      },
+      {
+        "question": "هل أقدر أعدّل الأسعار في المنيو لاحقًا؟",
+        "answer": "نعم، نسلّمك الملفات المفتوحة القابلة للتعديل، ونوفّر خدمة تحديث الأسعار والأصناف الموسمية لعملائنا في أي وقت."
+      }
+    ],
+    "primaryCtaLabel": "أبغى تصميم منيو ومطبوعات لمحلّي",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن تصميم المطبوعات والمنيو وواجهة المحل.",
+    "seo": {
+      "metaTitle": "تصميم منيو ومطبوعات ولوحات محلات في الأحساء والشرقية | بيّورا",
+      "metaDescription": "تصميم لوحات المحلات، المنيو، الأكياس، الأكواب، والتغليف للمطاعم والكافيهات والمحلات في الأحساء والدمام والخبر."
+    }
+  },
+  "en": {
+    "name": "Print and shop design",
+    "benefitHeadline": "From the sign to the bag... everything in your name",
+    "shortDescription": "Storefront signage, menus, packaging, bags, cups, and stickers designed to exact print specifications.",
+    "heroSubheadline": "We align every physical touchpoint from the street sign to the takeaway bag so customers notice and remember you.",
+    "problemStatement": "Hard-to-read signage, cluttered menus, and generic unbranded bags mean missed walk-ins and zero word-of-mouth after the customer leaves.",
+    "deliverables": [
+      {
+        "itemText": "Exterior storefront sign and window decal designs"
+      },
+      {
+        "itemText": "Menu and price list layout structured to highlight best-selling items"
+      },
+      {
+        "itemText": "Branded takeaway bags, boxes, cups, and wrapping paper designs"
+      },
+      {
+        "itemText": "Flyers, business cards, loyalty stamp cards, and tabletop QR stands"
+      },
+      {
+        "itemText": "Print-ready CMYK dielines with exact bleed and crop marks"
+      }
+    ],
+    "packageInclusionNote": "Core part of the \"Shop Look\" starter bundle, or available on-demand for new menus and seasonal print runs.",
+    "processSteps": [
+      {
+        "stepTitle": "Collect dimensions & item list",
+        "stepDescription": "We verify exact signage dimensions, printer dielines, and your menu items."
+      },
+      {
+        "stepTitle": "Design for clarity & appetite",
+        "stepDescription": "We prioritize legibility at a distance and clean Arabic/English price formatting."
+      },
+      {
+        "stepTitle": "Handover press-ready files",
+        "stepDescription": "Press-ready CMYK PDFs with zero bleed or colour conversion issues."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "Do you manufacture the signs or design the print files?",
+        "answer": "We design all press-ready files to exact specifications and can coordinate directly with your local printer or recommend trusted fabricators in the Eastern Province."
+      },
+      {
+        "question": "Can I update prices on the menu later?",
+        "answer": "Yes. You receive all editable master files, and our team can also handle seasonal menu and price updates whenever you need."
+      }
+    ],
+    "primaryCtaLabel": "Request print & menu design",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about Print, Menu & Shopfront design.",
+    "seo": {
+      "metaTitle": "Menu, Packaging & Storefront Sign Design in Al Ahsa & Eastern Province | Bayyora",
+      "metaDescription": "Professional storefront signage, restaurant menus, takeaway packaging, and print design in Al Ahsa, Dammam, and Khobar."
+    }
+  }
+}

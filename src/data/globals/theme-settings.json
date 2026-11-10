@@ -1,0 +1,14 @@
+{
+  "palettePreset": "najd_saffron",
+  "canvasColor": "#F7F3EB",
+  "canvasSandColor": "#EFE9DC",
+  "navyColor": "#0D2235",
+  "accentColor": "#F2A541",
+  "onAccentColor": "#0D2235",
+  "oasisColor": "#136F63",
+  "inkColor": "#141A21",
+  "inputBorderColor": "#7A869A",
+  "fontPairPreset": "readex_ibm_mono",
+  "sectionSpacingDensity": "comfortable",
+  "borderRadiusPreset": "rounded_modern"
+}

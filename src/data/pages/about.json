@@ -1,0 +1,27 @@
+{
+  "slug": "about",
+  "isLegalPage": false,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "شريك محلي تثق فيه... قريب من محلّك ويفهم سوقك",
+    "subtitle": "انطلقت بيّورا (خطوة لفوق) في المنطقة الشرقية لخدمة أصحاب المحلات والمشاريع اللي يتعبون في جودة منتجهم ويستحقون تسويقًا صادقًا ومرتبًا يبيّن شغلهم للناس.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أتعرف أكثر على طريقة عملكم مع المحلات.",
+    "seo": {
+      "metaTitle": "من نحن — قصة بيّورا (خطوة لفوق) وفريقنا في الأحساء والشرقية",
+      "metaDescription": "تعرّف على وكالة بيّورا (خطوة لفوق): فريق محلي في الأحساء والمنطقة الشرقية يقدّم خدمات الهوية والتصوير والسوشال ميديا بشفافية وبدون عقود معقدة."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "A local partner you can trust... close to your shop and rooted in your market",
+    "subtitle": "Bayyora (\"One step up\") was founded in the Eastern Province to give hard-working shop owners honest, structured marketing that reflects the real quality of their business.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to learn more about working with your team.",
+    "seo": {
+      "metaTitle": "About Bayyora (بيّورا) — Your Local Marketing Partner in the Eastern Province",
+      "metaDescription": "Learn about Bayyora: a local marketing and creative team in Al Ahsa and the Eastern Province built on clarity, ownership, and measurable store growth."
+    },
+    "layout": []
+  }
+}

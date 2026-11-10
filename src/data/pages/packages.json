@@ -1,0 +1,27 @@
+{
+  "slug": "packages",
+  "isLegalPage": false,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "باقات واضحة تناسب حجم محلّك ومرحلة نموّه",
+    "subtitle": "سواء كنت تفتتح محلّك الجديد وتحتاج تأسيس الهوية والحسابات، أو تبحث عن فريق يمسك عنك التسويق والتصوير والإعلانات شهريًا بدون عقود سنوية معقدة.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى مساعدة في اختيار الباقة المناسبة لمحلي وطلب عرض سعر.",
+    "seo": {
+      "metaTitle": "الباقات الشهرية وباقات تأسيس المحلات (بداية، نمو، ريادة) | بيّورا",
+      "metaDescription": "قارن بين باقات بيّورا الشهرية (بداية، نمو، ريادة) وباقات التأسيس لمرة واحدة (واجهة المحل، انطلاقة أونلاين) للمحلات والمطاعم في السعودية."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Clear packages built around your shop’s stage of growth",
+    "subtitle": "Whether you are launching a new storefront and need a one-time setup bundle, or want a monthly team handling content, shoots, and local ads with zero long-term lock-in.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like help choosing the right package and requesting a quote.",
+    "seo": {
+      "metaTitle": "Monthly Marketing Packages & Shop Starter Bundles | Bayyora",
+      "metaDescription": "Compare Bayyora’s monthly growth packages (Bidaya, Numow, Riyada) and one-time starter bundles (Shop Look, Go Online)."
+    },
+    "layout": []
+  }
+}

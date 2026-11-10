@@ -1,0 +1,110 @@
+{
+  "ar": {
+    "navItems": [
+      {
+        "label": "الرئيسية",
+        "href": "/",
+        "linkType": "standard",
+        "isVisible": true
+      },
+      {
+        "label": "خدماتنا",
+        "href": "/services",
+        "linkType": "services_dropdown",
+        "isVisible": true
+      },
+      {
+        "label": "الباقات",
+        "href": "/packages",
+        "linkType": "standard",
+        "isVisible": true
+      },
+      {
+        "label": "أعمالنا",
+        "href": "/our-work",
+        "linkType": "standard",
+        "isVisible": true
+      },
+      {
+        "label": "من نحن",
+        "href": "/about",
+        "linkType": "standard",
+        "isVisible": true
+      },
+      {
+        "label": "تواصل معنا",
+        "href": "/contact",
+        "linkType": "standard",
+        "isVisible": true
+      }
+    ],
+    "primaryCta": {
+      "label": "اطلب تحليل مجاني",
+      "mobileShortLabel": "تحليل مجاني",
+      "destination": "/free-audit"
+    },
+    "languageSwitcher": {
+      "enabled": true,
+      "arLabel": "عربي",
+      "enLabel": "EN"
+    },
+    "mobileDrawer": {
+      "whatsappButtonLabel": "راسلنا واتساب مباشرة",
+      "workingHoursNote": "الأحد – الخميس، ٩ ص إلى ٦ م • نخدم الأحساء والشرقية"
+    }
+  },
+  "en": {
+    "navItems": [
+      {
+        "label": "Home",
+        "href": "/",
+        "linkType": "standard",
+        "isVisible": true
+      },
+      {
+        "label": "Services",
+        "href": "/services",
+        "linkType": "services_dropdown",
+        "isVisible": true
+      },
+      {
+        "label": "Packages",
+        "href": "/packages",
+        "linkType": "standard",
+        "isVisible": true
+      },
+      {
+        "label": "Our Work",
+        "href": "/our-work",
+        "linkType": "standard",
+        "isVisible": true
+      },
+      {
+        "label": "About",
+        "href": "/about",
+        "linkType": "standard",
+        "isVisible": true
+      },
+      {
+        "label": "Contact",
+        "href": "/contact",
+        "linkType": "standard",
+        "isVisible": true
+      }
+    ],
+    "primaryCta": {
+      "label": "Free mini audit",
+      "mobileShortLabel": "Free Audit",
+      "destination": "/free-audit"
+    },
+    "languageSwitcher": {
+      "enabled": true,
+      "arLabel": "عربي",
+      "enLabel": "EN"
+    },
+    "mobileDrawer": {
+      "whatsappButtonLabel": "Chat on WhatsApp directly",
+      "workingHoursNote": "Sun – Thu, 9 AM to 6 PM • Serving Al Ahsa & Eastern Province"
+    }
+  }
+}

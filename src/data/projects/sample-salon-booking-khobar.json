@@ -1,0 +1,77 @@
+{
+  "slug": "sample-salon-booking-khobar",
+  "isSampleConcept": true,
+  "clientPermissionVerified": false,
+  "hasFullCaseStudyPage": false,
+  "serviceCategory": "websites-online-stores",
+  "businessType": "salon",
+  "_status": "published",
+  "ar": {
+    "title": "نموذج توضيحي: صفحة خدمات وحجز مواعيد مع ريلز لصالون عناية",
+    "cityTag": "الخبر",
+    "summary": "مثال توضيحي لصفحة خدمات وأسعار ثنائية اللغة (عربي/إنجليزي) مربوطة بحجز المواعيد وحملات العيد.",
+    "beforeHeadline": "قبل (أسعار غير واضحة)",
+    "afterHeadline": "بعد (قائمة خدمات وحجز مباشر)",
+    "beforeMetrics": [
+      {
+        "label": "قائمة الخدمات",
+        "value": "صور متفرقة في الستوري فقط"
+      },
+      {
+        "label": "حجز المواعيد",
+        "value": "أخذ ورد طويل في الرسائل"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "قائمة الخدمات",
+        "value": "موقع سريع باللغتين يعرض الخدمات والأسعار"
+      },
+      {
+        "label": "حجز المواعيد",
+        "value": "زر حجز مباشر يحدد الخدمة والموعد"
+      }
+    ],
+    "challengeSummary": "العميلات يسألن يوميًا عن قائمة الأسعار والباقات، والصالون يخسر حجوزات في مواسم الأعياد بسبب بطء الرد.",
+    "solutionSummary": "تصميم صفحة خدمات أنيقة باللغتين مع تجهيز حملة العيد قبل الموسم بـ ٣ أسابيع.",
+    "verifiedOutcomeSummary": "نموذج توضيحي يجمع بين «المواقع والمتاجر» و«حملات المواسم».",
+    "seo": {
+      "metaTitle": "نموذج توضيحي: صفحة خدمات وحجز مواعيد مع ريلز لصالون عناية | دراسة حالة ونموذج تحول بيّورا",
+      "metaDescription": "مثال توضيحي لصفحة خدمات وأسعار ثنائية اللغة (عربي/إنجليزي) مربوطة بحجز المواعيد وحملات العيد."
+    }
+  },
+  "en": {
+    "title": "Sample Concept: Service Menu Website, Reels & Seasonal Campaign for Beauty Salon",
+    "cityTag": "Khobar",
+    "summary": "Illustrative concept for a bilingual service/pricing microsite connected to WhatsApp appointment booking and Eid campaigns.",
+    "beforeHeadline": "Before (DM for Prices)",
+    "afterHeadline": "After (Clear Menu & Booking)",
+    "beforeMetrics": [
+      {
+        "label": "Service Menu",
+        "value": "Scattered story screenshots"
+      },
+      {
+        "label": "Appointment Booking",
+        "value": "Long back-and-forth chats"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "Service Menu",
+        "value": "Fast AR/EN service menu site"
+      },
+      {
+        "label": "Appointment Booking",
+        "value": "1-tap pre-filled booking button"
+      }
+    ],
+    "challengeSummary": "Clients repeatedly ask for service prices in DMs, causing missed bookings during peak Eid weeks.",
+    "solutionSummary": "Bilingual service catalog site plus an Eid campaign prepared three weeks ahead of the holiday.",
+    "verifiedOutcomeSummary": "Illustrative concept combining Websites & Online Stores with Seasonal Campaigns.",
+    "seo": {
+      "metaTitle": "Sample Concept: Service Menu Website, Reels & Seasonal Campaign for Beauty Salon | Bayyora Case Study & Transformation",
+      "metaDescription": "Illustrative concept for a bilingual service/pricing microsite connected to WhatsApp appointment booking and Eid campaigns."
+    }
+  }
+}

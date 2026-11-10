@@ -1,0 +1,109 @@
+{
+  "displayOrder": 6,
+  "slug": "photography",
+  "iconName": "camera",
+  "ar": {
+    "name": "التصوير",
+    "benefitHeadline": "صور تخلّي الواحد يشتهي يزورك",
+    "shortDescription": "زيارة ميدانية لتصوير منتجاتك، أطباقك، وديكور محلّك بإضاءة احترافية تبرز الجودة.",
+    "heroSubheadline": "نجيك لمحلّك في الأحساء والهفوف والمبرز والدمام والخبر ونصوّر منتجاتك الحقيقية عشان يشوف الزبون جمال شغلك على طبيعته.",
+    "problemStatement": "الصور المظلمة بالجوال أو الصور المسروقة من الإنترنت تظلم جودة منتجك وتخلّي الزبون يتردد في الطلب من المنيو أو تطبيقات التوصيل.",
+    "deliverables": [
+      {
+        "itemText": "زيارة ميدانية للمحل بمعدات الإضاءة والتصوير المناسبة"
+      },
+      {
+        "itemText": "تصوير الأطباق أو المنتجات بزوايا تناسب المنيو وتطبيقات التوصيل والسوشال ميديا"
+      },
+      {
+        "itemText": "تصوير واجهة المحل والأجواء الداخلية لإضافتها في خرائط جوجل"
+      },
+      {
+        "itemText": "معالجة لونية طبيعية تبرز تفاصيل المنتج الحقيقية بدون مبالغة"
+      }
+    ],
+    "packageInclusionNote": "تشمل باقة «نمو» زيارة تصوير شهرية، وتشمل باقة «ريادة» زيارتين شهريًا، كما تتوفر جلسات التصوير بشكل مستقل.",
+    "processSteps": [
+      {
+        "stepTitle": "نحدّد قائمة الأصناف وموعد الزيارة",
+        "stepDescription": "نختار الوقت الأهدأ في محلّك ونحدّد الأصناف اللي بنصوّرها."
+      },
+      {
+        "stepTitle": "نصوّر في موقع محلّك",
+        "stepDescription": "نرتّب الإضاءة والتكوين ونلتقط صورًا للمنتجات والمكان."
+      },
+      {
+        "stepTitle": "نعالج ونسلّمك أرشيف صورك",
+        "stepDescription": "تستلم الصور بدقة عالية للطباعة وبنسخ خفيفة جاهزة للنشر."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "في أي مدن تتوفر زيارة التصوير الميداني؟",
+        "answer": "نغطي الأحساء (الهفوف والمبرز) والدمام والخبر والمنطقة الشرقية بالكامل."
+      },
+      {
+        "question": "هل أستلم الصور بدقة عالية للمنيو وتطبيقات التوصيل؟",
+        "answer": "نعم، تسلّم لك جميع الصور المختارة بعد المعالجة اللونية بنسختين: دقة عالية للطباعة والمنيو، ونسخة مهيأة للسوشال ميديا وتطبيقات التوصيل وخرائط جوجل."
+      }
+    ],
+    "primaryCtaLabel": "احجز جلسة تصوير لمحلّك",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أحجز جلسة تصوير لمنتجات وواجهة محلي.",
+    "seo": {
+      "metaTitle": "تصوير منتجات ومطاعم وكافيهات ومحلات في الأحساء والشرقية | بيّورا",
+      "metaDescription": "جلسات تصوير ميدانية للمطاعم والكافيهات والمنتجات وواجهات المحلات في الأحساء والهفوف والمبرز والدمام والخبر."
+    }
+  },
+  "en": {
+    "name": "Photography",
+    "benefitHeadline": "Photos that make people want to visit",
+    "shortDescription": "On-site product, food, and interior photography in Al Ahsa and the Eastern Province.",
+    "heroSubheadline": "Our team visits your shop in Al Ahsa, Hofuf, Mubarraz, Dammam, or Khobar to capture authentic photos of your products, dishes, and space.",
+    "problemStatement": "Dim phone snapshots or generic stock photos undersell your real quality and lower order conversion on menus and delivery apps.",
+    "deliverables": [
+      {
+        "itemText": "On-site photography session at your shop with portable lighting equipment"
+      },
+      {
+        "itemText": "Product and dish angles tailored for menus, delivery apps, and social feeds"
+      },
+      {
+        "itemText": "Exterior storefront and interior atmosphere photos optimized for Google Maps"
+      },
+      {
+        "itemText": "True-to-life colour grading and retouching that honours your actual product"
+      }
+    ],
+    "packageInclusionNote": "Numow includes 1 monthly shoot visit, Riyada includes 2 monthly visits, or book a standalone session anytime.",
+    "processSteps": [
+      {
+        "stepTitle": "Schedule visit & shot list",
+        "stepDescription": "We schedule around your quiet hours and prepare a clear item shot list."
+      },
+      {
+        "stepTitle": "On-site shoot at your shop",
+        "stepDescription": "We set up lighting on-site and capture products, dishes, and interior angles."
+      },
+      {
+        "stepTitle": "Retouch & deliver your gallery",
+        "stepDescription": "You receive high-res print files plus web-optimized versions for social and Google Maps."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "Which cities do you cover for on-site photography?",
+        "answer": "We provide on-site visits across Al Ahsa (Hofuf and Mubarraz), Dammam, Khobar, and the wider Eastern Province."
+      },
+      {
+        "question": "Do I receive high-resolution photos for menus and delivery apps?",
+        "answer": "Yes. You receive all retouched photos in both high-resolution print format and web-ready sizes for delivery apps, social media, and Google Maps."
+      }
+    ],
+    "primaryCtaLabel": "Book a photo shoot for my shop",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to book an on-site photography session for my shop.",
+    "seo": {
+      "metaTitle": "Food, Product & Storefront Photography in Al Ahsa & Eastern Province | Bayyora",
+      "metaDescription": "Professional on-site food, product, and interior shop photography in Al Ahsa, Hofuf, Mubarraz, Dammam, and Khobar."
+    }
+  }
+}

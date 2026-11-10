@@ -1,0 +1,360 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Readex+Pro:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-arabic: 'Readex Pro', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --color-canvas: #f7f3eb;
+  --rgb-canvas: 247 243 235;
+  --color-canvas-sand: #efe9dc;
+  --rgb-canvas-sand: 239 233 220;
+  --color-surface: #ffffff;
+  --rgb-surface: 255 255 255;
+  --color-navy: #0d2235;
+  --rgb-navy: 13 34 53;
+  --color-navy-elevated: #16324b;
+  --rgb-navy-elevated: 22 50 75;
+  --color-oasis: #136f63;
+  --rgb-oasis: 19 111 99;
+  --color-accent: #f2a541;
+  --rgb-accent: 242 165 65;
+  --color-on-accent: #0d2235;
+  --rgb-on-accent: 13 34 53;
+  --color-whatsapp: #0e7a6d;
+  --rgb-whatsapp: 14 122 109;
+  --color-ink: #141a21;
+  --rgb-ink: 20 26 33;
+  --color-muted: #4a5568;
+  --rgb-muted: 74 85 104;
+  --color-border-subtle: #dfd6c7;
+  --rgb-border-subtle: 223 214 199;
+  --color-border-input: #7a869a;
+  --rgb-border-input: 122 134 154;
+  --color-success: #15803d;
+  --rgb-success: 21 128 61;
+  --color-warning: #b45309;
+  --rgb-warning: 180 83 9;
+  --color-danger: #b91c1c;
+  --rgb-danger: 185 28 28;
+
+  /* Centralized Motion & Easing Tokens (Section 3 Stabilization Spec) */
+  --duration-micro: 150ms;
+  --duration-standard: 220ms;
+  --duration-section: 360ms;
+  --ease-out-cubic: cubic-bezier(0.215, 0.61, 0.355, 1);
+  --ease-out-quart: cubic-bezier(0.165, 0.84, 0.44, 1);
+  --ease-out-quint: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-out-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out-cubic: cubic-bezier(0.645, 0.045, 0.355, 1);
+
+  --container-main: 1240px;
+  --container-narrow: 820px;
+  --radius-card: 1rem;
+  --radius-button: 0.75rem;
+  --header-h: 74px;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-h, 74px) + 20px);
+  scroll-padding-bottom: 96px;
+  background-color: var(--color-canvas);
+  color: var(--color-ink);
+  -webkit-text-size-adjust: 100%;
+  max-inline-size: 100%;
+  overflow-x: clip;
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+}
+
+/* Disable scroll anchoring on direct parent of position: sticky header (modern-web-guidance: state-aware-sticky-headers & css-layout) */
+body {
+  min-block-size: 100dvh;
+  max-inline-size: 100%;
+  overflow-x: clip;
+  overflow-anchor: none;
+}
+
+/* Card & Balanced Flex Utilities */
+.cq-card {
+  min-inline-size: 0;
+}
+
+.flex-wrap-balance {
+  display: flex;
+  flex-wrap: wrap;
+  flex-wrap: balance;
+}
+
+/* State-Aware Sticky Header */
+.sticky-header-container {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  width: 100%;
+}
+
+.sticky-header-bar {
+  background-color: var(--color-canvas, #f7f3eb);
+  border-bottom: 1px solid rgb(var(--rgb-border-subtle, 223 214 199) / 0.85);
+  transition:
+    background-color var(--duration-standard, 220ms) var(--ease-out-cubic),
+    box-shadow var(--duration-standard, 220ms) var(--ease-out-cubic),
+    border-color var(--duration-standard, 220ms) var(--ease-out-cubic);
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}
+
+.sticky-header-container.is-stuck .sticky-header-bar {
+  background-color: var(--color-surface, #ffffff);
+  border-bottom-color: var(--color-border-subtle, #dfd6c7);
+  box-shadow:
+    0 10px 28px -8px rgb(13 34 53 / 0.14),
+    0 2px 6px -1px rgb(13 34 53 / 0.06);
+}
+
+/* Script-specific typography tuning (25-DESIGN-SYSTEM-SPECIFICATION.md §3.2) */
+html[dir='rtl'] body {
+  font-family: var(--font-arabic), system-ui, -apple-system, sans-serif;
+  line-height: 1.78;
+  letter-spacing: 0 !important;
+}
+
+html[dir='rtl'] h1,
+html[dir='rtl'] h2,
+html[dir='rtl'] h3,
+html[dir='rtl'] h4 {
+  letter-spacing: 0 !important;
+  line-height: 1.32;
+}
+
+html[dir='ltr'] body {
+  font-family: var(--font-sans), var(--font-arabic), system-ui, -apple-system, sans-serif;
+  line-height: 1.65;
+}
+
+html[dir='ltr'] h1,
+html[dir='ltr'] h2,
+html[dir='ltr'] h3 {
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+}
+
+/* Tabular numbers for package metrics and step numbers */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Accessible focus-visible indicator (>= 3:1 contrast against adjacent surfaces — WCAG 2.2 SC 2.4.7 & 2.4.11) */
+:focus-visible {
+  outline: 2px solid var(--color-navy);
+  outline-offset: 2px;
+}
+
+.section-navy :focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Interactive Card & Button Micro-Interactions (web-animation-design: hover only on fine pointer devices) */
+.card-interactive {
+  transition:
+    transform 280ms cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 280ms cubic-bezier(0.16, 1, 0.3, 1),
+    border-color 180ms ease;
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .card-interactive:hover {
+    transform: translateY(-5px);
+    box-shadow:
+      0 18px 36px -10px rgb(13 34 53 / 0.14),
+      0 4px 12px -2px rgb(13 34 53 / 0.06);
+  }
+}
+
+/* ==========================================================================
+   Smooth GPU-Composited Viewport Entrance & Scroll-Reveal Keyframes
+   ========================================================================== */
+@keyframes bayyora-enter-up {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 30px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes bayyora-enter-scale {
+  0% {
+    opacity: 0;
+    transform: scale(0.94) translate3d(0, 16px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translate3d(0, 0, 0);
+  }
+}
+
+@keyframes bayyora-reveal-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes bayyora-panel-switch {
+  0% {
+    opacity: 0.2;
+    transform: translate3d(0, 10px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animate-reveal-up {
+  will-change: transform, opacity;
+  animation: bayyora-enter-up var(--reveal-duration, 650ms) cubic-bezier(0.16, 1, 0.3, 1)
+    var(--reveal-delay, 0ms) 1 normal both;
+}
+
+.animate-reveal-scale {
+  will-change: transform, opacity;
+  animation: bayyora-enter-scale var(--reveal-duration, 650ms) cubic-bezier(0.16, 1, 0.3, 1)
+    var(--reveal-delay, 0ms) 1 normal both;
+}
+
+.animate-reveal-fade {
+  will-change: opacity;
+  animation: bayyora-reveal-fade var(--reveal-duration, 550ms) cubic-bezier(0.16, 1, 0.3, 1)
+    var(--reveal-delay, 0ms) 1 normal both;
+}
+
+.animate-panel-switch {
+  animation: bayyora-panel-switch 280ms cubic-bezier(0.16, 1, 0.3, 1) 1 normal both;
+}
+
+[data-stagger-state='animating'] > .stagger-item {
+  will-change: transform, opacity;
+  animation: bayyora-enter-up 600ms cubic-bezier(0.16, 1, 0.3, 1) var(--stagger-delay, 0ms) 1
+    normal both;
+}
+
+[data-stagger-state='animating'] > .stagger-item:nth-child(1) { --stagger-delay: 0ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(2) { --stagger-delay: 90ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(3) { --stagger-delay: 180ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(4) { --stagger-delay: 270ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(5) { --stagger-delay: 360ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(6) { --stagger-delay: 450ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(7) { --stagger-delay: 540ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(8) { --stagger-delay: 630ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(9) { --stagger-delay: 720ms; }
+[data-stagger-state='animating'] > .stagger-item:nth-child(n + 10) { --stagger-delay: 810ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-reveal-up,
+  .animate-reveal-scale,
+  .animate-reveal-fade,
+  .animate-panel-switch,
+  [data-stagger-state='animating'] > .stagger-item {
+    animation: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+  }
+}
+
+/* Rising Line SVG Self-Drawing Animation */
+@keyframes bayyora-draw-stroke {
+  from {
+    stroke-dashoffset: 160;
+    opacity: 0.25;
+  }
+  to {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+}
+
+.rising-line-path {
+  stroke-dasharray: 160;
+  stroke-dashoffset: 0;
+  @media (prefers-reduced-motion: no-preference) {
+    animation: bayyora-draw-stroke 950ms var(--ease-out-quart) both;
+  }
+}
+
+/* Subtle Floating Badge & Pulse Ring Animations (case-by-case reduced motion per modern-web-guidance: motion) */
+@keyframes bayyora-float-badge {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.animate-badge-float {
+  will-change: transform;
+  animation: bayyora-float-badge 3.4s var(--ease-in-out-cubic) infinite;
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+  }
+}
+
+@keyframes bayyora-whatsapp-ring {
+  0% {
+    transform: scale(1);
+    opacity: 0.55;
+  }
+  75%,
+  100% {
+    transform: scale(1.38);
+    opacity: 0;
+  }
+}
+
+.animate-whatsapp-ring {
+  will-change: transform, opacity;
+  animation: bayyora-whatsapp-ring 2.4s var(--ease-out-quart) infinite;
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+    opacity: 0;
+  }
+}
+
+/* Progressive CSS Scroll-Driven View-Timeline Enhancement (modern-web-guidance: scroll-entry-exit-effects) */
+@media (prefers-reduced-motion: no-preference) {
+  @supports ((animation-timeline: view()) and (animation-range: entry)) {
+    @keyframes bayyora-scroll-entry {
+      from {
+        opacity: 0.25;
+        transform: translateY(20px) scale(0.97);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+      }
+    }
+
+    .css-scroll-entry {
+      animation: bayyora-scroll-entry auto linear backwards;
+      animation-timeline: view(block);
+      animation-range: entry 5% cover 22%;
+    }
+  }
+}

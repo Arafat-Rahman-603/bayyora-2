@@ -1,0 +1,48 @@
+{
+  "slug": "google-maps-for-shops-ahsa",
+  "categorySlug": "local-seo",
+  "publishedAt": "2026-02-15T09:00:00.000Z",
+  "readingTimeMinutes": 4,
+  "ar": {
+    "title": "ليش محلّك ما يطلع في خرائط جوجل؟ ٥ أخطاء تخسّرك زباين جاهزين للشراء",
+    "excerpt": "أكثر من نصف الزبائن الجدد يبحثون في خرائط جوجل قبل زيارة أي مطعم أو كافيه أو صيدلية. تعرّف على ٥ خطوات عملية لترتيب ملف محلّك.",
+    "bodyContent": "عندما يفتح زبون جواله في الهفوف أو المبرز أو الدمام ويكتب «قهوة مختصة قريبة» أو «مطعم شاورما»، يختار جوجل ٣ محلات فقط ليضعها في صدارة الشاشة. إذا لم يكن محلّك بينها، فأنت تخسر زبائن واقفين في نفس الشارع.\n\n١. عدم توثيق ملكية الملف (Verification):\nكثير من المحلات يظهر اسمها في الخريطة لكن بدون توثيق رسمي، فيصبح أي شخص قادرًا على تغيير ساعات العمل أو وضع رقم خاطئ. الخطوة الأولى هي توثيق النشاط التجاري رسميًا.\n\n٢. اختيار تصنيف عام بدل التصنيف الدقيق:\nاختيار تصنيف دقيق (مثل: مقهى، مخبز، صيدلية، مطعم مشويات) يساعد خوارزمية خرائط جوجل على إظهارك للباحثين عن منتجك تحديدًا.\n\n٣. غياب الصور الحقيقية للواجهة والمنيو:\nالزبون يريد أن يرى لوحة المحل من الخارج حتى يعرف المكان بسهولة، ويريد رؤية صور حقيقية للأصناف والأسعار قبل أن يتحرك بسيارته.\n\n٤. عدم تحديث ساعات العمل في المواسم والجمعة:\nلا شيء يزعج الزبون أكثر من أن يقرأ «مفتوح الآن» في الخريطة ثم يصل ويجد المحل مغلقًا.\n\n٥. إهمال الرد على التقييمات:\nالرد المحترم والسريع على تقييمات الزبائن يرفع ثقة العملاء الجدد ويعطي إشارة إيجابية لمحرك البحث بأن المحل نشط ومهتم بعملائه.",
+    "keyTakeaways": [
+      {
+        "point": "وثّق ملكية ملف محلّك في Google Business Profile وتأكد من دقة موقع الدبوس على الشارع."
+      },
+      {
+        "point": "ارفع ١٠ صور واضحة على الأقل تشمل اللوحة الخارجية بالليل، الديكور، وأبرز المنتجات."
+      },
+      {
+        "point": "ضع رابط المنيو أو رابط واتساب الأعمال مباشرة في خانة الموقع الإلكتروني."
+      }
+    ],
+    "authorName": "فريق بيّورا للتسويق المحلي",
+    "seo": {
+      "metaTitle": "طريقة تحسين ظهور المحل في خرائط جوجل وجذب زبائن أكثر | مدونة بيّورا",
+      "metaDescription": "دليل عملي لأصحاب المحلات والمطاعم والكافيهات في السعودية لتحسين ملف خرائط جوجل (Google Business Profile) وزيادة الزيارات."
+    }
+  },
+  "en": {
+    "title": "Why Doesn’t Your Shop Show Up on Google Maps? 5 Fixes to Win Nearby Customers",
+    "excerpt": "Over half of local shoppers check Google Maps before visiting a new restaurant, cafe, or pharmacy. Here are 5 practical fixes for your listing.",
+    "bodyContent": "When a customer in Al Ahsa, Dammam, or Khobar opens their phone and searches Google Maps for \"specialty coffee nearby\" or \"pharmacy open now\", Google highlights the top three local listings. If your shop is missing key details, ready-to-buy customers drive right past you.\n\n1. Unverified Business Ownership:\nAn unverified Google Business Profile allows random edits to your hours or pin location. Claiming and verifying ownership is step one.\n\n2. Vague Primary Categories:\nSelect the most specific primary category that matches what customers search for (e.g., Specialty Coffee Shop, Grill Restaurant, Pharmacy) rather than a generic store label.\n\n3. Missing Storefront & Menu Photos:\nUpload clear exterior photos so drivers recognize your sign at night, plus bright photos of your menu and interior.\n\n4. Outdated Friday & Ramadan Hours:\nKeep your regular and holiday hours accurate so customers never arrive to a closed door.\n\n5. Unanswered Customer Reviews:\nReplying warmly to every genuine review builds immediate trust with first-time visitors and signals active management to Google.",
+    "keyTakeaways": [
+      {
+        "point": "Verify your Google Business Profile and double-check your exact street pin."
+      },
+      {
+        "point": "Upload at least 10 clear photos including your illuminated night sign, interior, and top products."
+      },
+      {
+        "point": "Add your digital menu or WhatsApp Business link directly to the profile website field."
+      }
+    ],
+    "authorName": "Bayyora Local Growth Team",
+    "seo": {
+      "metaTitle": "How to Rank Your Shop Higher on Google Maps in Saudi Arabia | Bayyora Blog",
+      "metaDescription": "Practical 5-step guide for Saudi shop and restaurant owners to optimize their Google Business Profile on Google Maps."
+    }
+  }
+}

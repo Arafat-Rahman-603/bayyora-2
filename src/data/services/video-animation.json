@@ -1,0 +1,109 @@
+{
+  "displayOrder": 5,
+  "slug": "video-animation",
+  "iconName": "video",
+  "ar": {
+    "name": "الفيديو والموشن",
+    "benefitHeadline": "مقطع يوقّف الإصبع",
+    "shortDescription": "مونتاج ريلز وتيك توك وسناب وفيديوهات موشن قصيرة تشرح منتجك أو عرضك في ثواني.",
+    "heroSubheadline": "نحوّل لقطات محلّك ومنتجاتك إلى مقاطع طولية سريعة ومشوّقة تناسب تيك توك وريلز إنستغرام وسناب شات.",
+    "problemStatement": "الناس اليوم تتصفح الفيديو أكثر من الصور الثابتة، لكن المونتاج ياخذ وقت طويل من صاحب المحل أو يطلع بصوت وإضاءة ضعيفة ما تجذب المشاهد.",
+    "deliverables": [
+      {
+        "itemText": "كتابة فكرة وسيناريو مختصر للمقطع يركّز على أول ٣ ثواني (Hook)"
+      },
+      {
+        "itemText": "مونتاج مقاطع طولية (9:16) لريلز وتيك توك وسناب شات"
+      },
+      {
+        "itemText": "إضافة نصوص واضحة على الشاشة (Captions) لمن يشاهد الفيديو بدون صوت"
+      },
+      {
+        "itemText": "مقاطع موشن جرافيك خفيفة لشرح العروض أو طريقة الطلب والوصول للمحل"
+      }
+    ],
+    "packageInclusionNote": "تشمل الباقات الشهرية ٢ ريلز في «بداية»، و٤ ريلز في «نمو»، و٦–٨ ريلز في «ريادة»، بالإضافة لفيديو تعريفي في «انطلاقة أونلاين».",
+    "processSteps": [
+      {
+        "stepTitle": "نحدّد الفكرة والعرض",
+        "stepDescription": "نختار الصنف أو العرض اللي يهم الزبون ونكتب سيناريو سريع وواضح."
+      },
+      {
+        "stepTitle": "نمنتج ونضيف النصوص والمؤثرات",
+        "stepDescription": "نقصّ اللقطات بإيقاع سريع مع عناوين واضحة وهوية محلّك."
+      },
+      {
+        "stepTitle": "نسلّمك المقطع جاهزًا للنشر والإعلانات",
+        "stepDescription": "تستلم الفيديو بالجودة الكاملة جاهزًا للنشر أو للتمويل الإعلاني."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "هل لازم أظهر بنفسي في الفيديو؟",
+        "answer": "أبدًا، نقدر نعتمد على لقطات المنتجات، تحضير الطلب، أجواء المحل، والنصوص التوضيحية أو التعليق الصوتي."
+      },
+      {
+        "question": "هل الفيديوهات تناسب الإعلانات الممولة في سناب وتيك توك؟",
+        "answer": "نعم، جميع المقاطع تُصمّم بالمقاس الطولي القياسي (9:16) مع خطاف بصري سريع في أول ٣ ثوانٍ يناسب الإعلانات الممولة والنشر الطبيعي."
+      }
+    ],
+    "primaryCtaLabel": "أبغى ريلز وفيديوهات لمحلّي",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن إنتاج الفيديو والريلز لمحلي.",
+    "seo": {
+      "metaTitle": "إنتاج ومونتاج ريلز وفيديو وموشن للمحلات في الأحساء والشرقية | بيّورا",
+      "metaDescription": "تصوير ومونتاج مقاطع ريلز وتيك توك وسناب شات وفيديوهات موشن جرافيك للمطاعم والكافيهات والمحلات في الأحساء والشرقية."
+    }
+  },
+  "en": {
+    "name": "Video and animation",
+    "benefitHeadline": "Videos that stop the scroll",
+    "shortDescription": "Reels, TikToks, Snapchat videos, and short motion graphics that showcase your offer in seconds.",
+    "heroSubheadline": "We turn your shop footage and offers into fast-paced vertical videos tailored for TikTok, Instagram Reels, and Snapchat.",
+    "problemStatement": "Customers watch vertical video more than static graphics, but editing takes hours and poor audio or slow intros make viewers swipe away immediately.",
+    "deliverables": [
+      {
+        "itemText": "Short video scripting focused on a strong first-3-second hook"
+      },
+      {
+        "itemText": "Vertical (9:16) editing optimized for Reels, TikTok, and Snapchat Spotlight"
+      },
+      {
+        "itemText": "On-screen Arabic/English captions for silent viewers"
+      },
+      {
+        "itemText": "Clean motion graphics for offers, menu highlights, and store directions"
+      }
+    ],
+    "packageInclusionNote": "Monthly packages include 2 reels in Bidaya, 4 reels in Numow, and 6–8 reels in Riyada, plus 1 intro video in Go Online.",
+    "processSteps": [
+      {
+        "stepTitle": "Select the hook & angle",
+        "stepDescription": "We pick the product or offer that grabs attention and write a concise shot list."
+      },
+      {
+        "stepTitle": "Edit, caption & pace",
+        "stepDescription": "We cut to a crisp pace and add legible branded captions."
+      },
+      {
+        "stepTitle": "Deliver for organic & ads",
+        "stepDescription": "You receive high-definition vertical files ready for organic posting or paid ads."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "Do I have to appear on camera myself?",
+        "answer": "Not at all. We can highlight product preparation, storefront atmosphere, hands-on-product shots, and clean on-screen text or voiceover."
+      },
+      {
+        "question": "Are the videos formatted for Snapchat and TikTok ads?",
+        "answer": "Yes. Every video is exported in native 9:16 vertical format with a fast 3-second hook engineered for both organic reach and paid ads."
+      }
+    ],
+    "primaryCtaLabel": "Request video & reels for my shop",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about Video & Reels production.",
+    "seo": {
+      "metaTitle": "Reels, TikTok Video & Motion Graphics for Saudi Shops | Bayyora",
+      "metaDescription": "Scroll-stopping vertical videos, Reels, TikToks, and motion graphics for restaurants, cafes, and shops in Saudi Arabia."
+    }
+  }
+}

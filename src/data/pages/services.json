@@ -1,0 +1,27 @@
+{
+  "slug": "services",
+  "isLegalPage": false,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "كل اللي يحتاجه محلّك، من فريق واحد",
+    "subtitle": "بدل ما تتعامل مع مصمم للّوحة، ومصوّر للمنيو، وشركة للسوشال ميديا، جمعنا لك الـ ٩ خدمات الأساسية اللي ترفع حضور ومبيعات محلّك تحت سقف واحد.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن الخدمات المناسبة لمحلي.",
+    "seo": {
+      "metaTitle": "خدمات التسويق والتصميم والتصوير للمحلات والمطاعم | بيّورا",
+      "metaDescription": "استكشف خدمات بيّورا التسع: الهوية والشعار، المطبوعات والواجهات، المواقع والمتاجر، السوشال ميديا، الفيديو، التصوير، خرائط جوجل، واتساب، وحملات المواسم."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Everything your shop needs, from one local team",
+    "subtitle": "Instead of juggling separate freelancers for signage, photography, and social media, get all 9 core local growth services under one roof.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like guidance on the right services for my shop.",
+    "seo": {
+      "metaTitle": "Our 9 Marketing, Branding, Print, Web & Photography Services | Bayyora",
+      "metaDescription": "Explore Bayyora’s 9 services: Brand Identity, Print & Shop Design, Websites, Social Media, Video, Photography, Google Maps Ads, WhatsApp, and Seasonal Campaigns."
+    },
+    "layout": []
+  }
+}

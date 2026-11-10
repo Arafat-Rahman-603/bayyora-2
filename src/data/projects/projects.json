@@ -1,0 +1,480 @@
+[
+  {
+    "slug": "sample-cafe-maps-ahsa",
+    "isSampleConcept": true,
+    "clientPermissionVerified": false,
+    "hasFullCaseStudyPage": false,
+    "serviceCategory": "ads-local-search",
+    "businessType": "cafe",
+    "_status": "published",
+    "ar": {
+      "title": "نموذج توضيحي: تطوير ظهور كافيه مختص في خرائط جوجل وإنستغرام",
+      "cityTag": "الأحساء",
+      "summary": "مثال توضيحي لكيف نحوّل ملف كافيه غير مكتمل في خرائط جوجل إلى واجهة رقمية تجلب زيارات يومية.",
+      "beforeHeadline": "قبل بيّورا (ملف غير مكتمل)",
+      "afterHeadline": "بعد بيّورا (حضور محلي مرتب)",
+      "beforeMetrics": [
+        {
+          "label": "الظهور في خرائط جوجل",
+          "value": "بدون صور حديثة أو أوقات عمل"
+        },
+        {
+          "label": "المنيو والأسعار",
+          "value": "غير متوفر أونلاين"
+        },
+        {
+          "label": "حساب إنستغرام",
+          "value": "متوقف منذ أسابيع"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "الظهور في خرائط جوجل",
+          "value": "موثّق مع ٢٠+ صورة احترافية"
+        },
+        {
+          "label": "المنيو والأسعار",
+          "value": "منيو رقمي سريع مربوط بواتساب"
+        },
+        {
+          "label": "حساب إنستغرام",
+          "value": "١٦ تصميم + ٤ ريلز شهريًا"
+        }
+      ],
+      "challengeSummary": "كافيه يقدم قهوة وحلويات ممتازة، لكن الباحثين في خرائط جوجل لا يجدون ساعات العمل ولا صور الأصناف.",
+      "solutionSummary": "توثيق خرائط جوجل، جلسة تصوير للأصناف والديكور، تصميم منيو رقمي، وجدولة محتوى شهري منتظم.",
+      "verifiedOutcomeSummary": "نموذج توضيحي يبيّن شكل الترتيب المتكامل الذي ننفّذه للكافيهات في باقة «نمو».",
+      "seo": {
+        "metaTitle": "نموذج توضيحي: تطوير ظهور كافيه مختص في خرائط جوجل وإنستغرام | دراسة حالة ونموذج تحول بيّورا",
+        "metaDescription": "مثال توضيحي لكيف نحوّل ملف كافيه غير مكتمل في خرائط جوجل إلى واجهة رقمية تجلب زيارات يومية."
+      }
+    },
+    "en": {
+      "title": "Sample Concept: Specialty Cafe Google Maps & Social Transformation",
+      "cityTag": "Al Ahsa",
+      "summary": "Illustrative concept showing how we transform an incomplete cafe listing into a complete local search magnet.",
+      "beforeHeadline": "Before Bayyora (Incomplete Profile)",
+      "afterHeadline": "After Bayyora (Optimized Presence)",
+      "beforeMetrics": [
+        {
+          "label": "Google Maps Listing",
+          "value": "Missing photos & hours"
+        },
+        {
+          "label": "Menu Access",
+          "value": "No online menu link"
+        },
+        {
+          "label": "Instagram Feed",
+          "value": "Inactive for weeks"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "Google Maps Listing",
+          "value": "Verified + 20 pro photos"
+        },
+        {
+          "label": "Menu Access",
+          "value": "Fast QR menu + WhatsApp"
+        },
+        {
+          "label": "Instagram Feed",
+          "value": "16 posts + 4 Reels / mo"
+        }
+      ],
+      "challengeSummary": "A specialty cafe serving great coffee whose Google Maps listing lacked working hours, menu links, and authentic photos.",
+      "solutionSummary": "Google Maps verification, on-site food/interior shoot, digital menu page, and structured monthly content.",
+      "verifiedOutcomeSummary": "Illustrative concept demonstrating the complete deliverables executed under our monthly Numow package.",
+      "seo": {
+        "metaTitle": "Sample Concept: Specialty Cafe Google Maps & Social Transformation | Bayyora Case Study & Transformation",
+        "metaDescription": "Illustrative concept showing how we transform an incomplete cafe listing into a complete local search magnet."
+      }
+    }
+  },
+  {
+    "slug": "sample-restaurant-brand-hofuf",
+    "isSampleConcept": true,
+    "clientPermissionVerified": false,
+    "hasFullCaseStudyPage": false,
+    "serviceCategory": "brand-identity",
+    "businessType": "restaurant",
+    "_status": "published",
+    "ar": {
+      "title": "نموذج توضيحي: هوية بصرية ومنيو وتغليف لمطعم شاورما ومشويات",
+      "cityTag": "الهفوف",
+      "summary": "مثال توضيحي لتوحيد شعار المطعم، اللوحة الخارجية، المنيو، وعلب السفري بهوية تفتح النفس.",
+      "beforeHeadline": "قبل (مطبوعات متفرقة)",
+      "afterHeadline": "بعد (هوية مطعم متكاملة)",
+      "beforeMetrics": [
+        {
+          "label": "الشعار واللوحة",
+          "value": "خط صغير غير واضح بالليل"
+        },
+        {
+          "label": "المنيو",
+          "value": "مزدحم بدون صور للأصناف"
+        },
+        {
+          "label": "أكياس السفري",
+          "value": "أكياس بيضاء سادة بدون اسم"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "الشعار واللوحة",
+          "value": "شعار جريء وألوان واضحة من الشارع"
+        },
+        {
+          "label": "المنيو",
+          "value": "منيو مقسّم يبرز الوجبات العائلية"
+        },
+        {
+          "label": "أكياس السفري",
+          "value": "علب وأكياس مطبوعة مع باركود الطلب"
+        }
+      ],
+      "challengeSummary": "مطعم يعتمد على طلبات السفري والتوصيل لكن تغليفه ومنيوه لا يعكسان نظافة وجودة الأكل.",
+      "solutionSummary": "تصميم حزمة «واجهة المحل»: شعار واضح، لوحة خارجية، منيو مصوّر، وأكياس وعلب سفري مميزة.",
+      "verifiedOutcomeSummary": "نموذج توضيحي لمخرجات خدمتي «الهوية والشعار» و«المطبوعات والواجهات».",
+      "seo": {
+        "metaTitle": "نموذج توضيحي: هوية بصرية ومنيو وتغليف لمطعم شاورما ومشويات | دراسة حالة ونموذج تحول بيّورا",
+        "metaDescription": "مثال توضيحي لتوحيد شعار المطعم، اللوحة الخارجية، المنيو، وعلب السفري بهوية تفتح النفس."
+      }
+    },
+    "en": {
+      "title": "Sample Concept: Brand Identity, Menu & Packaging for Local Grill Restaurant",
+      "cityTag": "Hofuf",
+      "summary": "Illustrative concept unifying a restaurant’s logo, storefront sign, dine-in menu, and takeaway boxes.",
+      "beforeHeadline": "Before (Mismatched Print)",
+      "afterHeadline": "After (Unified Brand Kit)",
+      "beforeMetrics": [
+        {
+          "label": "Logo & Sign",
+          "value": "Hard to read at night"
+        },
+        {
+          "label": "Menu Layout",
+          "value": "Cluttered text-only sheet"
+        },
+        {
+          "label": "Takeaway Packaging",
+          "value": "Plain unbranded bags"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "Logo & Sign",
+          "value": "High-contrast street sign"
+        },
+        {
+          "label": "Menu Layout",
+          "value": "Structured menu highlighting combos"
+        },
+        {
+          "label": "Takeaway Packaging",
+          "value": "Branded boxes with reorder QR"
+        }
+      ],
+      "challengeSummary": "A busy takeaway restaurant whose plain packaging and cluttered menu undersold its food quality.",
+      "solutionSummary": "Complete \"Shop Look\" bundle: bold logo, signage dielines, categorized menu, and custom takeaway packaging.",
+      "verifiedOutcomeSummary": "Illustrative concept showing deliverables from our Brand Identity and Print & Shop Design services.",
+      "seo": {
+        "metaTitle": "Sample Concept: Brand Identity, Menu & Packaging for Local Grill Restaurant | Bayyora Case Study & Transformation",
+        "metaDescription": "Illustrative concept unifying a restaurant’s logo, storefront sign, dine-in menu, and takeaway boxes."
+      }
+    }
+  },
+  {
+    "slug": "sample-pharmacy-whatsapp-mubarraz",
+    "isSampleConcept": true,
+    "clientPermissionVerified": false,
+    "hasFullCaseStudyPage": false,
+    "serviceCategory": "whatsapp-follow-up",
+    "businessType": "pharmacy",
+    "_status": "published",
+    "ar": {
+      "title": "نموذج توضيحي: تنظيم واتساب الأعمال ومحتوى التوعية لصيدلية مجتمعية",
+      "cityTag": "المبرز",
+      "summary": "مثال توضيحي لتجهيز استقبال استفسارات الأدوية ومنتجات العناية عبر واتساب مع محتوى متوافق مع ضوابط الغذاء والدواء.",
+      "beforeHeadline": "قبل (تأخر في الرد)",
+      "afterHeadline": "بعد (واتساب منظم ومحتوى موثوق)",
+      "beforeMetrics": [
+        {
+          "label": "استفسارات واتساب",
+          "value": "رسائل غير مقروءة وقت الذروة"
+        },
+        {
+          "label": "الكتالوج",
+          "value": "غير متوفر"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "استفسارات واتساب",
+          "value": "رد ترحيبي فوري وتقسيم حسب الطلب"
+        },
+        {
+          "label": "الكتالوج",
+          "value": "كتالوج عروض العناية اليومية داخل واتساب"
+        }
+      ],
+      "challengeSummary": "سكان الحي يرسلون صور الوصفات أو يسألون عن توفر منتجات العناية بالواتساب ويتأخر الرد لانشغال الصيدلي.",
+      "solutionSummary": "إعداد واتساب الأعمال بقوائم رد سريع وتصنيفات، مع منشورات تثقيفية تحترم ضوابط هيئة الغذاء والدواء (SFDA).",
+      "verifiedOutcomeSummary": "نموذج توضيحي لخدمة «واتساب ومتابعة العملاء» للقطاع الصيدلاني.",
+      "seo": {
+        "metaTitle": "نموذج توضيحي: تنظيم واتساب الأعمال ومحتوى التوعية لصيدلية مجتمعية | دراسة حالة ونموذج تحول بيّورا",
+        "metaDescription": "مثال توضيحي لتجهيز استقبال استفسارات الأدوية ومنتجات العناية عبر واتساب مع محتوى متوافق مع ضوابط الغذاء والدواء."
+      }
+    },
+    "en": {
+      "title": "Sample Concept: WhatsApp Ordering & SFDA-Compliant Content for Community Pharmacy",
+      "cityTag": "Mubarraz",
+      "summary": "Illustrative concept for organizing WhatsApp inquiries and SFDA-compliant educational social posts for a neighborhood pharmacy.",
+      "beforeHeadline": "Before (Missed Messages)",
+      "afterHeadline": "After (Structured WhatsApp Flow)",
+      "beforeMetrics": [
+        {
+          "label": "WhatsApp Inquiries",
+          "value": "Unread messages at peak hours"
+        },
+        {
+          "label": "Product Catalogue",
+          "value": "No digital catalogue"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "WhatsApp Inquiries",
+          "value": "Instant greeting & routing"
+        },
+        {
+          "label": "Product Catalogue",
+          "value": "In-app personal care catalogue"
+        }
+      ],
+      "challengeSummary": "Neighbors message on WhatsApp to check product availability while the pharmacist is busy at the counter.",
+      "solutionSummary": "WhatsApp Business quick-reply templates, order labels, and ethical SFDA-aligned wellness content.",
+      "verifiedOutcomeSummary": "Illustrative concept for our WhatsApp & Follow-Up service tailored to pharmacies.",
+      "seo": {
+        "metaTitle": "Sample Concept: WhatsApp Ordering & SFDA-Compliant Content for Community Pharmacy | Bayyora Case Study & Transformation",
+        "metaDescription": "Illustrative concept for organizing WhatsApp inquiries and SFDA-compliant educational social posts for a neighborhood pharmacy."
+      }
+    }
+  },
+  {
+    "slug": "sample-salon-booking-khobar",
+    "isSampleConcept": true,
+    "clientPermissionVerified": false,
+    "hasFullCaseStudyPage": false,
+    "serviceCategory": "websites-online-stores",
+    "businessType": "salon",
+    "_status": "published",
+    "ar": {
+      "title": "نموذج توضيحي: صفحة خدمات وحجز مواعيد مع ريلز لصالون عناية",
+      "cityTag": "الخبر",
+      "summary": "مثال توضيحي لصفحة خدمات وأسعار ثنائية اللغة (عربي/إنجليزي) مربوطة بحجز المواعيد وحملات العيد.",
+      "beforeHeadline": "قبل (أسعار غير واضحة)",
+      "afterHeadline": "بعد (قائمة خدمات وحجز مباشر)",
+      "beforeMetrics": [
+        {
+          "label": "قائمة الخدمات",
+          "value": "صور متفرقة في الستوري فقط"
+        },
+        {
+          "label": "حجز المواعيد",
+          "value": "أخذ ورد طويل في الرسائل"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "قائمة الخدمات",
+          "value": "موقع سريع باللغتين يعرض الخدمات والأسعار"
+        },
+        {
+          "label": "حجز المواعيد",
+          "value": "زر حجز مباشر يحدد الخدمة والموعد"
+        }
+      ],
+      "challengeSummary": "العميلات يسألن يوميًا عن قائمة الأسعار والباقات، والصالون يخسر حجوزات في مواسم الأعياد بسبب بطء الرد.",
+      "solutionSummary": "تصميم صفحة خدمات أنيقة باللغتين مع تجهيز حملة العيد قبل الموسم بـ ٣ أسابيع.",
+      "verifiedOutcomeSummary": "نموذج توضيحي يجمع بين «المواقع والمتاجر» و«حملات المواسم».",
+      "seo": {
+        "metaTitle": "نموذج توضيحي: صفحة خدمات وحجز مواعيد مع ريلز لصالون عناية | دراسة حالة ونموذج تحول بيّورا",
+        "metaDescription": "مثال توضيحي لصفحة خدمات وأسعار ثنائية اللغة (عربي/إنجليزي) مربوطة بحجز المواعيد وحملات العيد."
+      }
+    },
+    "en": {
+      "title": "Sample Concept: Service Menu Website, Reels & Seasonal Campaign for Beauty Salon",
+      "cityTag": "Khobar",
+      "summary": "Illustrative concept for a bilingual service/pricing microsite connected to WhatsApp appointment booking and Eid campaigns.",
+      "beforeHeadline": "Before (DM for Prices)",
+      "afterHeadline": "After (Clear Menu & Booking)",
+      "beforeMetrics": [
+        {
+          "label": "Service Menu",
+          "value": "Scattered story screenshots"
+        },
+        {
+          "label": "Appointment Booking",
+          "value": "Long back-and-forth chats"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "Service Menu",
+          "value": "Fast AR/EN service menu site"
+        },
+        {
+          "label": "Appointment Booking",
+          "value": "1-tap pre-filled booking button"
+        }
+      ],
+      "challengeSummary": "Clients repeatedly ask for service prices in DMs, causing missed bookings during peak Eid weeks.",
+      "solutionSummary": "Bilingual service catalog site plus an Eid campaign prepared three weeks ahead of the holiday.",
+      "verifiedOutcomeSummary": "Illustrative concept combining Websites & Online Stores with Seasonal Campaigns.",
+      "seo": {
+        "metaTitle": "Sample Concept: Service Menu Website, Reels & Seasonal Campaign for Beauty Salon | Bayyora Case Study & Transformation",
+        "metaDescription": "Illustrative concept for a bilingual service/pricing microsite connected to WhatsApp appointment booking and Eid campaigns."
+      }
+    }
+  },
+  {
+    "slug": "sample-retail-ramadan-dammam",
+    "isSampleConcept": true,
+    "clientPermissionVerified": false,
+    "hasFullCaseStudyPage": false,
+    "serviceCategory": "seasonal-campaigns",
+    "businessType": "retail",
+    "_status": "published",
+    "ar": {
+      "title": "نموذج توضيحي: حملة رمضان والعيد وتصوير بوكسات الهدايا لمحل عطور وتمور",
+      "cityTag": "الدمام",
+      "summary": "مثال توضيحي لتجهيز بوكسات الإهداء الرمضانية بالتصوير الاحترافي ومقاطع الريلز وتغليف الموسم.",
+      "beforeHeadline": "قبل (تجهيز متأخر ليلة الموسم)",
+      "afterHeadline": "بعد (حملة جاهزة قبل الموسم بـ ٣ أسابيع)",
+      "beforeMetrics": [
+        {
+          "label": "توقيت الإعلان",
+          "value": "بعد دخول الموسم بأيام"
+        },
+        {
+          "label": "صور البوكسات",
+          "value": "صور جوال على طاولة المحل"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "توقيت الإعلان",
+          "value": "انطلاق الحجز المبكر قبل الموسم بـ ٢٠ يوم"
+        },
+        {
+          "label": "صور البوكسات",
+          "value": "جلسة تصوير وفيديو تبرز فخامة الإهداء"
+        }
+      ],
+      "challengeSummary": "محلات التمور والعطور والحلويات تعتمد بشكل كبير على مبيعات المواسم ولكن تتأخر في تجهيز الصور والعروض.",
+      "solutionSummary": "تجهيز استوديو تصوير داخل المحل، تصميم تغليف الموسم، وإطلاق حملة ريلز وسناب مبكرة.",
+      "verifiedOutcomeSummary": "نموذج توضيحي لخدمتي «التصوير» و«حملات المواسم».",
+      "seo": {
+        "metaTitle": "نموذج توضيحي: حملة رمضان والعيد وتصوير بوكسات الهدايا لمحل عطور وتمور | دراسة حالة ونموذج تحول بيّورا",
+        "metaDescription": "مثال توضيحي لتجهيز بوكسات الإهداء الرمضانية بالتصوير الاحترافي ومقاطع الريلز وتغليف الموسم."
+      }
+    },
+    "en": {
+      "title": "Sample Concept: Ramadan & Eid Gift Box Photography and Video Campaign for Retail Shop",
+      "cityTag": "Dammam",
+      "summary": "Illustrative concept showcasing seasonal gift box photography, vertical video reels, and custom sleeve packaging.",
+      "beforeHeadline": "Before (Last-Minute Launch)",
+      "afterHeadline": "After (Launched 3 Weeks Early)",
+      "beforeMetrics": [
+        {
+          "label": "Launch Timing",
+          "value": "Days after season started"
+        },
+        {
+          "label": "Product Photos",
+          "value": "Dim counter snapshots"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "Launch Timing",
+          "value": "Pre-orders 20 days ahead"
+        },
+        {
+          "label": "Product Photos",
+          "value": "Studio-lit gift photography & Reel"
+        }
+      ],
+      "challengeSummary": "Dates, oud, and sweets retailers rely heavily on seasonal gifting but often miss early corporate and family orders.",
+      "solutionSummary": "On-site product shoot, seasonal packaging sleeves, and early Snapchat/Reels ad campaign.",
+      "verifiedOutcomeSummary": "Illustrative concept for our Photography and Seasonal Campaigns services.",
+      "seo": {
+        "metaTitle": "Sample Concept: Ramadan & Eid Gift Box Photography and Video Campaign for Retail Shop | Bayyora Case Study & Transformation",
+        "metaDescription": "Illustrative concept showcasing seasonal gift box photography, vertical video reels, and custom sleeve packaging."
+      }
+    }
+  },
+  {
+    "slug": "dawair",
+    "isSampleConcept": false,
+    "clientPermissionVerified": false,
+    "hasFullCaseStudyPage": true,
+    "serviceCategory": "websites-online-stores",
+    "businessType": "restaurant",
+    "_status": "draft",
+    "ar": {
+      "title": "دراسة حالة: مشروع دوائر (Dawair)",
+      "cityTag": "الهفوف — الأحساء",
+      "summary": "مسودة دراسة حالة محفوظة داخليًا لمطعم دواير في الهفوف — لا تُنشر للعامة إلا بعد توثيق الموافقة الخطية من العميل (BR-010).",
+      "beforeHeadline": "قبل التطوير",
+      "afterHeadline": "بعد التطوير",
+      "beforeMetrics": [
+        {
+          "label": "الحالة",
+          "value": "مسودة داخلية بانتظار إذن النشر"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "الحوكمة",
+          "value": "محمي بواسطة clientPermissionVerified"
+        }
+      ],
+      "challengeSummary": "مسودة داخلية لمشروع دوائر.",
+      "solutionSummary": "يتم تفعيل النشر فقط عند اعتماد موافقة العميل الخطية من قِبل المالك.",
+      "verifiedOutcomeSummary": "ملتزمون بعدم نشر أي أعمال لعملاء حقيقيين دون إذن مكتوب صريح.",
+      "seo": {
+        "metaTitle": "دراسة حالة: مشروع دوائر (Dawair) | دراسة حالة ونموذج تحول بيّورا",
+        "metaDescription": "مسودة دراسة حالة محفوظة داخليًا لمطعم دواير في الهفوف — لا تُنشر للعامة إلا بعد توثيق الموافقة الخطية من العميل (BR-010)."
+      }
+    },
+    "en": {
+      "title": "Case Study: Dawair Project",
+      "cityTag": "Hofuf — Al Ahsa",
+      "summary": "Internal draft case study for Dawair restaurant in Hofuf — gated from public display until written client permission is verified (BR-010).",
+      "beforeHeadline": "Before",
+      "afterHeadline": "After",
+      "beforeMetrics": [
+        {
+          "label": "Status",
+          "value": "Pending written client sign-off"
+        }
+      ],
+      "afterMetrics": [
+        {
+          "label": "Governance",
+          "value": "Protected by clientPermissionVerified gate"
+        }
+      ],
+      "challengeSummary": "Internal draft for the Dawair project.",
+      "solutionSummary": "Public display activates only when written client permission is verified by the Owner.",
+      "verifiedOutcomeSummary": "We strictly never publish real client work without explicit written permission.",
+      "seo": {
+        "metaTitle": "Case Study: Dawair Project | Bayyora Case Study & Transformation",
+        "metaDescription": "Internal draft case study for Dawair restaurant in Hofuf — gated from public display until written client permission is verified (BR-010)."
+      }
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "local-seo",
+    "ar": {
+      "name": "خرائط جوجل والظهور المحلي"
+    },
+    "en": {
+      "name": "Google Maps & Local Search"
+    }
+  },
+  {
+    "slug": "branding-design",
+    "ar": {
+      "name": "الهوية وتصميم المنيو والتصوير"
+    },
+    "en": {
+      "name": "Branding, Menus & Photography"
+    }
+  },
+  {
+    "slug": "seasonal-marketing",
+    "ar": {
+      "name": "حملات المواسم وزيادة المبيعات"
+    },
+    "en": {
+      "name": "Seasonal Campaigns & Growth"
+    }
+  }
+]

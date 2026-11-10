@@ -1,0 +1,442 @@
+[
+  {
+    "displayOrder": 1,
+    "slug": "bidaya",
+    "packageType": "monthly",
+    "isVisible": true,
+    "isHighlighted": false,
+    "internalPriceSar": 1490,
+    "ar": {
+      "name": "بداية",
+      "positioningSubline": "الخطوة الأولى — للمحلات اللي تبي حضور مرتب ومستمر",
+      "badgeText": "",
+      "description": "مناسبة للمحلات الجديدة أو اللي تبي ترتّب حساباتها وتظهر في خرائط جوجل بنشر منتظم بدون انقطاع.",
+      "quantifiedDeliverables": {
+        "platformsCount": 2,
+        "designsCount": 10,
+        "storiesCount": 8,
+        "reelsCountText": "٢ فيديو ريلز شهريًا",
+        "reportingCadence": "تقرير أداء شهري واضح"
+      },
+      "featureBullets": [
+        {
+          "text": "إدارة منصتين سوشال ميديا (مثل إنستغرام وتيك توك أو سناب)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "١٠ تصاميم منشورات احترافية شهريًا بهوية محلّك",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "٨ ستوريز تفاعلية شهريًا",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "٢ مقاطع فيديو قصيرة (Reels / TikTok) شهريًا",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "تجهيز وتحديث ملف المحل في خرائط جوجل (Google Maps)",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "تقرير شهري واضح يوريك نتائج الحساب",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "اطلب عرض سعر لباقة بداية",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة «بداية» الشهرية لمحلي."
+    },
+    "en": {
+      "name": "Bidaya",
+      "positioningSubline": "The first step — for shops building a clean, consistent presence",
+      "badgeText": "",
+      "description": "Ideal for new or growing shops that need active social profiles, Google Maps visibility, and steady monthly content.",
+      "quantifiedDeliverables": {
+        "platformsCount": 2,
+        "designsCount": 10,
+        "storiesCount": 8,
+        "reelsCountText": "2 Reels videos / month",
+        "reportingCadence": "Monthly performance report"
+      },
+      "featureBullets": [
+        {
+          "text": "Management of 2 social media platforms (e.g. Instagram & TikTok/Snap)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "10 branded social feed designs per month",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "8 interactive stories per month",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "2 short-form vertical videos (Reels / TikTok) per month",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "Google Business Profile (Google Maps) setup and optimization",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "Clear monthly summary report",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "Request quote for Bidaya",
+      "whatsappPrefillMessage": "Hello Bayyora team, I would like a quote and details for the monthly \"Bidaya\" package."
+    }
+  },
+  {
+    "displayOrder": 2,
+    "slug": "numow",
+    "packageType": "monthly",
+    "isVisible": true,
+    "isHighlighted": true,
+    "internalPriceSar": 2690,
+    "ar": {
+      "name": "نمو",
+      "positioningSubline": "خيار النمو — للمحلات اللي تبي زباين أكثر وتصوير وإعلانات",
+      "badgeText": "الأكثر طلبًا",
+      "description": "الباقة المتكاملة للمطاعم والكافيهات والصيدليات والمحلات اللي تبي تصوير ميداني شهري وإدارة إعلانات ممولة تجيب زباين للمحل.",
+      "quantifiedDeliverables": {
+        "platformsCount": 3,
+        "designsCount": 16,
+        "storiesCount": 12,
+        "reelsCountText": "٤ فيديو ريلز + زيارة تصوير شهريًا",
+        "reportingCadence": "تقرير أداء مرتين بالشهر"
+      },
+      "featureBullets": [
+        {
+          "text": "إدارة ٣ منصات سوشال ميديا (إنستغرام، تيك توك، سناب شات)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "١٦ تصميم منشورات احترافية شهريًا",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "١٢ ستوري تفاعلي شهريًا",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "٤ مقاطع ريلز وتيك توك شهريًا",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "زيارة تصوير ميدانية للمحل مرة كل شهر (صور وفيديو)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "إدارة الحملات الإعلانية الممولة وتحديث خرائط جوجل",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "تجهيز واتساب الأعمال والردود السريعة + تقرير مرتين بالشهر",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "اطلب عرض سعر لباقة نمو",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة «نمو» الشهرية (الأكثر طلبًا) لمحلي."
+    },
+    "en": {
+      "name": "Numow",
+      "positioningSubline": "The growth choice — for shops ready for on-site shoots & local ads",
+      "badgeText": "Most popular",
+      "description": "Our most popular full-service plan combining social management, a monthly on-site photo/video visit, paid local ads, and WhatsApp setup.",
+      "quantifiedDeliverables": {
+        "platformsCount": 3,
+        "designsCount": 16,
+        "storiesCount": 12,
+        "reelsCountText": "4 Reels + 1 on-site shoot / month",
+        "reportingCadence": "Bi-weekly performance reports"
+      },
+      "featureBullets": [
+        {
+          "text": "Management of 3 social platforms (Instagram, TikTok, Snapchat)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "16 branded social feed designs per month",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "12 interactive stories per month",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "4 short-form vertical Reels/TikToks per month",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "1 on-site photo & video shoot visit at your shop every month",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "Paid ad campaign management + ongoing Google Maps updates",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "WhatsApp Business follow-up setup + bi-weekly reporting",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "Request quote for Numow",
+      "whatsappPrefillMessage": "Hello Bayyora team, I would like a quote and details for the monthly \"Numow\" package."
+    }
+  },
+  {
+    "displayOrder": 3,
+    "slug": "riyada",
+    "packageType": "monthly",
+    "isVisible": true,
+    "isHighlighted": false,
+    "internalPriceSar": 4490,
+    "ar": {
+      "name": "ريادة",
+      "positioningSubline": "حضور كامل — للمحلات اللي تبي تتصدّر السوق المحلي",
+      "badgeText": "",
+      "description": "فريق تسويق كامل لمحلّك أو فروعك: نشر مكثّف، زيارتين تصوير بالشهر، إعلانات متعددة المنصات، وصيانة موقعك ومتجرك.",
+      "quantifiedDeliverables": {
+        "platformsCount": 4,
+        "designsCount": 24,
+        "storiesCount": 30,
+        "reelsCountText": "٦–٨ ريلز + زيارتين تصوير شهريًا",
+        "reportingCadence": "تقرير أسبوعي + مدير حساب مباشر"
+      },
+      "featureBullets": [
+        {
+          "text": "إدارة ٤ منصات سوشال ميديا بالكامل",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "٢٤ تصميم شهريًا + ستوريز يومية طوال الشهر",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "٦ إلى ٨ مقاطع فيديو وريلز احترافية شهريًا",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "زيارتين تصوير ميدانية للمحل كل شهر",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "إدارة إعلانات ممولة شاملة على جميع المنصات وخرائط جوجل",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "صيانة وتحديث الموقع أو المتجر الإلكتروني + أتمتة واتساب",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "تقرير أسبوعي ومدير حساب مباشر معك على الواتساب",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "اطلب عرض سعر لباقة ريادة",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة «ريادة» الشهرية لمحلي."
+    },
+    "en": {
+      "name": "Riyada",
+      "positioningSubline": "Full presence — for established shops leading their local category",
+      "badgeText": "",
+      "description": "A dedicated marketing team for ambitious shops and multi-branch businesses needing intensive content, 2 monthly shoots, and web care.",
+      "quantifiedDeliverables": {
+        "platformsCount": 4,
+        "designsCount": 24,
+        "storiesCount": 30,
+        "reelsCountText": "6–8 Reels + 2 on-site shoots / month",
+        "reportingCadence": "Weekly reports + direct account manager"
+      },
+      "featureBullets": [
+        {
+          "text": "Full management of 4 social media platforms",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "24 monthly designs + daily stories throughout the month",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "6 to 8 vertical Reels/TikTok videos per month",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "2 on-site photo & video shoot visits per month",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "Multi-platform paid advertising & Google Maps management",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "Website/online store maintenance + WhatsApp automation",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "Weekly reporting + dedicated account manager on WhatsApp",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "Request quote for Riyada",
+      "whatsappPrefillMessage": "Hello Bayyora team, I would like a quote and details for the monthly \"Riyada\" package."
+    }
+  },
+  {
+    "displayOrder": 4,
+    "slug": "look",
+    "packageType": "one_time_bundle",
+    "isVisible": true,
+    "isHighlighted": false,
+    "internalPriceSar": 3200,
+    "ar": {
+      "name": "واجهة المحل (Look)",
+      "positioningSubline": "باقة تأسيس لمرة واحدة — هوية ومطبوعات تفتح النفس",
+      "badgeText": "تأسيس لمرة واحدة",
+      "description": "مخصصة للمحلات الجديدة أو اللي بتجدد واجهتها وهويتها ومنيوهاتها دفعة واحدة.",
+      "quantifiedDeliverables": {
+        "reelsCountText": "هوية كاملة + لوحة + منيو + تغليف",
+        "reportingCadence": "تسليم خلال ١٠–١٤ يوم عمل"
+      },
+      "featureBullets": [
+        {
+          "text": "تصميم الشعار والهوية البصرية الكاملة (الألوان والخطوط)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "تصميم لوحة المحل الخارجية وملصقات الواجهة الزجاجية",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "تصميم المنيو أو قائمة الأسعار والخدمات",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "تصميم الأكياس، العلب، أو الأكواب + كرت العمل والختم",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "تسليم جميع الملفات المفتوحة والجاهزة للمطبعة فورًا",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "اطلب باقة واجهة المحل",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة التأسيس «واجهة المحل (Look)»."
+    },
+    "en": {
+      "name": "Shop Look (Starter Bundle)",
+      "positioningSubline": "One-time starter bundle — complete visual identity & shop print kit",
+      "badgeText": "One-time setup",
+      "description": "Designed for new shop openings or existing shops refreshing their logo, storefront signage, menu, and packaging.",
+      "quantifiedDeliverables": {
+        "reelsCountText": "Logo + Sign + Menu + Packaging",
+        "reportingCadence": "Delivered in 10–14 business days"
+      },
+      "featureBullets": [
+        {
+          "text": "Complete logo design and visual identity system (colours & fonts)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "Exterior storefront sign and window decal design",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "Menu or service price list design",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "Branded bags/boxes/cups + business card and stamp design",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "All open source and press-ready files delivered",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "Request Shop Look bundle",
+      "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about the \"Shop Look\" one-time starter bundle."
+    }
+  },
+  {
+    "displayOrder": 5,
+    "slug": "go-online",
+    "packageType": "one_time_bundle",
+    "isVisible": true,
+    "isHighlighted": false,
+    "internalPriceSar": 2400,
+    "ar": {
+      "name": "انطلاقة أونلاين (Go Online)",
+      "positioningSubline": "باقة تأسيس لمرة واحدة — حضور رقمي جاهز من أول يوم",
+      "badgeText": "تأسيس رقمي",
+      "description": "تجهّز لك كل حساباتك وخرائط جوجل وواتساب الأعمال مع ٩ تصاميم وفيديو تعريفي عشان تنطلق صح.",
+      "quantifiedDeliverables": {
+        "designsCount": 9,
+        "reelsCountText": "٩ تصاميم تأسيسية + ١ فيديو تعريفي",
+        "reportingCadence": "تسليم خلال ٧–١٠ أيام عمل"
+      },
+      "featureBullets": [
+        {
+          "text": "إنشاء وترتيب حسابات السوشال ميديا (البايو، الهايلايت، الهوية)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "توثيق وتجهيز ملف المحل في خرائط جوجل بالكامل",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "٩ تصاميم تأسيسية ترتّب واجهة حسابك في إنستغرام",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "١ مقطع فيديو قصير (Reel) تعريفي بالمحل ومنتجاته",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "تجهيز واتساب الأعمال + صفحة روابط موحّدة في البايو",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "اطلب باقة انطلاقة أونلاين",
+      "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة التأسيس «انطلاقة أونلاين (Go Online)»."
+    },
+    "en": {
+      "name": "Go Online (Starter Bundle)",
+      "positioningSubline": "One-time starter bundle — launch your digital & Google Maps presence",
+      "badgeText": "Digital launch",
+      "description": "Gets your shop online fast with styled social accounts, verified Google Maps, WhatsApp Business, 9 starter posts, and 1 intro video.",
+      "quantifiedDeliverables": {
+        "designsCount": 9,
+        "reelsCountText": "9 starter designs + 1 intro video",
+        "reportingCadence": "Delivered in 7–10 business days"
+      },
+      "featureBullets": [
+        {
+          "text": "Social media account setup & styling (bio, highlights, profile branding)",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "Complete Google Business Profile (Google Maps) setup & verification",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "9 foundational grid designs to launch your Instagram profile",
+          "isKeyHighlight": true
+        },
+        {
+          "text": "1 short-form intro video (Reel) showcasing your shop",
+          "isKeyHighlight": false
+        },
+        {
+          "text": "WhatsApp Business setup + unified link-in-bio page",
+          "isKeyHighlight": false
+        }
+      ],
+      "ctaLabel": "Request Go Online bundle",
+      "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about the \"Go Online\" one-time starter bundle."
+    }
+  }
+]

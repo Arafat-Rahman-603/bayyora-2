@@ -1,0 +1,75 @@
+{
+  "displayOrder": 4,
+  "slug": "dammam",
+  "canVisitInPerson": true,
+  "latitude": 26.4207,
+  "longitude": 50.0888,
+  "ar": {
+    "name": "الدمام",
+    "region": "المنطقة الشرقية",
+    "heroHeadline": "حضور قوي لمحلّك أو مطعمك في أسواق الدمام",
+    "heroSubheadline": "في سوق سريع وكبير مثل الدمام، نساعدك تبرز بهوية احترافية، مقاطع ريلز وتيك توك جذابة، وظهور متقدّم في خرائط جوجل.",
+    "localIntro": "تُعد الدمام المركز الإداري والتجاري للمنطقة الشرقية، وتتوزع الحركة الشرائية فيها بين أحياء الشاطئ والفيصلية والريان والفاخرية وطريق الخليج. الزبون في الدمام يملك عشرات البدائل على بُعد دقائق، لذلك يحتاج مشروعك إلى واجهة رقمية سريعة، تقييمات وصور محدثة في جوجل، ومحتوى فيديو يعكس جودة التجربة قبل أن يتحرك الزبون بسيارته.",
+    "commercialZones": [
+      {
+        "zoneName": "حي الشاطئ وطريق الخليج والكورنيش",
+        "businessFocus": "المطاعم البحرية والعالمية، الكافيهات المطلة، ومراكز الترفيه"
+      },
+      {
+        "zoneName": "حي الفيصلية والفاخرية والريان وطريق الملك فهد",
+        "businessFocus": "المجمعات الطبية، الصيدليات، محلات التجزئة، والخدمات التجارية"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "المنافسة مع العلامات التجارية الكبرى والسلاسل",
+        "description": "نمنح مشروعك المحلي مظهرًا احترافيًا يضاهي السلاسل الكبيرة في الهوية والمنيو والموقع الإلكتروني."
+      },
+      {
+        "title": "تحويل مشاهدات الإعلانات إلى زيارات فعلية للفرع",
+        "description": "نربط حملاتك الإعلانية مباشرة بزر الاتجاهات في خرائط جوجل ورسائل الواتساب المباشرة."
+      }
+    ],
+    "visitSectionTitle": "نخدم الدمام عن بُعد وميدانيًا",
+    "visitSectionBody": "نرتّب زيارات تصوير ومعاينة مجدولة لعملائنا في الدمام، مع متابعة يومية مباشرة عبر الواتساب.",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي مشروع في الدمام وأبغى أستفسر عن خدماتكم.",
+    "seo": {
+      "metaTitle": "وكالة تسويق رقمي وتصميم هوية وسوشال ميديا في الدمام | بيّورا",
+      "metaDescription": "خدمات التسويق للمطاعم والكافيهات والمحلات في الدمام: تصميم شعار وهوية، إدارة حسابات، تصوير، وإعلانات خرائط جوجل."
+    }
+  },
+  "en": {
+    "name": "Dammam",
+    "region": "Eastern Province",
+    "heroHeadline": "Stronger digital presence for your shop or restaurant in Dammam",
+    "heroSubheadline": "In Dammam’s fast-moving metropolitan market, we help your business stand out with sharp branding, high-converting Reels, and top local search visibility.",
+    "localIntro": "As the commercial capital of the Eastern Province, Dammam spans vibrant districts from Ash Shati and Al Faisaliyah to Al Rayyan and Gulf Road. Because metropolitan shoppers have endless options minutes away, your business needs polished digital proof, active Google Maps photos, and scroll-stopping video.",
+    "commercialZones": [
+      {
+        "zoneName": "Ash Shati District, Gulf Road & Corniche",
+        "businessFocus": "Waterfront dining, specialty coffee roasters, and lifestyle venues"
+      },
+      {
+        "zoneName": "Al Faisaliyah, Al Fakhiriyah, Al Rayyan & King Fahd Road",
+        "businessFocus": "Medical complexes, pharmacies, retail stores, and service centers"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "Competing alongside major national chains in Dammam",
+        "description": "We give independent Dammam businesses chain-level visual polish across branding, menus, and mobile websites."
+      },
+      {
+        "title": "Turning ad impressions into real branch visits",
+        "description": "We link geo-targeted ad campaigns directly to Google Maps direction taps and WhatsApp ordering."
+      }
+    ],
+    "visitSectionTitle": "Serving Dammam businesses online & on-site",
+    "visitSectionBody": "We schedule dedicated on-site photography and consultation days in Dammam alongside daily WhatsApp account management.",
+    "whatsappPrefillMessage": "Hello Bayyora team, I have a business in Dammam and would like to inquire about your services.",
+    "seo": {
+      "metaTitle": "Digital Marketing, Branding & Social Media Agency in Dammam | Bayyora",
+      "metaDescription": "Brand identity, social media management, video production, and local SEO for businesses in Dammam, Saudi Arabia."
+    }
+  }
+}

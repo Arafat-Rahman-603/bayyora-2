@@ -1,0 +1,115 @@
+{
+  "displayOrder": 4,
+  "slug": "social-media",
+  "iconName": "share-2",
+  "ar": {
+    "name": "السوشال ميديا",
+    "benefitHeadline": "حساباتك حيّة... وأنت مرتاح",
+    "shortDescription": "إدارة حسابات إنستغرام وتيك توك وسناب شات: خطة محتوى، تصاميم، ستوريز، ونشر منتظم.",
+    "heroSubheadline": "بدل ما ينقطع حسابك بالأسابيع لأنك مشغول بالمحل، نمسك عنك التخطيط والتصميم وكتابة المحتوى والنشر بانتظام.",
+    "problemStatement": "صاحب المحل يبدأ بحماس وينشر يومين ثم ينشغل بالبضاعة والموظفين، فيدخل الزبون لحساب المحل ويلقى آخر منشور قبل ٣ شهور ويظن المحل قفّل.",
+    "deliverables": [
+      {
+        "itemText": "ترتيب البايو، الهايلايت، وصورة العرض في إنستغرام وتيك توك وسناب شات"
+      },
+      {
+        "itemText": "خطة محتوى شهرية واضحة تُعتمد معك قبل النشر"
+      },
+      {
+        "itemText": "تصاميم منشورات وستوريز احترافية بهوية محلّك (١٠ إلى ٢٤ تصميم شهريًا حسب الباقة)"
+      },
+      {
+        "itemText": "كتابة نصوص قريبة من الناس باللهجة السعودية البيضاء مع دعوة واضحة للطلب أو الزيارة"
+      },
+      {
+        "itemText": "تقرير شهري واضح يوريك وش اللي تفاعل معه الناس وأثر على الزيارات"
+      }
+    ],
+    "packageInclusionNote": "تشكّل إدارة السوشال ميديا القلب الأساسي للباقات الشهرية الثلاث: «بداية»، «نمو»، و«ريادة».",
+    "processSteps": [
+      {
+        "stepTitle": "نرتّب الحسابات ونضع الخطة",
+        "stepDescription": "نجهّز واجهة الحسابات ونرسل لك خطة الشهر كاملة للموافقة."
+      },
+      {
+        "stepTitle": "نصمّم وننشر في أوقات الذروة",
+        "stepDescription": "ننشر المنشورات والستوريز والريلز بانتظام في الأوقات اللي يتواجد فيها جمهورك."
+      },
+      {
+        "stepTitle": "نراجع الأداء ونطوّر الشهر القادم",
+        "stepDescription": "نشاركك ملخصًا واضحًا لأفضل المنشورات والخطوة الجاية."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "هل أشوف التصاميم قبل ما تنزل بالحساب؟",
+        "answer": "أكيد، نرسل لك المحتوى عبر واتساب للموافقة السريعة قبل جدولته ونشره."
+      },
+      {
+        "question": "من يملك الحسابات وكلمات المرور؟",
+        "answer": "أنت المالك الوحيد ١٠٠٪ لجميع حسابات محلّك، ونحن نعمل كفريق إدارة معتمد دون سحب ملكية أي حساب."
+      }
+    ],
+    "primaryCtaLabel": "أبغى إدارة لحسابات محلّي",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن إدارة حسابات السوشال ميديا لمحلي.",
+    "seo": {
+      "metaTitle": "إدارة حسابات السوشال ميديا للمحلات والمطاعم في الأحساء والشرقية | بيّورا",
+      "metaDescription": "إدارة حسابات إنستغرام وتيك توك وسناب شات للمحلات والمطاعم والكافيهات في الأحساء والدمام والخبر."
+    }
+  },
+  "en": {
+    "name": "Social media",
+    "benefitHeadline": "Active accounts while you run your shop",
+    "shortDescription": "Consistent Instagram, TikTok, and Snapchat management: content planning, designs, stories, and scheduling.",
+    "heroSubheadline": "Instead of letting your accounts go silent while you run the shop, we handle the content calendar, design, copywriting, and consistent posting.",
+    "problemStatement": "Shop owners get busy with daily operations; when a customer checks Instagram and sees the last post was months ago, they assume the shop is closed.",
+    "deliverables": [
+      {
+        "itemText": "Bio optimization, story highlights covers, and profile branding across platforms"
+      },
+      {
+        "itemText": "Clear monthly content calendar reviewed with you before publishing"
+      },
+      {
+        "itemText": "Branded feed posts and stories (10 to 24 monthly designs depending on package)"
+      },
+      {
+        "itemText": "Natural Saudi Arabic copywriting with clear calls-to-action to visit or order"
+      },
+      {
+        "itemText": "Plain-language monthly report showing what resonated with local customers"
+      }
+    ],
+    "packageInclusionNote": "Social media management is the core foundation of all three monthly packages: Bidaya, Numow, and Riyada.",
+    "processSteps": [
+      {
+        "stepTitle": "Optimize profiles & plan",
+        "stepDescription": "We polish your profile bio/highlights and share the monthly content calendar."
+      },
+      {
+        "stepTitle": "Design & publish consistently",
+        "stepDescription": "We publish posts, stories, and reels on schedule during local peak hours."
+      },
+      {
+        "stepTitle": "Review & refine monthly",
+        "stepDescription": "We share a concise summary of top-performing content and next month’s focus."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "Do I review the posts before they go live?",
+        "answer": "Yes, we send content batches via WhatsApp for your quick sign-off before scheduling."
+      },
+      {
+        "question": "Who owns the social media accounts and passwords?",
+        "answer": "You retain 100% ownership of all accounts and credentials at all times."
+      }
+    ],
+    "primaryCtaLabel": "Manage my shop’s social accounts",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about Social Media Management for my shop.",
+    "seo": {
+      "metaTitle": "Social Media Management for Shops in Al Ahsa & Eastern Province | Bayyora",
+      "metaDescription": "Instagram, TikTok, and Snapchat content creation and management for local businesses in Al Ahsa, Dammam, and Khobar."
+    }
+  }
+}

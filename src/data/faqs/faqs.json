@@ -1,0 +1,158 @@
+[
+  {
+    "displayOrder": 1,
+    "category": "pricing_packages",
+    "showOnHomeQuickFaq": true,
+    "ar": {
+      "question": "كم الأسعار؟",
+      "answer": "تعتمد التكلفة على احتياج محلّك الفعلي وحجم الشغل المطلوب (سواء باقة تأسيس لمرة واحدة مثل «واجهة المحل» و«انطلاقة أونلاين»، أو باقة شهرية مثل «بداية» و«نمو» و«ريادة»). ابدأ بطلب التحليل المجاني لمحلّك، وخلال ٤٨ ساعة نرسل لك التوصية المناسبة مع عرض سعر واضح ومفصّل بدون أي التزام."
+    },
+    "en": {
+      "question": "How much do your packages and services cost?",
+      "answer": "Pricing depends on your shop’s actual scope—whether you need a one-time starter bundle (\"Shop Look\" or \"Go Online\") or a monthly growth plan (\"Bidaya\", \"Numow\", or \"Riyada\"). Request your free mini audit and within 48 hours we will send tailored recommendations with a clear, itemized quote."
+    }
+  },
+  {
+    "displayOrder": 2,
+    "category": "work_timing",
+    "showOnHomeQuickFaq": true,
+    "ar": {
+      "question": "متى يبدأ الشغل؟",
+      "answer": "نبدأ خلال ٤٨ ساعة عمل من اعتماد الباقة واستلام البيانات الأساسية، ونرسل لك خطة العمل وجدول التصوير أو التصميم مباشرة عبر الواتساب."
+    },
+    "en": {
+      "question": "How soon do we start after approval?",
+      "answer": "We kick off within 48 business hours of package approval and onboarding, sharing your content calendar and shoot schedule directly via WhatsApp."
+    }
+  },
+  {
+    "displayOrder": 3,
+    "category": "pricing_packages",
+    "showOnHomeQuickFaq": true,
+    "ar": {
+      "question": "فيه عقد طويل يلزمني سنة كاملة؟",
+      "answer": "لا، ما نربطك بعقود سنوية معقدة. باقاتنا الشهرية تتجدد شهريًا بكل مرونة، لأننا نثق إن استمرارك معنا بيكون بسبب النتائج والراحة اللي تشوفها في شغلك."
+    },
+    "en": {
+      "question": "Am I locked into a long-term annual contract?",
+      "answer": "No. We do not lock you into rigid year-long contracts. Our monthly packages run on a flexible month-to-month basis because we earn your renewal through clear execution."
+    }
+  },
+  {
+    "displayOrder": 4,
+    "category": "accounts_payment",
+    "showOnHomeQuickFaq": true,
+    "ar": {
+      "question": "تشتغلون بالتقسيط أو الدفعات؟",
+      "answer": "الباقات الشهرية تُدفع بداية كل شهر عمل، أما مشاريع التأسيس لمرة واحدة (مثل الهوية الكاملة أو بناء المتجر الإلكتروني) فيمكن تقسيمها على دفعتين ميسّرتين: دفعة عند البدء ودفعة عند الاعتماد والتسليم."
+    },
+    "en": {
+      "question": "How do payments and installments work?",
+      "answer": "Monthly retainers are billed at the start of each month. One-time starter bundles and website builds can be split into two convenient milestones: 50% to kick off and 50% upon final approval."
+    }
+  },
+  {
+    "displayOrder": 5,
+    "category": "work_timing",
+    "showOnHomeQuickFaq": true,
+    "ar": {
+      "question": "كيف أبدأ معكم الحين؟",
+      "answer": "بخطوة بسيطة: اضغط زر «اطلب تحليل مجاني» أو راسلنا مباشرة على الواتساب باسم محلّك ومدينتك. بنفحص حساباتك وظهورك في خرائط جوجل ونرد عليك بتقرير عملي خلال ٤٨ ساعة."
+    },
+    "en": {
+      "question": "How do I get started right now?",
+      "answer": "Simply tap \"Request a free audit\" or message us on WhatsApp with your shop name and city. We will review your accounts and Google Maps presence and send back a practical 3-point audit within 48 hours."
+    }
+  },
+  {
+    "displayOrder": 6,
+    "category": "accounts_payment",
+    "showOnHomeQuickFaq": false,
+    "ar": {
+      "question": "لمن تكون ملكية الحسابات والتصاميم والموقع؟",
+      "answer": "كل شيء ملكك ١٠٠٪. حسابات السوشال ميديا، ملف خرائط جوجل، الدومين، الموقع، والملفات المفتوحة للشعار والتصاميم تُسجّل باسمك وتبقى ملكًا لمحلّك دائمًا."
+    },
+    "en": {
+      "question": "Who owns the social accounts, designs, and website?",
+      "answer": "You own 100% of everything. All social accounts, Google Business Profile, domain names, website code/stores, and source design files remain your property at all times."
+    }
+  },
+  {
+    "displayOrder": 7,
+    "category": "work_timing",
+    "showOnHomeQuickFaq": false,
+    "ar": {
+      "question": "هل تزورون المحل للتصوير والمعاينة؟",
+      "answer": "نعم، نزور المحلات ميدانيًا في الأحساء (الهفوف والمبرز) والدمام والخبر والمنطقة الشرقية لتصوير المنتجات والأطباق وواجهة المحل."
+    },
+    "en": {
+      "question": "Do you visit my shop in person for photography?",
+      "answer": "Yes. We conduct on-site visits across Al Ahsa (Hofuf and Mubarraz), Dammam, Khobar, and the Eastern Province for photography, video, and storefront consultations."
+    }
+  },
+  {
+    "displayOrder": 8,
+    "category": "pricing_packages",
+    "showOnHomeQuickFaq": false,
+    "ar": {
+      "question": "هل ميزانية الإعلانات الممولة مشمولة في الباقة؟",
+      "answer": "تجهيز وإدارة ومتابعة الحملات الإعلانية مشمولة في باقتي «نمو» و«ريادة»، بينما ميزانية المنصة الإعلانية نفسها (الرصيد المدفوع لسناب أو تيك توك أو جوجل) يحدّدها صاحب المحل وتُدفع مباشرة للمنصة بشفافية تامة."
+    },
+    "en": {
+      "question": "Is paid ad spend included in the monthly package fee?",
+      "answer": "Ad campaign strategy, setup, and optimization are included in Numow and Riyada. The media spend paid to Snapchat, TikTok, Instagram, or Google is set by you and billed directly to the ad platform."
+    }
+  },
+  {
+    "displayOrder": 9,
+    "category": "service_specific",
+    "showOnHomeQuickFaq": false,
+    "ar": {
+      "question": "ما هو التحليل المجاني وماذا أستفيد منه؟",
+      "answer": "التحليل المجاني هو فحص سريع وعملي يجريه فريقنا لحضور محلّك في خرائط جوجل وحسابات السوشال ميديا، ونرسل لك خلال ٤٨ ساعة على الواتساب ٣ ملاحظات واضحة تقدر تطبقها لتحسين ظهورك وجذب زباين أكثر."
+    },
+    "en": {
+      "question": "What is included in the Free Mini Audit?",
+      "answer": "The Free Mini Audit is a manual review of your shop’s Google Maps listing and social profiles. Within 48 hours, we send you 3 specific, actionable improvements via WhatsApp at zero cost."
+    }
+  },
+  {
+    "displayOrder": 10,
+    "category": "service_specific",
+    "showOnHomeQuickFaq": false,
+    "ar": {
+      "question": "هل أقدر أعدّل على التصاميم قبل النشر؟",
+      "answer": "بكل تأكيد. نرسل لك التصاميم وخطة المحتوى للمراجعة عبر الواتساب قبل النشر، وننفّذ ملاحظاتك وتعديلاتك حتى تكون راضيًا تمامًا."
+    },
+    "en": {
+      "question": "Can I request revisions on designs before they are posted?",
+      "answer": "Absolutely. Every batch of designs and captions is shared with you on WhatsApp for review and adjustments before anything goes live."
+    }
+  },
+  {
+    "displayOrder": 11,
+    "category": "pricing_packages",
+    "showOnHomeQuickFaq": false,
+    "ar": {
+      "question": "هل أقدر أطلب خدمة واحدة فقط بدون اشتراك شهري؟",
+      "answer": "نعم بالتأكيد. جميع خدماتنا التسع (مثل تصميم الشعار والهوية، تصميم المنيو واللوحة، بناء الموقع الإلكتروني، أو جلسة التصوير الميدانية) متاحة كخدمات مفردة حسب الطلب."
+    },
+    "en": {
+      "question": "Can I request a single service without a monthly package?",
+      "answer": "Yes. All 9 of our services—including Brand Identity, Print & Menu Design, Websites, and On-Site Photography—are available individually à la carte."
+    }
+  },
+  {
+    "displayOrder": 12,
+    "category": "accounts_payment",
+    "showOnHomeQuickFaq": false,
+    "ar": {
+      "question": "هل تصدرون فواتير رسمية؟ وما هي طرق الدفع المتاحة؟",
+      "answer": "نعم، نصدر فواتير إلكترونية رسمية بالريال السعودي، ونقبل الدفع عبر التحويل البنكي لحساب المنشأة الرسمي أو وسائل الدفع الإلكترونية المعتمدة في المملكة."
+    },
+    "en": {
+      "question": "Do you issue official invoices and what payment methods do you accept?",
+      "answer": "Yes. We issue official electronic invoices in Saudi Riyals (SAR) and accept bank transfers to our corporate account as well as approved Saudi digital payment methods."
+    }
+  }
+]

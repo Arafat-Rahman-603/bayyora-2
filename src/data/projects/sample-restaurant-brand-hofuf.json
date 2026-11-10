@@ -1,0 +1,93 @@
+{
+  "slug": "sample-restaurant-brand-hofuf",
+  "isSampleConcept": true,
+  "clientPermissionVerified": false,
+  "hasFullCaseStudyPage": false,
+  "serviceCategory": "brand-identity",
+  "businessType": "restaurant",
+  "_status": "published",
+  "ar": {
+    "title": "نموذج توضيحي: هوية بصرية ومنيو وتغليف لمطعم شاورما ومشويات",
+    "cityTag": "الهفوف",
+    "summary": "مثال توضيحي لتوحيد شعار المطعم، اللوحة الخارجية، المنيو، وعلب السفري بهوية تفتح النفس.",
+    "beforeHeadline": "قبل (مطبوعات متفرقة)",
+    "afterHeadline": "بعد (هوية مطعم متكاملة)",
+    "beforeMetrics": [
+      {
+        "label": "الشعار واللوحة",
+        "value": "خط صغير غير واضح بالليل"
+      },
+      {
+        "label": "المنيو",
+        "value": "مزدحم بدون صور للأصناف"
+      },
+      {
+        "label": "أكياس السفري",
+        "value": "أكياس بيضاء سادة بدون اسم"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "الشعار واللوحة",
+        "value": "شعار جريء وألوان واضحة من الشارع"
+      },
+      {
+        "label": "المنيو",
+        "value": "منيو مقسّم يبرز الوجبات العائلية"
+      },
+      {
+        "label": "أكياس السفري",
+        "value": "علب وأكياس مطبوعة مع باركود الطلب"
+      }
+    ],
+    "challengeSummary": "مطعم يعتمد على طلبات السفري والتوصيل لكن تغليفه ومنيوه لا يعكسان نظافة وجودة الأكل.",
+    "solutionSummary": "تصميم حزمة «واجهة المحل»: شعار واضح، لوحة خارجية، منيو مصوّر، وأكياس وعلب سفري مميزة.",
+    "verifiedOutcomeSummary": "نموذج توضيحي لمخرجات خدمتي «الهوية والشعار» و«المطبوعات والواجهات».",
+    "seo": {
+      "metaTitle": "نموذج توضيحي: هوية بصرية ومنيو وتغليف لمطعم شاورما ومشويات | دراسة حالة ونموذج تحول بيّورا",
+      "metaDescription": "مثال توضيحي لتوحيد شعار المطعم، اللوحة الخارجية، المنيو، وعلب السفري بهوية تفتح النفس."
+    }
+  },
+  "en": {
+    "title": "Sample Concept: Brand Identity, Menu & Packaging for Local Grill Restaurant",
+    "cityTag": "Hofuf",
+    "summary": "Illustrative concept unifying a restaurant’s logo, storefront sign, dine-in menu, and takeaway boxes.",
+    "beforeHeadline": "Before (Mismatched Print)",
+    "afterHeadline": "After (Unified Brand Kit)",
+    "beforeMetrics": [
+      {
+        "label": "Logo & Sign",
+        "value": "Hard to read at night"
+      },
+      {
+        "label": "Menu Layout",
+        "value": "Cluttered text-only sheet"
+      },
+      {
+        "label": "Takeaway Packaging",
+        "value": "Plain unbranded bags"
+      }
+    ],
+    "afterMetrics": [
+      {
+        "label": "Logo & Sign",
+        "value": "High-contrast street sign"
+      },
+      {
+        "label": "Menu Layout",
+        "value": "Structured menu highlighting combos"
+      },
+      {
+        "label": "Takeaway Packaging",
+        "value": "Branded boxes with reorder QR"
+      }
+    ],
+    "challengeSummary": "A busy takeaway restaurant whose plain packaging and cluttered menu undersold its food quality.",
+    "solutionSummary": "Complete \"Shop Look\" bundle: bold logo, signage dielines, categorized menu, and custom takeaway packaging.",
+    "verifiedOutcomeSummary": "Illustrative concept showing deliverables from our Brand Identity and Print & Shop Design services.",
+    "seo": {
+      "metaTitle": "Sample Concept: Brand Identity, Menu & Packaging for Local Grill Restaurant | Bayyora Case Study & Transformation",
+      "metaDescription": "Illustrative concept unifying a restaurant’s logo, storefront sign, dine-in menu, and takeaway boxes."
+    }
+  }
+}

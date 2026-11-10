@@ -1,0 +1,75 @@
+{
+  "displayOrder": 3,
+  "slug": "mubarraz",
+  "canVisitInPerson": true,
+  "latitude": 25.4077,
+  "longitude": 49.5903,
+  "ar": {
+    "name": "المبرز",
+    "region": "الأحساء — المنطقة الشرقية",
+    "heroHeadline": "تسويق عملي يرفع مبيعات محلّك في المبرز",
+    "heroSubheadline": "من محاسن والراشدية إلى الشارع الملكي والعيون: نجهّز لمحلّك هوية قوية، محتوى مستمر، وحملات إعلانية توصل لأهل الحي.",
+    "localIntro": "تضم المبرز كثافة سكانية عالية وأحياء حيوية مثل محاسن والراشدية والنزهة والخرس، حيث يبحث السكان يوميًا عن مطاعم عائلية، صالونات، صيدليات، ومحلات خدمات قريبة من منازلهم. نركّز مع أصحاب المشاريع في المبرز على الاستهداف الجغرافي الدقيق حول الحي وتجهيز عروض المواسم والواتساب لخدمة زبائن المنطقة بسرعة.",
+    "commercialZones": [
+      {
+        "zoneName": "حي محاسن والراشدية والشوارع التجارية المحيطة",
+        "businessFocus": "المطاعم، الصالونات النسائية والرجالية، الصيدليات، ومحلات القهوة"
+      },
+      {
+        "zoneName": "الشارع الملكي وحي النزهة والخرس",
+        "businessFocus": "المعارض التجارية، محلات الذهب والعطور، والمستلزمات المنزلية"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "الوصول لسكان الأحياء السكنية القريبة من المحل",
+        "description": "نصمّم حملات سناب وتيك توك وجوجل موجّهة بدقة لنطاق الكيلومترات المحيطة بمحلّك في المبرز."
+      },
+      {
+        "title": "تنظيم طلبات وحجوزات الواتساب وقت الذروة",
+        "description": "نرتّب كتالوج الواتساب والردود التلقائية عشان ما يضيع أي طلب أو حجز في المساء وعطلة نهاية الأسبوع."
+      }
+    ],
+    "visitSectionTitle": "زيارة ميدانية لمحلّك في المبرز",
+    "visitSectionBody": "احجز موعدًا لزيارة فريقنا في المبرز لمعاينة المحل أو تنفيذ جلسة التصوير الفوتوغرافي والفيديو.",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي محل في المبرز وأبغى أستفسر عن خدماتكم.",
+    "seo": {
+      "metaTitle": "تسويق رقمي وتصوير وإدارة حسابات للمحلات في المبرز | بيّورا",
+      "metaDescription": "خدمات التسويق للمحلات والمطاعم والصالونات في المبرز (محاسن، الراشدية، النزهة): سوشال ميديا، تصوير، وخرائط جوجل."
+    }
+  },
+  "en": {
+    "name": "Mubarraz",
+    "region": "Al Ahsa — Eastern Province",
+    "heroHeadline": "Practical marketing that grows your shop in Mubarraz",
+    "heroSubheadline": "From Al Mahasin and Al Rashidiyah to Royal Street: we equip Mubarraz businesses with strong branding, active social media, and neighborhood ads.",
+    "localIntro": "Mubarraz is home to dense residential and commercial neighborhoods including Al Mahasin, Al Rashidiyah, and Al Nuzha, where families look daily for nearby dining, salons, pharmacies, and retail services. We help Mubarraz shop owners capture neighborhood demand through geo-targeted ads and WhatsApp catalogs.",
+    "commercialZones": [
+      {
+        "zoneName": "Al Mahasin & Al Rashidiyah Commercial Streets",
+        "businessFocus": "Family restaurants, salons, pharmacies, and coffee shops"
+      },
+      {
+        "zoneName": "Royal Street, Al Nuzha & Al Khars",
+        "businessFocus": "Retail showrooms, jewelry & oud shops, and home goods"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "Reaching families in surrounding Mubarraz residential blocks",
+        "description": "We run tight radius campaigns on Snapchat, TikTok, and Google Maps targeting households around your Mubarraz location."
+      },
+      {
+        "title": "Managing peak-hour WhatsApp orders and bookings",
+        "description": "We set up WhatsApp Business catalogs and quick replies so evening rush-hour inquiries convert smoothly."
+      }
+    ],
+    "visitSectionTitle": "On-site visits across Mubarraz",
+    "visitSectionBody": "Schedule an in-person visit in Mubarraz for a storefront audit or monthly product/food shoot.",
+    "whatsappPrefillMessage": "Hello Bayyora team, I have a shop in Mubarraz and would like to inquire about your services.",
+    "seo": {
+      "metaTitle": "Digital Marketing, Photography & Social Media in Mubarraz | Bayyora",
+      "metaDescription": "Local marketing, branding, photography, and Google Maps optimization for shops in Mubarraz, Al Ahsa."
+    }
+  }
+}

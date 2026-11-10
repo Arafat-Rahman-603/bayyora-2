@@ -1,0 +1,83 @@
+{
+  "displayOrder": 1,
+  "slug": "al-ahsa",
+  "canVisitInPerson": true,
+  "latitude": 25.38,
+  "longitude": 49.5888,
+  "ar": {
+    "name": "الأحساء",
+    "region": "المنطقة الشرقية",
+    "heroHeadline": "خطوة لفوق لمحلات ومشاريع الأحساء",
+    "heroSubheadline": "فريق تسويق محلي يفهم ذائقة أهل الحسا: نزور محلّك، نصوّر منتجاتك، ونخلّي زباين الواحة يلقونك في خرائط جوجل والسوشال ميديا.",
+    "localIntro": "تتميّز الأحساء بترابط مجتمعها واعتماد أهلها الكبير على التوصيات العائلية وسناب شات وخرائط جوجل قبل تجربة أي مطعم أو كافيه أو محل جديد. من الأسواق التراثية حول القيصرية إلى المجمعات والجادات الحديثة، نساعد أصحاب المحلات في الأحساء على بناء هوية محترمة وحضور رقمي مستمر يترجم جودة بضاعتهم إلى زيارات يومية.",
+    "commercialZones": [
+      {
+        "zoneName": "طريق الملك عبدالله الدائري والجادات الحديثة",
+        "businessFocus": "الكافيهات المختصة، المطاعم العائلية، ومراكز العناية"
+      },
+      {
+        "zoneName": "محيط سوق القيصرية ووسط الواحة التجاري",
+        "businessFocus": "محلات التمور والعود، الحلويات الشعبية، وتجارة التجزئة"
+      },
+      {
+        "zoneName": "طريق الظهران والمجمعات التجارية الكبرى",
+        "businessFocus": "الصيدليات، العيادات، المعارض، والمتاجر المتخصصة"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "المحل معروف عند الجيران لكن ما يظهر للزوار الجدد",
+        "description": "نوثّق ملفك في خرائط جوجل بالصور والأقسام الصحيحة عشان يلقاك كل من يبحث في الأحساء."
+      },
+      {
+        "title": "الحاجة لفريق يزور المحل ميدانيًا للتصوير",
+        "description": "فريقنا قريب منك في الأحساء، يجيك للمحل لتصوير الأصناف الجديدة والعروض بدون تكاليف سفر إضافية."
+      }
+    ],
+    "visitSectionTitle": "نمرّ عليك في محلّك بالأحساء",
+    "visitSectionBody": "سواء كان محلّك في الهفوف أو المبرز أو القرى الشرقية والشمالية، نقدر نرتّب زيارة ميدانية لمعاينة الواجهة وتصوير المنتجات ومناقشة خطة النمو وجهًا لوجه.",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي محل في الأحساء وأبغى أستفسر عن خدماتكم أو حجز زيارة.",
+    "seo": {
+      "metaTitle": "وكالة تسويق رقمي وتصوير وهوية للمحلات في الأحساء | بيّورا",
+      "metaDescription": "خدمات التسويق للمحلات والمطاعم والكافيهات في الأحساء: تصميم هوية، إدارة سوشال ميديا، تصوير ميداني، وخرائط جوجل."
+    }
+  },
+  "en": {
+    "name": "Al Ahsa",
+    "region": "Eastern Province",
+    "heroHeadline": "One step up for shops & businesses in Al Ahsa",
+    "heroSubheadline": "A local marketing partner rooted in Al Ahsa: we visit your storefront, photograph your products, and connect you with customers across the oasis.",
+    "localIntro": "Al Ahsa boasts a deeply connected community where family word-of-mouth, Snapchat stories, and Google Maps reviews drive daily shopping decisions. From heritage corridors near Qaisariah to modern boulevards, we help Al Ahsa merchants turn product quality into steady foot traffic.",
+    "commercialZones": [
+      {
+        "zoneName": "King Abdullah Ring Road & Modern Boulevards",
+        "businessFocus": "Specialty cafes, family dining, and beauty lounges"
+      },
+      {
+        "zoneName": "Qaisariah Heritage Market & Central Oasis",
+        "businessFocus": "Dates, oud boutiques, traditional sweets, and retail shops"
+      },
+      {
+        "zoneName": "Dhahran Road & Major Retail Plazas",
+        "businessFocus": "Pharmacies, clinics, showrooms, and specialty stores"
+      }
+    ],
+    "merchantChallenges": [
+      {
+        "title": "Known on the block, invisible on Google Maps",
+        "description": "We verify and enrich your Google Business Profile so oasis residents and weekend visitors find you first."
+      },
+      {
+        "title": "Need for reliable on-site photography visits",
+        "description": "Our local crew visits your shop directly in Al Ahsa to shoot seasonal menus and products on schedule."
+      }
+    ],
+    "visitSectionTitle": "We visit your shop in Al Ahsa",
+    "visitSectionBody": "Whether your business is in central Al Ahsa, Hofuf, or Mubarraz, you can book an in-person storefront visit and photography session.",
+    "whatsappPrefillMessage": "Hello Bayyora team, I have a shop in Al Ahsa and would like to inquire about your services.",
+    "seo": {
+      "metaTitle": "Digital Marketing, Photography & Branding Agency in Al Ahsa | Bayyora",
+      "metaDescription": "Local digital marketing, brand identity, on-site photography, and Google Maps SEO for shops in Al Ahsa, Saudi Arabia."
+    }
+  }
+}

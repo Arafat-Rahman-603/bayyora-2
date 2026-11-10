@@ -1,0 +1,78 @@
+{
+  "publicPricingEnabled": false,
+  "siteName": {
+    "ar": "بيّورا (Bayyora)",
+    "en": "Bayyora"
+  },
+  "siteTagline": {
+    "ar": "خطوة لفوق لمحلّك",
+    "en": "One step up for your shop"
+  },
+  "phoneNumber": "+966138880000",
+  "primaryPhoneE164": "+966138880000",
+  "whatsappNumber": "+966551234567",
+  "contactEmail": "hello@bayyora.com",
+  "businessEmail": "hello@bayyora.com",
+  "commercialRegistrationNumber": "2050123456",
+  "headquartersAddress": {
+    "ar": "المملكة العربية السعودية، الأحساء / الهفوف",
+    "en": "Kingdom of Saudi Arabia, Al Ahsa / Hofuf"
+  },
+  "workingHours": {
+    "ar": "الأحد – الخميس، ٩ ص إلى ٦ م • نخدم الأحساء والشرقية",
+    "en": "Sun – Thu, 9 AM to 6 PM • Serving Al Ahsa & Eastern Province"
+  },
+  "serviceAreasSummary": {
+    "ar": "الأحساء • الهفوف • المبرز • الدمام • الخبر",
+    "en": "Al Ahsa • Hofuf • Mubarraz • Dammam • Khobar"
+  },
+  "globalAuditCtaText": {
+    "ar": "اطلب تحليل مجاني لمحلّك",
+    "en": "Request a Free Mini Audit"
+  },
+  "globalWhatsappPrefillMessage": {
+    "ar": "السلام عليكم فريق بيّورا، شفت موقعكم وأبغى أستفسر عن خدماتكم وتطوير محلي.",
+    "en": "Hello Bayyora team, I visited your website and would like to inquire about your services for my shop."
+  },
+  "defaultMetaTitleSuffix": {
+    "ar": " | بيّورا (Bayyora)",
+    "en": " | Bayyora"
+  },
+  "defaultMetaDescription": {
+    "ar": "بيّورا — وكالة تسويق وهوية وتصوير للمحلات والمطاعم والكافيهات في الأحساء والشرقية. نخلّي محلّك يبان ويجيب زباين أكثر.",
+    "en": "Bayyora — Saudi digital marketing, branding, print & photography agency for local shops and restaurants in Al Ahsa & Eastern Province."
+  },
+  "foundingClientOffer": {
+    "ar": {
+      "enabled": true,
+      "badge": "عرض العملاء المؤسسين",
+      "title": "خصم ٢٠٪ على أول ٣ أشهر لأول ١٠ محلات في الأحساء والشرقية",
+      "description": "احجز مكان محلك الآن واستفد من أولوية الزيارات الميدانية والتصوير.",
+      "slotsRemaining": 4,
+      "ctaLabel": "احجز مقعد محلك في العرض"
+    },
+    "en": {
+      "enabled": true,
+      "badge": "Founding Client Offer",
+      "title": "20% off for the first 3 months for the first 10 businesses in Al Ahsa & Eastern Province",
+      "description": "Reserve your shop spot now and get priority on-site shoots and consultations.",
+      "slotsRemaining": 4,
+      "ctaLabel": "Claim your founding spot"
+    }
+  },
+  "announcementBar": {
+    "ar": {
+      "enabled": false,
+      "text": "نخدم المحلات والمشاريع في الأحساء والمنطقة الشرقية",
+      "linkText": "اطلب التحليل المجاني",
+      "linkUrl": "/free-audit"
+    },
+    "en": {
+      "enabled": false,
+      "text": "Serving local businesses across Al Ahsa and Eastern Province",
+      "linkText": "Free Audit",
+      "linkUrl": "/free-audit"
+    }
+  },
+  "googleMapsVerificationStatus": "verified_active"
+}

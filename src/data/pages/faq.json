@@ -1,0 +1,27 @@
+{
+  "slug": "faq",
+  "isLegalPage": false,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "عندك سؤال؟ هنا كل الإجابات بوضوح",
+    "subtitle": "جمعنا لك أكثر الأسئلة اللي يسألنا إياها أصحاب المحلات والمطاعم عن الأسعار، طريقة الشغل، ملكية الحسابات، وزيارات التصوير.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، عندي استفسار إضافي غير موجود في صفحة الأسئلة الشائعة.",
+    "seo": {
+      "metaTitle": "الأسئلة الشائعة حول خدمات وباقات وأسعار بيّورا | بيّورا",
+      "metaDescription": "إجابات واضحة حول باقات التسويق الشهرية، ملكية الحسابات والملفات، مواعيد البدء، وزيارات التصوير الميدانية في الأحساء والشرقية."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Have a question? Straightforward answers before you start",
+    "subtitle": "Clear answers to the most common questions shop owners ask about pricing, timelines, account ownership, and on-site photography.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "Hello Bayyora team, I have a question about your services.",
+    "seo": {
+      "metaTitle": "Frequently Asked Questions — Pricing, Ownership & Process | Bayyora",
+      "metaDescription": "Find clear answers about Bayyora’s monthly packages, 100% client account ownership, 48-hour kickoff, and Eastern Province visits."
+    },
+    "layout": []
+  }
+}

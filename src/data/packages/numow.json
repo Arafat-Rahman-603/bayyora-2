@@ -1,0 +1,98 @@
+{
+  "displayOrder": 2,
+  "slug": "numow",
+  "packageType": "monthly",
+  "isVisible": true,
+  "isHighlighted": true,
+  "internalPriceSar": 2690,
+  "ar": {
+    "name": "نمو",
+    "positioningSubline": "خيار النمو — للمحلات اللي تبي زباين أكثر وتصوير وإعلانات",
+    "badgeText": "الأكثر طلبًا",
+    "description": "الباقة المتكاملة للمطاعم والكافيهات والصيدليات والمحلات اللي تبي تصوير ميداني شهري وإدارة إعلانات ممولة تجيب زباين للمحل.",
+    "quantifiedDeliverables": {
+      "platformsCount": 3,
+      "designsCount": 16,
+      "storiesCount": 12,
+      "reelsCountText": "٤ فيديو ريلز + زيارة تصوير شهريًا",
+      "reportingCadence": "تقرير أداء مرتين بالشهر"
+    },
+    "featureBullets": [
+      {
+        "text": "إدارة ٣ منصات سوشال ميديا (إنستغرام، تيك توك، سناب شات)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "١٦ تصميم منشورات احترافية شهريًا",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "١٢ ستوري تفاعلي شهريًا",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "٤ مقاطع ريلز وتيك توك شهريًا",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "زيارة تصوير ميدانية للمحل مرة كل شهر (صور وفيديو)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "إدارة الحملات الإعلانية الممولة وتحديث خرائط جوجل",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "تجهيز واتساب الأعمال والردود السريعة + تقرير مرتين بالشهر",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "اطلب عرض سعر لباقة نمو",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن باقة «نمو» الشهرية (الأكثر طلبًا) لمحلي."
+  },
+  "en": {
+    "name": "Numow",
+    "positioningSubline": "The growth choice — for shops ready for on-site shoots & local ads",
+    "badgeText": "Most popular",
+    "description": "Our most popular full-service plan combining social management, a monthly on-site photo/video visit, paid local ads, and WhatsApp setup.",
+    "quantifiedDeliverables": {
+      "platformsCount": 3,
+      "designsCount": 16,
+      "storiesCount": 12,
+      "reelsCountText": "4 Reels + 1 on-site shoot / month",
+      "reportingCadence": "Bi-weekly performance reports"
+    },
+    "featureBullets": [
+      {
+        "text": "Management of 3 social platforms (Instagram, TikTok, Snapchat)",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "16 branded social feed designs per month",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "12 interactive stories per month",
+        "isKeyHighlight": false
+      },
+      {
+        "text": "4 short-form vertical Reels/TikToks per month",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "1 on-site photo & video shoot visit at your shop every month",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "Paid ad campaign management + ongoing Google Maps updates",
+        "isKeyHighlight": true
+      },
+      {
+        "text": "WhatsApp Business follow-up setup + bi-weekly reporting",
+        "isKeyHighlight": false
+      }
+    ],
+    "ctaLabel": "Request quote for Numow",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like a quote and details for the monthly \"Numow\" package."
+  }
+}

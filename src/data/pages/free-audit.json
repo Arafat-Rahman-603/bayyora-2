@@ -1,0 +1,27 @@
+{
+  "slug": "free-audit",
+  "isLegalPage": false,
+  "updatedAt": "2026-03-01T00:00:00.000Z",
+  "ar": {
+    "title": "اطلب تحليل مجاني لمحلّك — توصيات عملية خلال ٤٨ ساعة",
+    "subtitle": "عبّي بيانات محلّك في أقل من دقيقة. فريقنا بيفحص حساباتك وظهورك في خرائط جوجل يدويًا، ويرسل لك على الواتساب ٣ ملاحظات عملية واضحة ترفع حضورك — مجانًا وبدون أي التزام.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أطلب التحليل المجاني لمحلي.",
+    "seo": {
+      "metaTitle": "اطلب تحليل تسويقي مجاني لمحلّك وحساباتك وخرائط جوجل | بيّورا",
+      "metaDescription": "احصل على فحص وتحليل مجاني لحضور محلّك في خرائط جوجل وحسابات السوشال ميديا مع ٣ توصيات عملية تصلك على الواتساب خلال ٤٨ ساعة."
+    },
+    "layout": []
+  },
+  "en": {
+    "title": "Request a free mini audit for your shop — delivered in 48 hours",
+    "subtitle": "Fill in 6 quick details below. Our team will manually inspect your Google Maps listing and social profiles, and send 3 practical improvements to your WhatsApp within 48 hours—free and with zero obligation.",
+    "legalBodyMarkdown": "",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to request a Free Mini Audit for my shop.",
+    "seo": {
+      "metaTitle": "Free Mini Marketing & Google Maps Audit for Your Shop | Bayyora",
+      "metaDescription": "Get a free 48-hour review of your shop’s Google Maps listing and social media accounts with 3 actionable recommendations sent via WhatsApp."
+    },
+    "layout": []
+  }
+}

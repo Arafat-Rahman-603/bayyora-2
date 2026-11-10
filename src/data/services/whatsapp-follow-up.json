@@ -1,0 +1,109 @@
+{
+  "displayOrder": 8,
+  "slug": "whatsapp-follow-up",
+  "iconName": "message-circle",
+  "ar": {
+    "name": "واتساب ومتابعة العملاء",
+    "benefitHeadline": "ما يضيع منك زبون",
+    "shortDescription": "تجهيز واتساب أعمال: ردود سريعة، كتالوج منتجات، رسائل ترحيب، ونظام متابعة للطلبات.",
+    "heroSubheadline": "نرتّب حساب واتساب الأعمال لمحلّك بحيث يحصل الزبون على المنيو والموقع والأسعار فورًا حتى لو كنت مشغولًا مع زبائن المحل.",
+    "problemStatement": "تدفع على الإعلانات ويدخلون الناس يسألون بالواتساب «بكم؟» أو «وين موقعكم؟»، وبسبب ضغط الشغل يتأخر الرد ساعتين فيبرد الزبون ويطلب من مكان ثاني.",
+    "deliverables": [
+      {
+        "itemText": "إعداد ملف واتساب الأعمال الكامل (ساعات العمل، الموقع على الخريطة، الوصف، والروابط)"
+      },
+      {
+        "itemText": "بناء كتالوج المنتجات أو الخدمات داخل الواتساب بالصور والأسعار"
+      },
+      {
+        "itemText": "برمجة رسائل الترحيب التلقائية ورسائل خارج أوقات الدوام والردود السريعة الجاهزة"
+      },
+      {
+        "itemText": "تصنيف المحادثات (طلب جديد، بانتظار الدفع، تم التسليم، زبون دائم) لسهولة المتابعة"
+      }
+    ],
+    "packageInclusionNote": "مشمولة في باقة «انطلاقة أونلاين» التأسيسية، وباقتي «نمو» و«ريادة» الشهريتين.",
+    "processSteps": [
+      {
+        "stepTitle": "نجمع أكثر الأسئلة المتكررة",
+        "stepDescription": "نحصر الأسئلة اللي تتكرر عليك يوميًا (المنيو، الموقع، التوصيل، الأسعار)."
+      },
+      {
+        "stepTitle": "نبني الكتالوج والردود الجاهزة",
+        "stepDescription": "نرفع الأصناف ونضبط الردود التلقائية والتصنيفات في جوال المحل."
+      },
+      {
+        "stepTitle": "ندرب الكاشير أو الموظف في ١٥ دقيقة",
+        "stepDescription": "نشرح للموظف كيف يرد بضغطة زر ويتابع الطلبات بدون لخبطة."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "هل أحتاج رقم جوال جديد لواتساب الأعمال؟",
+        "answer": "يمكنك استخدام رقم المحل الحالي وتحويله إلى واتساب الأعمال مع الاحتفاظ بجميع المحادثات، أو تخصيص رقم مستقل لطلبات المحل."
+      },
+      {
+        "question": "هل أنتم تردون على الزبائن يوميًا أم تجهزون النظام لموظف المحل؟",
+        "answer": "نحن نجهّز لك النظام المتكامل (الكتالوج، الردود التلقائية، القوالب السريعة، والتصنيفات) وندرب موظفك أو الكاشير ليرد في ثوانٍ، لأن موظف المحل هو الأقدر على تأكيد توفر الصنف وتجهيز الطلب فورًا."
+      }
+    ],
+    "primaryCtaLabel": "أبغى أرتّب واتساب محلّي",
+    "whatsappPrefillMessage": "السلام عليكم فريق بيّورا، أبغى أستفسر عن تجهيز واتساب الأعمال ومتابعة العملاء لمحلي.",
+    "seo": {
+      "metaTitle": "تجهيز واتساب الأعمال ومتابعة العملاء للمحلات في السعودية | بيّورا",
+      "metaDescription": "إعداد واتساب الأعمال، كتالوج المنتجات، الردود التلقائية، ونظام متابعة الزبائن للمحلات والمطاعم في الأحساء والشرقية."
+    }
+  },
+  "en": {
+    "name": "WhatsApp and follow-up",
+    "benefitHeadline": "Never lose a customer message",
+    "shortDescription": "WhatsApp Business setup with quick replies, product catalogue, automated greetings, and lead follow-up.",
+    "heroSubheadline": "We structure your WhatsApp Business so customers instantly get your menu, location pin, and answers even during your busiest rush hours.",
+    "problemStatement": "You spend money on ads, customers message on WhatsApp asking for prices or location, and a 2-hour delay during rush hour loses the sale.",
+    "deliverables": [
+      {
+        "itemText": "Complete WhatsApp Business profile setup (hours, map pin, description, links)"
+      },
+      {
+        "itemText": "In-app WhatsApp product/service catalogue with photos and pricing"
+      },
+      {
+        "itemText": "Automated greeting messages, away messages, and structured quick-reply templates"
+      },
+      {
+        "itemText": "Conversation labels and follow-up workflows so no inquiry falls through the cracks"
+      }
+    ],
+    "packageInclusionNote": "Included in the \"Go Online\" starter bundle as well as the monthly Numow and Riyada packages.",
+    "processSteps": [
+      {
+        "stepTitle": "Map common customer questions",
+        "stepDescription": "We list the top questions your shop receives daily (menu, location, delivery, hours)."
+      },
+      {
+        "stepTitle": "Configure catalogue & quick replies",
+        "stepDescription": "We upload your catalogue items and configure instant replies and labels."
+      },
+      {
+        "stepTitle": "15-minute staff walkthrough",
+        "stepDescription": "We show your counter staff how to reply in seconds and tag leads cleanly."
+      }
+    ],
+    "serviceFaqs": [
+      {
+        "question": "Do I need a new phone number for WhatsApp Business?",
+        "answer": "You can convert your existing shop number to WhatsApp Business while keeping all chat history, or use a dedicated shop line."
+      },
+      {
+        "question": "Do you reply to daily customer chats or set up the system for my staff?",
+        "answer": "We build the complete system (catalogue, automated greetings, quick-reply shortcuts, and labels) and train your counter staff so they can confirm stock and fulfill orders in seconds."
+      }
+    ],
+    "primaryCtaLabel": "Set up WhatsApp for my shop",
+    "whatsappPrefillMessage": "Hello Bayyora team, I would like to inquire about WhatsApp Business & Follow-up setup.",
+    "seo": {
+      "metaTitle": "WhatsApp Business Setup & Customer Follow-Up for Saudi Shops | Bayyora",
+      "metaDescription": "WhatsApp Business catalogue, instant replies, and customer follow-up systems for local shops in Saudi Arabia."
+    }
+  }
+}
